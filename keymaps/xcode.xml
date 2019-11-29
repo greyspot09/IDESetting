@@ -1,5 +1,8 @@
 <keymap version="1" name="xcode" parent="Mac OS X 10.5+">
   <action id="ActivateMessagesToolWindow" />
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl back_quote" />
+  </action>
   <action id="Android.CleanRun" />
   <action id="Back">
     <keyboard-shortcut first-keystroke="meta open_bracket" />
@@ -34,9 +37,6 @@
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SendEOF" />
   <action id="SurroundWith" />
-  <action id="Terminal.OpenInTerminal">
-    <keyboard-shortcut first-keystroke="ctrl back_quote" />
-  </action>
   <action id="Vcs.Log.Refresh" />
   <action id="Vcs.UpdateProject" />
   <action id="ViewToolBar">
