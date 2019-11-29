@@ -25,6 +25,7 @@
     <mouse-shortcut keystroke="button2" />
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
+  <action id="QuickChangeScheme" />
   <action id="Refresh" />
   <action id="Replace" />
   <action id="Run">
@@ -33,6 +34,9 @@
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SendEOF" />
   <action id="SurroundWith" />
+  <action id="Terminal.OpenInTerminal">
+    <keyboard-shortcut first-keystroke="ctrl back_quote" />
+  </action>
   <action id="Vcs.Log.Refresh" />
   <action id="Vcs.UpdateProject" />
   <action id="ViewToolBar">
