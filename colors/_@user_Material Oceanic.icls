@@ -4,13 +4,13 @@
     <property name="created">2019-12-03T23:29:29</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.5.2.0</property>
-    <property name="modified">2020-01-16T16:53:19</property>
+    <property name="modified">2020-01-16T17:44:16</property>
     <property name="originalScheme">Material Oceanic</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
   <font>
     <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_SIZE" value="13" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Menlo" />
