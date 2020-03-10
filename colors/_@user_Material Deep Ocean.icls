@@ -4,7 +4,7 @@
     <property name="created">2020-01-14T08:57:27</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.5.3.0</property>
-    <property name="modified">2020-01-19T11:40:04</property>
+    <property name="modified">2020-03-10T10:13:59</property>
     <property name="originalScheme">Material Deep Ocean</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -1042,7 +1042,6 @@
       </value>
     </option>
     <option name="JSP_DIRECTIVE_NAME" baseAttributes="" />
-    <option name="KOTLIN_ANNOTATION" baseAttributes="ANNOTATION_NAME_ATTRIBUTES" />
     <option name="KOTLIN_BACKING_FIELD_VARIABLE">
       <value />
     </option>
