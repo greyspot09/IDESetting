@@ -1,6 +1,20 @@
 <application>
-  <component name="VimSettings">
-    <state version="5" enabled="true" />
+  <component name="VimEditorSettings">
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
@@ -21,9 +35,106 @@
         <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
-    <editor>
-      <key-repeat enabled="true" />
-    </editor>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/workspace/StarschinaTV8/common/src/main/java/com/dopool/common/util/DataEncryptInterceptor.java" timestamp="1587541969096">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
+        <mark key="^" line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/StarschinaTV8/config.gradle" timestamp="1587541178360">
+        <mark key="[" line="8" column="44" />
+        <mark key="]" line="8" column="45" />
+        <mark key="." line="8" column="45" />
+      </file>
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/ADUnit.kt" timestamp="1587537437453">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="14" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="/fragment.kt" timestamp="1587540083441">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/MainActivity.kt" timestamp="1587536521875">
+        <mark key="'" line="66" column="11" />
+        <mark key="[" line="44" column="47" />
+        <mark key="]" line="81" column="50" />
+        <mark key="^" line="81" column="53" />
+        <mark key="." line="81" column="50" />
+      </file>
+      <file name="/fragment.java" timestamp="1587541600696">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="94" column="79" filename="$USER_HOME$/workspace/StarschinaTV8/module_play/src/main/java/com/dopool/module_play/play/viewmodel/vod/VodDataViewModel.kt" />
+      <jump line="73" column="0" filename="$USER_HOME$/workspace/StarschinaTV8/module_base_component/src/main/java/com/starschina/sdk/player/players/PlayerInterface.kt" />
+      <jump line="307" column="32" filename="$USER_HOME$/workspace/StarschinaTV8/module_play/src/main/java/com/dopool/module_play/play/fragments/live/LiveFragment.kt" />
+      <jump line="71" column="11" filename="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/MainActivity.kt" />
+      <jump line="75" column="11" filename="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/MainActivity.kt" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuaSgibGl1Y2llbiIsIGdldFNEUGF0aCgpKTsK</text>
+      </register>
+      <register name="-" type="4">
+        <text>/</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTG9nLmkoImxpdWNlaW4iLCAibm8gUkVBRF9QSE9ORV9TVEFURSBwZXJtaXNzaW9uIikK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuaSgibGl1Y2llbiIsIGdldFNEUGF0aCgpKTsK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text>//    private val id = 0
+//    private val name: String? = null
+//    private val type = 0
+//    private val provider_id = 0
+//    private val placement_id: String? = null
+//    private val placement_type = 0
+//    private val content_type = 0</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />
