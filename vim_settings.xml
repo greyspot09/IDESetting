@@ -39,33 +39,42 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/StarschinaTV8/common/src/main/java/com/dopool/common/util/DataEncryptInterceptor.java" timestamp="1587541969096">
+      <file name="$USER_HOME$/workspace/StarschinaTV8/common/src/main/java/com/dopool/common/util/DataEncryptInterceptor.java" timestamp="1587547091558">
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="0" />
         <mark key="." line="52" column="0" />
         <mark key="^" line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/ADUnit.kt" timestamp="1587548296984">
+        <mark key="[" line="25" column="20" />
+        <mark key="]" line="25" column="20" />
+        <mark key="." line="25" column="20" />
+      </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/org/json/JSONArray.java" timestamp="1587546470222" />
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/StubModel.kt" timestamp="1587547858864">
+        <mark key="[" line="92" column="16" />
+        <mark key="]" line="92" column="16" />
+        <mark key="^" line="76" column="39" />
+        <mark key="." line="92" column="16" />
+      </file>
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_base_component/src/main/java/com/dopool/module_base_component/data/request/AppRequest.kt" timestamp="1587547464745" />
+      <file name="/fragment.kt" timestamp="1587540083441">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/MainActivity.kt" timestamp="1587548346258">
+        <mark key="[" line="137" column="0" />
+        <mark key="]" line="137" column="0" />
+        <mark key="." line="137" column="0" />
+        <mark key="^" line="137" column="5" />
       </file>
       <file name="$USER_HOME$/workspace/StarschinaTV8/config.gradle" timestamp="1587541178360">
         <mark key="[" line="8" column="44" />
         <mark key="]" line="8" column="45" />
         <mark key="." line="8" column="45" />
       </file>
-      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/ADUnit.kt" timestamp="1587537437453">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="14" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="/fragment.kt" timestamp="1587540083441">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/MainActivity.kt" timestamp="1587536521875">
-        <mark key="'" line="66" column="11" />
-        <mark key="[" line="44" column="47" />
-        <mark key="]" line="81" column="50" />
-        <mark key="^" line="81" column="53" />
-        <mark key="." line="81" column="50" />
-      </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/org/json/JSONObject.java" timestamp="1587546463241" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/protocol/AdBeanX.java" timestamp="1587547517919" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_base_component/src/main/java/com/dopool/module_base_component/data/net/bean/RspConfig.kt" timestamp="1587547113219" />
       <file name="/fragment.java" timestamp="1587541600696">
         <mark key="[" line="0" column="0" />
       </file>
@@ -81,22 +90,22 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuaSgibGl1Y2llbiIsIGdldFNEUGF0aCgpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>TODO(&quot;not implemented&quot;) //To change initializer of created properties use File | Settings | File Templates.</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nLmkoImxpdWNlaW4iLCAibm8gUkVBRF9QSE9ORV9TVEFURSBwZXJtaXNzaW9uIikK</text>
+        <text encoding="base64">Ly8gICAgICAgIExvZy5pKG1UYWcsICIke2NvbmZpZ30iKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuaSgibGl1Y2llbiIsIGdldFNEUGF0aCgpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -108,16 +117,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text>//    private val id = 0
-//    private val name: String? = null
-//    private val type = 0
-//    private val provider_id = 0
-//    private val placement_id: String? = null
-//    private val placement_type = 0
-//    private val content_type = 0</text>
+        <text encoding="base64">Ly8gICAgdmFsIGlkOiBJbnQKLy8gICAgdmFsIG5hbWU6IFN0cmluZwovLyAgICB2YWwgcmVmcmVzaF9pbnRlcnZhbDogSW50Ci8vICAgIHZhbCB1bml0czogQXJyYXk8QURVbml0Pg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xhc3MgCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
