@@ -58,12 +58,8 @@
         <mark key="." line="2" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/utils/UrlFormatUtils.kt" timestamp="1587630570153" />
-      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/loader/ADPluginEvent.kt" timestamp="1587625429972">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="43" column="3" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/Downloads/GDT_unionNormal_Android_SDK_4/Demo/src/main/java/com/qq/e/union/demo/DemoListActivity.java" timestamp="1587632520035" />
+      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/14f77f201e74ea34ccd9a76a7398b8f2/jars/classes.jar!/com/qq/e/ads/nativ/MediaView.class" timestamp="1587635367971" />
       <file name="$USER_HOME$/Downloads/GDT_unionNormal_Android_SDK_4/Demo/build.gradle" timestamp="1587632277207">
         <mark key="[" line="28" column="23" />
         <mark key="]" line="28" column="24" />
@@ -78,7 +74,7 @@
         <mark key="." line="20" column="43" />
       </file>
       <file name="$USER_HOME$/Downloads/GDT_unionNormal_Android_SDK_4/Demo/src/main/AndroidManifest.xml" timestamp="1587632263631" />
-      <file name="$USER_HOME$/Downloads/GDT_unionNormal_Android_SDK_4/Demo/src/main/java/com/qq/e/union/demo/NativeADUnifiedListViewActivity.java" timestamp="1587633468425" />
+      <file name="$USER_HOME$/Downloads/GDT_unionNormal_Android_SDK_4/Demo/src/main/java/com/qq/e/union/demo/NativeADUnifiedListViewActivity.java" timestamp="1587635676240" />
       <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/PlayerActivity.kt" timestamp="1587631018917">
         <mark key="[" line="28" column="8" />
         <mark key="]" line="30" column="72" />
@@ -94,7 +90,7 @@
       <file name="$USER_HOME$/Downloads/GDT_unionNormal_Android_SDK_4/Demo/src/main/java/com/qq/e/union/demo/DemoApplication.java" timestamp="1587632583274" />
       <file name="$APPLICATION_HOME_DIR$/jre/jdk/Contents/Home/jre/lib/rt.jar!/org/omg/PortableServer/POAManagerPackage/AdapterInactive.class" timestamp="1587625859636" />
       <file name="$USER_HOME$/Downloads/GDT_unionNormal_Android_SDK_4/Demo/src/main/java/com/qq/e/union/demo/NativeVideoListDemoActivity.java" timestamp="1587633067319" />
-      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/loader/GDT/GDTNativeV2.kt" timestamp="1587631699731">
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/loader/GDT/GDTNativeV2.kt" timestamp="1587634877050">
         <mark key="[" line="26" column="64" />
         <mark key="]" line="39" column="25" />
         <mark key="." line="39" column="24" />
