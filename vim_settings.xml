@@ -42,18 +42,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/ADUnit.kt" timestamp="1587625353009">
-        <mark key="[" line="1" column="26" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/StubModel.kt" timestamp="1587624323094">
-        <mark key="[" line="126" column="45" />
-        <mark key="]" line="11" column="58" />
-        <mark key="^" line="126" column="60" />
-        <mark key="." line="11" column="58" />
-      </file>
       <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/loader/ADPlugin.kt" timestamp="1587628902901">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -90,6 +78,7 @@
         <mark key="." line="20" column="43" />
       </file>
       <file name="$USER_HOME$/Downloads/GDT_unionNormal_Android_SDK_4/Demo/src/main/AndroidManifest.xml" timestamp="1587632263631" />
+      <file name="$USER_HOME$/Downloads/GDT_unionNormal_Android_SDK_4/Demo/src/main/java/com/qq/e/union/demo/NativeADUnifiedListViewActivity.java" timestamp="1587633468425" />
       <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/PlayerActivity.kt" timestamp="1587631018917">
         <mark key="[" line="28" column="8" />
         <mark key="]" line="30" column="72" />
@@ -104,13 +93,14 @@
       </file>
       <file name="$USER_HOME$/Downloads/GDT_unionNormal_Android_SDK_4/Demo/src/main/java/com/qq/e/union/demo/DemoApplication.java" timestamp="1587632583274" />
       <file name="$APPLICATION_HOME_DIR$/jre/jdk/Contents/Home/jre/lib/rt.jar!/org/omg/PortableServer/POAManagerPackage/AdapterInactive.class" timestamp="1587625859636" />
+      <file name="$USER_HOME$/Downloads/GDT_unionNormal_Android_SDK_4/Demo/src/main/java/com/qq/e/union/demo/NativeVideoListDemoActivity.java" timestamp="1587633067319" />
       <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/loader/GDT/GDTNativeV2.kt" timestamp="1587631699731">
         <mark key="[" line="26" column="64" />
         <mark key="]" line="39" column="25" />
         <mark key="." line="39" column="24" />
         <mark key="^" line="39" column="25" />
       </file>
-      <file name="$USER_HOME$/Downloads/GDT_unionNormal_Android_SDK_4/Demo/src/main/java/com/qq/e/union/demo/NativeADUnifiedSampleActivity.java" timestamp="1587632715085" />
+      <file name="$USER_HOME$/Downloads/GDT_unionNormal_Android_SDK_4/Demo/src/main/java/com/qq/e/union/demo/NativeADUnifiedSampleActivity.java" timestamp="1587632871603" />
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/android/content/Context.java" timestamp="1587626518060" />
       <file name="$USER_HOME$/Downloads/GDT_unionNormal_Android_SDK_4/Demo/proguard-project.txt" timestamp="1587632238424" />
     </filemarks>
