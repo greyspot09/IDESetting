@@ -51,8 +51,7 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.anko/commons-base/0.10.8/a7b9886dd34c114aebcbcd7c492855425b2300e1/commons-base-0.10.8-sources.jar!/Helpers.kt" timestamp="1587890883841">
         <mark key="[" line="48" column="56" />
       </file>
-      <file name="$USER_HOME$/Downloads/GDT_unionNormal_Android_SDK_4/Demo/src/main/java/com/qq/e/union/demo/DemoListActivity.java" timestamp="1587872492193" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/common/src/main/java/com/dopool/common/BaseApplication.kt" timestamp="1587892428267" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/common/src/main/java/com/dopool/common/BaseApplication.kt" timestamp="1587892434366" />
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/placement/banner/GDTBannerAdTypeBannerUnified.java" timestamp="1587882158732" />
       <file name="/Dummy.txt" timestamp="1587885252681">
         <mark key="[" line="0" column="0" />
@@ -70,11 +69,12 @@
       <file name="$USER_HOME$/Downloads/GDT_unionNormal_Android_SDK_4/Demo/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/qq/e/union/demo/NativeADUnifiedListViewActivity.class" timestamp="1587872553363" />
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/placement/banner/GDTBannerAdTypeBanner.java" timestamp="1587882220071" />
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/placement/banner/BaseBannerAd.java" timestamp="1587882328784" />
-      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/loader/GDT/GDTNativeV2.kt" timestamp="1587881093001">
-        <mark key="'" line="39" column="88" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/loader/GDT/GDTNativeV2.kt" timestamp="1587893487648">
+        <mark key="'" line="57" column="21" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
+        <mark key="^" line="61" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -85,6 +85,7 @@
       <jump line="75" column="11" filename="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/MainActivity.kt" />
       <jump line="42" column="44" filename="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/loader/ADLoader.kt" />
       <jump line="39" column="88" filename="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/loader/GDT/GDTNativeV2.kt" />
+      <jump line="57" column="21" filename="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/loader/GDT/GDTNativeV2.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -93,7 +94,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>layout</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGxpc3Rlbi5hZEV2ZW50KHRoaXMsIEFEUGx1Z2luRXZlbnQuUmVxdWVzdEZhaWwoKSkK</text>
@@ -102,28 +103,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb250YWluZXJWaWV3Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCBjb250YWluZXJWaWV3OiBWaWV3Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBjb250YWluZXJWaWV3Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCAK</text>
+        <text encoding="base64">ICAgIHZhbCBjb250YWluZXJWaWV3OiBWaWV3Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbCBjb250aW5lclZpZXc6IAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
