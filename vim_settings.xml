@@ -42,27 +42,22 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Library/Android/sdk/platforms/android-28/android.jar!/android/app/Instrumentation.class" timestamp="1587889378405" />
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/placement/banner/PlayingAdView.java" timestamp="1587882878935" />
       <file name="$USER_HOME$/Library/Android/sdk/platforms/android-28/android.jar!/android/os/Handler.class" timestamp="1587883178589" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/placement/pre/BasePreAd.java" timestamp="1587883260483" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/utils/UrlFormatUtils.kt" timestamp="1587869105756" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/common/src/main/java/com/dopool/common/HookInstrumentationBackUp.java" timestamp="1587889494640" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/placement/pre/BasePreAd.java" timestamp="1587888685136" />
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/placement/pre/PreAdManager.java" timestamp="1587883097576" />
       <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/loader/ADPluginEvent.kt" timestamp="1587871509212">
         <mark key="[" line="7" column="21" />
       </file>
       <file name="$USER_HOME$/Downloads/GDT_unionNormal_Android_SDK_4/Demo/src/main/java/com/qq/e/union/demo/DemoListActivity.java" timestamp="1587872492193" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/common/src/main/java/com/dopool/common/BaseApplication.kt" timestamp="1587888870342" />
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/placement/banner/GDTBannerAdTypeBannerUnified.java" timestamp="1587882158732" />
       <file name="/Dummy.txt" timestamp="1587885252681">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/GDT_unionNormal_Android_SDK_4/Demo/src/main/java/com/qq/e/union/demo/NativeADUnifiedActivity.java" timestamp="1587883266105" />
-      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/loader/ADLoader.kt" timestamp="1587871149927">
-        <mark key="'" line="56" column="44" />
-        <mark key="[" line="65" column="43" />
-        <mark key="]" line="20" column="43" />
-        <mark key="^" line="52" column="35" />
-        <mark key="." line="20" column="43" />
-      </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/android/view/View.java" timestamp="1587873548982">
         <mark key="[" line="10730" column="9" />
       </file>
