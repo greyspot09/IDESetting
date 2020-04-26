@@ -52,7 +52,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/loader/ADLoader.kt" timestamp="1587629093975">
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/loader/ADLoader.kt" timestamp="1587871149927">
         <mark key="'" line="56" column="44" />
         <mark key="[" line="65" column="43" />
         <mark key="]" line="20" column="43" />
@@ -64,11 +64,10 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/PlayerActivity.kt" timestamp="1587631018917">
-        <mark key="[" line="28" column="8" />
-        <mark key="]" line="30" column="72" />
-        <mark key="^" line="30" column="72" />
-        <mark key="." line="30" column="71" />
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/PlayerActivity.kt" timestamp="1587871123424">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/loader/Constant.kt" timestamp="1587628982979">
         <mark key="[" line="2" column="23" />
@@ -82,11 +81,14 @@
         <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/utils/UrlFormatUtils.kt" timestamp="1587869105756" />
-      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/loader/GDT/GDTNativeV2.kt" timestamp="1587869731894">
-        <mark key="[" line="26" column="64" />
-        <mark key="]" line="39" column="25" />
-        <mark key="." line="39" column="24" />
-        <mark key="^" line="39" column="25" />
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/loader/ADPluginEvent.kt" timestamp="1587871509212">
+        <mark key="[" line="7" column="21" />
+      </file>
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/loader/GDT/GDTNativeV2.kt" timestamp="1587871501906">
+        <mark key="[" line="32" column="67" />
+        <mark key="]" line="32" column="67" />
+        <mark key="." line="32" column="67" />
+        <mark key="^" line="29" column="51" />
       </file>
     </filemarks>
     <jumps>
@@ -101,40 +103,40 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>+ &quot;-adManage&quot;</text>
+        <text>request</text>
       </register>
       <register name="-" type="4">
-        <text>+ &quot;-adManage&quot;</text>
+        <text>request</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGxpc3Rlbi5hZEV2ZW50KHRoaXMsIEFEUGx1Z2luRXZlbnQuUmVxdWVzdEZhaWwoKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGluaXRBRCgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHAwLmNvdW50KCkgPjAgLCAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIG5hdGl2ZUFETGlzdGVuZXI6IE5hdGl2ZUFEVW5pZmllZExpc3RlbmVyCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBnZXQoKSB7Cg==</text>
+        <text encoding="base64">ICAgIHZhbCAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVE9ETygpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbXBhbmlvbiBvYmplY3QK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIG5hdGl2ZUFETGlzdGVuZXI6IE5hdGl2ZUFEVW5pZmllZExpc3RlbmVyCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
