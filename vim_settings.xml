@@ -43,22 +43,23 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_splash/src/main/java/com/dopool/module_splash/adapter/guide/BindingAppsAdapter.kt" timestamp="1587973658611" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_finance/src/main/java/com/dopool/module_finance/view/activity/RealTimeFinanceDataActivity.kt" timestamp="1587976285646" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_base_component/src/main/java/com/dopool/module_base_component/broadcast/PushBroadCastReceiver.kt" timestamp="1587976219529" />
       <file name="$USER_HOME$/workspace/StarschinaTV8/common/src/main/java/com/dopool/common/HookInstrumentationBackUp.java" timestamp="1587975601502" />
       <file name="$USER_HOME$/Downloads/GDT_unionNormal_Android_SDK_4/Demo/src/main/java/com/qq/e/union/demo/BannerActivity.java" timestamp="1587975196131" />
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_splash/src/main/java/com/dopool/module_splash/presenter/guide/GuideActivityContract.kt" timestamp="1587973703414" />
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_splash/src/main/java/com/dopool/module_splash/presenter/guide/GuideActivityPresenter.kt" timestamp="1587973698833" />
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_splash/src/main/java/com/dopool/module_splash/presenter/guide/AdGuideFragmentContract.kt" timestamp="1587973668125" />
       <file name="$USER_HOME$/workspace/StarschinaTV8/common/src/main/java/com/dopool/common/BaseApplication.kt" timestamp="1587975522904" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/main/CoinMainAdapter.kt" timestamp="1587973556163" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_splash/src/main/java/com/dopool/module_splash/adapter/guide/BindingApp.kt" timestamp="1587973653552" />
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_base_component/src/main/java/com/dopool/module_base_component/ui/fragment/pagefragment/adapter/ChannelRow_1_Image_ViewBinder.kt" timestamp="1587975284790" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_base_component/src/main/java/com/dopool/module_base_component/ui/fragment/HomeChildFragmentFactory.kt" timestamp="1587975907194" />
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_live/src/main/java/com/dopool/module_live/adapter/morestation/MoreTvStationDetailViewBinder.kt" timestamp="1587975423661" />
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_base_component/src/main/java/com/dopool/module_base_component/ui/fragment/pagefragment/PageFragment.kt" timestamp="1587975299001" />
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_splash/src/main/java/com/dopool/module_splash/presenter/guide/AdGuideFragmentPresenter.kt" timestamp="1587973671403" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/main/CoinActivity.kt" timestamp="1587973515884" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_base_component/src/main/java/com/dopool/module_base_component/service/push/pushplatform/OfflineMessageActivity.kt" timestamp="1587975911241" />
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_live/src/main/java/com/dopool/module_live/presenter/morestation/MoreTvStationListContract.kt" timestamp="1587975436734" />
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_base_component/src/main/java/com/dopool/module_base_component/ui/fragment/pagefragment/adapter/ChannelRow_NavFinance_ViewBinder.kt" timestamp="1587975321959" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_base_component/src/main/java/com/dopool/module_base_component/service/push/PushManager.kt" timestamp="1587975149804" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_base_component/src/main/java/com/dopool/module_base_component/service/push/PushManager.kt" timestamp="1587976152799" />
       <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/loader/GDT/GDTNativeV2.kt" timestamp="1587974511086">
         <mark key="'" line="63" column="123" />
         <mark key="[" line="162" column="74" />
@@ -66,7 +67,6 @@
         <mark key="." line="61" column="3" />
         <mark key="^" line="61" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/adtask/watchvideo/AdWatchVideoPresenter.kt" timestamp="1587973592870" />
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_live/src/main/java/com/dopool/module_live/view/live/LivePageFragment.kt" timestamp="1587975453495" />
     </filemarks>
     <jumps>
