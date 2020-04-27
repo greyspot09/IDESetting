@@ -47,7 +47,7 @@
         <mark key="[" line="48" column="56" />
       </file>
       <file name="$USER_HOME$/Downloads/GDT_unionNormal_Android_SDK_4/Demo/src/main/java/com/qq/e/union/demo/NativeExpressRecyclerViewActivity.java" timestamp="1587958458627" />
-      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e67d4a5db28e091e669ef782b86ad87d/jetified-GDTSDK.union.4.90.960/jars/classes.jar!/com/qq/e/ads/nativ/NativeUnifiedADData.class" timestamp="1587960626744" />
+      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e67d4a5db28e091e669ef782b86ad87d/jetified-GDTSDK.union.4.90.960/jars/classes.jar!/com/qq/e/ads/nativ/NativeUnifiedADData.class" timestamp="1587962710126" />
       <file name="$USER_HOME$/workspace/StarschinaTV8/common/src/main/java/com/dopool/common/BaseApplication.kt" timestamp="1587953789054" />
       <file name="/Dummy.txt" timestamp="1587885252681">
         <mark key="[" line="0" column="0" />
@@ -62,20 +62,26 @@
       </file>
       <file name="$USER_HOME$/Downloads/GDT_unionNormal_Android_SDK_4/Demo/src/main/java/com/qq/e/union/demo/DeviceInfoActivity.java" timestamp="1587958424898" />
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/android/view/ViewGroup.java" timestamp="1587960099384" />
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/AndroidManifest.xml" timestamp="1587964096969">
+        <mark key="[" line="6" column="80" />
+      </file>
       <file name="$USER_HOME$/workspace/ADExample2/app/src/main/res/layout/activity_player.xml" timestamp="1587954688176">
         <mark key="[" line="11" column="43" />
         <mark key="]" line="11" column="59" />
         <mark key="." line="11" column="58" />
         <mark key="^" line="11" column="59" />
       </file>
-      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/loader/GDT/GDTNativeV2.kt" timestamp="1587960674173">
-        <mark key="'" line="63" column="123" />
-        <mark key="[" line="78" column="43" />
-        <mark key="]" line="79" column="0" />
-        <mark key="." line="79" column="0" />
-        <mark key="^" line="82" column="20" />
+      <file name="$USER_HOME$/workspace/ADExample2/app/build.gradle" timestamp="1587964133873">
+        <mark key="[" line="51" column="74" />
       </file>
-      <file name="$USER_HOME$/Downloads/GDT_unionNormal_Android_SDK_4/Demo/src/main/java/com/qq/e/union/demo/NativeADUnifiedSampleActivity.java" timestamp="1587959901675" />
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/loader/GDT/GDTNativeV2.kt" timestamp="1587965102689">
+        <mark key="'" line="63" column="123" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+        <mark key="^" line="83" column="17" />
+      </file>
+      <file name="$USER_HOME$/Downloads/GDT_unionNormal_Android_SDK_4/Demo/src/main/java/com/qq/e/union/demo/NativeADUnifiedSampleActivity.java" timestamp="1587964751976" />
     </filemarks>
     <jumps>
       <jump line="94" column="79" filename="$USER_HOME$/workspace/StarschinaTV8/module_play/src/main/java/com/dopool/module_play/play/viewmodel/vod/VodDataViewModel.kt" />
@@ -92,27 +98,22 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWQuYmluZE1lZGlhVmlldyhtZWRpYVZpZXcsIG9iamVjdDogTmF0aXZlQURNZWRpYUxpc3RlbmVyIHsKCiAgICAgICAgICAgIH0p</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>MediaStore.Audio.Media</text>
+        <text>.</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHZhbCBsYXlvdXRQYXJhbXMgPSBWaWV3R3JvdXAuTGF5b3V0UGFyYW1zKFZpZXdHcm91cC5MYXlvdXRQYXJhbXMuTUFUQ0hfUEFSRU5ULCBWaWV3R3JvdXAuTGF5b3V0UGFyYW1zLk1BVENIX1BBUkVOVCApCi8vICAgICAgICBjb250YWluZXJWaWV3LmFkZFZpZXcoYWRWaWV3LCBjb250YWluZXJWaWV3LmNoaWxkQ291bnQgLGxheW91dFBhcmFtcykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaW5pdEFEKHAwWzBdKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWQuYmluZE1lZGlhVmlldyhtZWRpYVZpZXcsIG9iamVjdDogTmF0aXZlQURNZWRpYUxpc3RlbmVyIHsKCiAgICAgICAgICAgIH0p</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text>private fun NativeUnifiedADData.bindMediaView(
-    mediaView: MediaView,
-    nativeADMediaListener: NativeADMediaListener
-) {
-    TODO(&quot;not implemented&quot;) //To change body of created functions use File | Settings | File Templates.
-}</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5idWlsZCgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWVkaWFWaWUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -124,7 +125,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWQuYmluZE1lZGlhVmlldygpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
