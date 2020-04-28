@@ -42,28 +42,18 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/shop/TencentShopActivity.kt" timestamp="1587977152013" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_finance/src/main/java/com/dopool/module_finance/view/activity/RealTimeFinanceDataActivity.kt" timestamp="1587976285646" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_base_component/src/main/java/com/dopool/module_base_component/broadcast/PushBroadCastReceiver.kt" timestamp="1587976219529" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/common/src/main/java/com/dopool/common/HookInstrumentationBackUp.java" timestamp="1587975601502" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_splash/src/main/java/com/dopool/module_splash/presenter/guide/GuideActivityPresenter.kt" timestamp="1587977446788" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_main/src/main/java/com/dopool/module_main/view/activity/MainActivity.kt" timestamp="1587976574322" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/common/src/main/java/com/dopool/common/BaseApplication.kt" timestamp="1587975522904" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/app/proguard-rules.pro" timestamp="1587978025338">
+      <file name="$USER_HOME$/Downloads/constraintlayout_sample/.gitignore" timestamp="1588036381720" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/app/proguard-rules.pro" timestamp="1587978945217">
         <mark key="'" line="49" column="46" />
       </file>
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_my/src/main/java/com/dopool/module_my/adapter/Item_ContentViewBinder.kt" timestamp="1587976869559" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/app/build.gradle" timestamp="1587977537426" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_base_component/src/main/java/com/dopool/module_base_component/ui/fragment/HomeChildFragmentFactory.kt" timestamp="1587975907194" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_live/src/main/java/com/dopool/module_live/adapter/morestation/MoreTvStationDetailViewBinder.kt" timestamp="1587975423661" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_main/src/main/java/com/dopool/module_main/task/AppDataRunnable.kt" timestamp="1587976665209" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_my/src/main/java/com/dopool/module_my/view/fragments/mine/HomeMineFragment.kt" timestamp="1587976826209" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_my/src/main/java/com/dopool/module_my/adapter/Item_ServiceViewBinder2.kt" timestamp="1587976957036" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_base_component/src/main/java/com/dopool/module_base_component/service/push/pushplatform/OfflineMessageActivity.kt" timestamp="1587975911241" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_base_component/src/main/java/com/dopool/module_base_component/aroute/ARouterUtil.kt" timestamp="1587976780643" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_live/src/main/java/com/dopool/module_live/presenter/morestation/MoreTvStationListContract.kt" timestamp="1587975436734" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_base_component/src/main/java/com/dopool/module_base_component/service/push/PushManager.kt" timestamp="1587976152799" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_live/src/main/java/com/dopool/module_live/view/live/LivePageFragment.kt" timestamp="1587975453495" />
+      <file name="$USER_HOME$/Downloads/constraintlayout_sample/gradlew" timestamp="1588036403713" />
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/loader/GDT/GDTNativeV2.kt" timestamp="1587982017746">
+        <mark key="'" line="63" column="123" />
+        <mark key="[" line="163" column="22" />
+        <mark key="]" line="164" column="29" />
+        <mark key="." line="164" column="28" />
+        <mark key="^" line="164" column="29" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="94" column="79" filename="$USER_HOME$/workspace/StarschinaTV8/module_play/src/main/java/com/dopool/module_play/play/viewmodel/vod/VodDataViewModel.kt" />
@@ -81,8 +71,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -91,31 +81,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGxpc3Rlbi5hZEV2ZW50KHRoaXNAR0RUTmF0aXZlVjIsQURQbHVnaW5FdmVudC5DbGljaygpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgbWFyZ2luUGFyYW1zID0gVmlldwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgbGF5b3V0UGFyYW1zIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBGcmFtZUxheW91dC5sYXlvdQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBWaWV3R3JvdXAuTGF5b3V0UGFyYW1zKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZ1biBwcmVMb2FkKGFkOiBOYXRpdmVVbmlmaWVkQUREYXRhKSB7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">PCEtLSAgICAgICAgYW5kcm9pZDpoYXJkd2FyZUFjY2VsZXJhdGVkPSJ0cnVlIi0tPgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2xpY2thYmxlVmlld3MuYWRkKG1lZGlhVmlldykK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBMaW5lYXJMYXlvdXQK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBSZWxhdGl2ZUxheW91dC5MYXlvdXRQYXJhbXMK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBGcmFtZUxheW91dC4K</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
