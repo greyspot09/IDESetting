@@ -48,10 +48,11 @@
         <mark key="." line="9" column="12" />
         <mark key="^" line="9" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_base_component/src/main/java/com/dopool/module_base_component/ad/BootSuspensionAdManager.kt" timestamp="1588045471988" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_base_component/src/main/java/com/dopool/module_base_component/ad/BootSuspensionAdManager.kt" timestamp="1588054118073" />
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_main/src/main/java/com/dopool/module_main/view/activity/MainActivity.kt" timestamp="1588045319870" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/common/AdManager.java" timestamp="1588045456676" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/common/AdManager.java" timestamp="1588054167999" />
       <file name="$USER_HOME$/Downloads/constraintlayout_sample/.gitignore" timestamp="1588036381720" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/common/SplashAdRequest.java" timestamp="1588054177120" />
       <file name="$USER_HOME$/Downloads/constraintlayout_sample/app/src/main/res/layout/item2_linear.xml" timestamp="1588038171873" />
       <file name="$USER_HOME$/Downloads/constraintlayout_sample/app/src/main/res/layout/item1_constraint.xml" timestamp="1588039368248">
         <mark key="[" line="23" column="0" />
@@ -62,6 +63,7 @@
       <file name="$USER_HOME$/workspace/StarschinaTV8/app/proguard-rules.pro" timestamp="1587978945217">
         <mark key="'" line="49" column="46" />
       </file>
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/common/AdQueueData.java" timestamp="1588054122051" />
       <file name="$USER_HOME$/Downloads/constraintlayout_sample/gradlew" timestamp="1588036403713" />
       <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/loader/GDT/GDTNativeV2.kt" timestamp="1587982017746">
         <mark key="'" line="63" column="123" />
