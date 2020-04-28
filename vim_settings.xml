@@ -49,8 +49,13 @@
         <mark key="^" line="9" column="13" />
       </file>
       <file name="$USER_HOME$/Downloads/constraintlayout_sample/.gitignore" timestamp="1588036381720" />
-      <file name="$USER_HOME$/Downloads/constraintlayout_sample/app/src/main/res/layout/item2_linear.xml" timestamp="1588038162689" />
-      <file name="$USER_HOME$/Downloads/constraintlayout_sample/app/src/main/res/layout/item1_constraint.xml" timestamp="1588037147042" />
+      <file name="$USER_HOME$/Downloads/constraintlayout_sample/app/src/main/res/layout/item2_linear.xml" timestamp="1588038171873" />
+      <file name="$USER_HOME$/Downloads/constraintlayout_sample/app/src/main/res/layout/item1_constraint.xml" timestamp="1588039318687">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="63" />
+        <mark key="." line="23" column="62" />
+        <mark key="^" line="23" column="63" />
+      </file>
       <file name="$USER_HOME$/workspace/StarschinaTV8/app/proguard-rules.pro" timestamp="1587978945217">
         <mark key="'" line="49" column="46" />
       </file>
@@ -80,40 +85,40 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3UK</text>
+        <text encoding="base64">PCEtLSAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludExlZnRfdG9MZWZ0T2Y9InBhcmVudCItLT4K</text>
       </register>
       <register name="-" type="4">
-        <text>match_parent</text>
+        <text>t</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGxpc3Rlbi5hZEV2ZW50KHRoaXNAR0RUTmF0aXZlVjIsQURQbHVnaW5FdmVudC5DbGljaygpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3UK</text>
+        <text encoding="base64">PCEtLSAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludExlZnRfdG9MZWZ0T2Y9InBhcmVudCItLT4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgbWFyZ2luUGFyYW1zID0gVmlldwo=</text>
+        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3UK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgbGF5b3V0UGFyYW1zIAo=</text>
+        <text encoding="base64">ICAgICAgICBsZXQgbWFyZ2luUGFyYW1zID0gVmlldwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBGcmFtZUxheW91dC5sYXlvdQo=</text>
+        <text encoding="base64">ICAgICAgICBsZXQgbGF5b3V0UGFyYW1zIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBWaWV3R3JvdXAuTGF5b3V0UGFyYW1zKCkK</text>
+        <text encoding="base64">ICAgICAgICBGcmFtZUxheW91dC5sYXlvdQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBWaWV3R3JvdXAuTGF5b3V0UGFyYW1zKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBMaW5lYXJMYXlvdXQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBSZWxhdGl2ZUxheW91dC5MYXlvdXRQYXJhbXMK</text>
+        <text encoding="base64">ICAgICAgICBMaW5lYXJMYXlvdXQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBGcmFtZUxheW91dC4K</text>
+        <text encoding="base64">ICAgICAgICBSZWxhdGl2ZUxheW91dC5MYXlvdXRQYXJhbXMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
