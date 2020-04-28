@@ -45,7 +45,7 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/protocol/AdBeanX.java" timestamp="1588056948673" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_base_component/src/main/java/com/dopool/module_base_component/ad/BootSuspensionAdManager.kt" timestamp="1588065158243">
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_base_component/src/main/java/com/dopool/module_base_component/ad/BootSuspensionAdManager.kt" timestamp="1588065833933">
         <mark key="'" line="147" column="24" />
         <mark key="[" line="54" column="43" />
         <mark key="]" line="137" column="0" />
