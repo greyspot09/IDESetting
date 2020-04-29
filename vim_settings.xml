@@ -57,12 +57,14 @@
         <mark key="." line="9" column="12" />
         <mark key="^" line="9" column="13" />
       </file>
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/main/CoinContract.kt" timestamp="1588124005305" />
       <file name="$USER_HOME$/Downloads/constraintlayout_sample/app/src/main/res/layout/item1_constraint.xml" timestamp="1588068465691">
         <mark key="[" line="20" column="33" />
         <mark key="]" line="21" column="36" />
         <mark key="." line="21" column="35" />
         <mark key="^" line="21" column="36" />
       </file>
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/main/CoinActivity.kt" timestamp="1588124019602" />
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_base_component/src/main/java/com/dopool/module_base_component/ad/BootSuspensionAdManager.kt" timestamp="1588066040209">
         <mark key="'" line="147" column="24" />
         <mark key="[" line="54" column="43" />
@@ -86,6 +88,7 @@
       <file name="/fragment.java" timestamp="1588059211303">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/view/sign/BreadcrumbsView.kt" timestamp="1588123780093" />
     </filemarks>
     <jumps>
       <jump line="94" column="79" filename="$USER_HOME$/workspace/StarschinaTV8/module_play/src/main/java/com/dopool/module_play/play/viewmodel/vod/VodDataViewModel.kt" />
