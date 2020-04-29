@@ -47,14 +47,14 @@
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_splash/src/main/java/com/dopool/module_splash/view/guide/activity/GuideActivity.kt" timestamp="1588128952688" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.trello.rxlifecycle2/rxlifecycle-components/2.2.2/7c83060f9c2b42e0ef13b9ce168930cab599e4f/rxlifecycle-components-2.2.2-sources.jar!/com/trello/rxlifecycle2/components/support/RxAppCompatActivity.java" timestamp="1588128060912" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core-common/1.0.0/fbe00e9f1a3138c7d138fe4e02724366e9e42f24/kotlinx-coroutines-core-common-1.0.0-sources.jar!/Builders.common.kt" timestamp="1588131955231" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_base_component/src/main/java/com/dopool/module_base_component/ad/BootSuspensionAdManager.kt" timestamp="1588132806784">
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_base_component/src/main/java/com/dopool/module_base_component/ad/BootSuspensionAdManager.kt" timestamp="1588134504663">
         <mark key="'" line="152" column="24" />
-        <mark key="[" line="63" column="59" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_splash/src/main/java/com/dopool/module_splash/presenter/guide/GuideActivityPresenter.kt" timestamp="1588128858697" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_main/src/main/java/com/dopool/module_main/view/activity/MainActivity.kt" timestamp="1588133601017">
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_main/src/main/java/com/dopool/module_main/view/activity/MainActivity.kt" timestamp="1588134472749">
         <mark key="'" line="877" column="22" />
         <mark key="[" line="848" column="0" />
         <mark key="]" line="848" column="88" />
@@ -110,7 +110,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuaSgibGl1Y2llbiIsICJsaXVjaWVuIG1Cb290U3VzcGVuc2lvbj8uaXNTaG93bjoke21Cb290U3VzcGVuc2lvbj8uaXNTaG93bn0iKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IHRydWU=</text>
@@ -125,28 +125,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzQEJvb3RTdXNwZW5zaW9uQWRNYW5hZ2VyLmlzU2hvd24gPSB0cnVlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIGlzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zdGFyc2NoaW5hLnNkay5iYXNlLnV0aWxzLkxvZwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nLgo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIGlzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZC51dGlsLkxvZwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zdGFyc2NoaW5hLnNkay5iYXNlLnV0aWxzLkxvZwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly9pbXBvcnQgY29tLnN0YXJzY2hpbmEuc2RrLmJhc2UudXRpbHMuTG9nCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuaSgiIEJvb3RTdXNwZW5zaW9uQWRNYW5hZ2VyIiwgImFkIHJlcG9ydCAke3JlY29yZH0iKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZC51dGlsLkxvZwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly9pbXBvcnQgY29tLnN0YXJzY2hpbmEuc2RrLmJhc2UudXRpbHMuTG9nCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
