@@ -54,10 +54,10 @@
         <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_splash/src/main/java/com/dopool/module_splash/presenter/guide/GuideActivityPresenter.kt" timestamp="1588128858697" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_main/src/main/java/com/dopool/module_main/view/activity/MainActivity.kt" timestamp="1588132976012">
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_main/src/main/java/com/dopool/module_main/view/activity/MainActivity.kt" timestamp="1588133601017">
         <mark key="'" line="877" column="22" />
-        <mark key="[" line="168" column="0" />
-        <mark key="]" line="168" column="0" />
+        <mark key="[" line="848" column="0" />
+        <mark key="]" line="848" column="88" />
         <mark key="^" line="851" column="27" />
         <mark key="." line="168" column="0" />
       </file>
@@ -110,7 +110,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBMb2cuaSgibGl1Y2llbiIsICJsaXVjaWVuIG1Cb290U3VzcGVuc2lvbj8uaXNTaG93bjoke21Cb290U3VzcGVuc2lvbj8uaXNTaG93bn0iKQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IHRydWU=</text>
@@ -119,7 +119,7 @@
         <text encoding="base64">XDxzaG93QXBwU3RhcnRBZFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5pKCJNYWluQWN0aXZpdHkiLCAibGl1Y2llbiBCb290U3VzcGVuc2lvbkFkTWFuYWdlciBvblBvcFdpbmRvd0NsaWNrTGlzdGVuZXIiKQo=</text>
+        <text encoding="base64">ICAgICAgICBMb2cuaSgibGl1Y2llbiIsICJsaXVjaWVuIG1Cb290U3VzcGVuc2lvbj8uaXNTaG93bjoke21Cb290U3VzcGVuc2lvbj8uaXNTaG93bn0iKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
