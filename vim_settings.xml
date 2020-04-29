@@ -44,7 +44,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.trello.rxlifecycle2/rxlifecycle-components/2.2.2/7c83060f9c2b42e0ef13b9ce168930cab599e4f/rxlifecycle-components-2.2.2-sources.jar!/com/trello/rxlifecycle2/components/support/RxAppCompatActivity.java" timestamp="1588127267318" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_splash/src/main/java/com/dopool/module_splash/view/guide/activity/GuideActivity.kt" timestamp="1588128952688" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.trello.rxlifecycle2/rxlifecycle-components/2.2.2/7c83060f9c2b42e0ef13b9ce168930cab599e4f/rxlifecycle-components-2.2.2-sources.jar!/com/trello/rxlifecycle2/components/support/RxAppCompatActivity.java" timestamp="1588128060912" />
       <file name="$USER_HOME$/Downloads/constraintlayout_sample/app/src/main/res/layout/item1_linear.xml" timestamp="1588068486229">
         <mark key="[" line="9" column="44" />
         <mark key="]" line="9" column="13" />
@@ -57,7 +58,8 @@
         <mark key="]" line="137" column="0" />
         <mark key="." line="137" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_main/src/main/java/com/dopool/module_main/view/activity/MainActivity.kt" timestamp="1588127232671">
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_splash/src/main/java/com/dopool/module_splash/presenter/guide/GuideActivityPresenter.kt" timestamp="1588128858697" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_main/src/main/java/com/dopool/module_main/view/activity/MainActivity.kt" timestamp="1588129231018">
         <mark key="[" line="242" column="31" />
       </file>
       <file name="$USER_HOME$/Downloads/constraintlayout_sample/app/src/main/res/layout/item2_constraint.xml" timestamp="1588068536959">
@@ -82,6 +84,8 @@
         <mark key="." line="21" column="35" />
         <mark key="^" line="21" column="36" />
       </file>
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_main/src/main/java/com/dopool/module_main/presenter/MainPresenter.kt" timestamp="1588130476257" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.huburt-Hu/NewbieGuide/v2.4.0/4ccbc8c518366c501a50407d9b07c4f95553124c/NewbieGuide-v2.4.0-sources.jar!/com/app/hubert/guide/model/GuidePage.java" timestamp="1588128750589" />
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/main/CoinActivity.kt" timestamp="1588124917797" />
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/placement/exitad/ExitAppAdPanel.java" timestamp="1588127063379" />
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/task/TaskCenterAdapter.kt" timestamp="1588126221089" />
