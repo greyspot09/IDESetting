@@ -46,21 +46,20 @@
     <filemarks>
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_splash/src/main/java/com/dopool/module_splash/view/guide/activity/GuideActivity.kt" timestamp="1588128952688" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.trello.rxlifecycle2/rxlifecycle-components/2.2.2/7c83060f9c2b42e0ef13b9ce168930cab599e4f/rxlifecycle-components-2.2.2-sources.jar!/com/trello/rxlifecycle2/components/support/RxAppCompatActivity.java" timestamp="1588128060912" />
-      <file name="$USER_HOME$/Downloads/constraintlayout_sample/app/src/main/res/layout/item1_linear.xml" timestamp="1588068486229">
-        <mark key="[" line="9" column="44" />
-        <mark key="]" line="9" column="13" />
-        <mark key="." line="9" column="12" />
-        <mark key="^" line="9" column="13" />
-      </file>
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_base_component/src/main/java/com/dopool/module_base_component/ad/BootSuspensionAdManager.kt" timestamp="1588066040209">
-        <mark key="'" line="147" column="24" />
-        <mark key="[" line="54" column="43" />
-        <mark key="]" line="137" column="0" />
-        <mark key="." line="137" column="0" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core-common/1.0.0/fbe00e9f1a3138c7d138fe4e02724366e9e42f24/kotlinx-coroutines-core-common-1.0.0-sources.jar!/Builders.common.kt" timestamp="1588131955231" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_base_component/src/main/java/com/dopool/module_base_component/ad/BootSuspensionAdManager.kt" timestamp="1588132806784">
+        <mark key="'" line="152" column="24" />
+        <mark key="[" line="63" column="59" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_splash/src/main/java/com/dopool/module_splash/presenter/guide/GuideActivityPresenter.kt" timestamp="1588128858697" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_main/src/main/java/com/dopool/module_main/view/activity/MainActivity.kt" timestamp="1588129231018">
-        <mark key="[" line="242" column="31" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_main/src/main/java/com/dopool/module_main/view/activity/MainActivity.kt" timestamp="1588132976012">
+        <mark key="'" line="877" column="22" />
+        <mark key="[" line="168" column="0" />
+        <mark key="]" line="168" column="0" />
+        <mark key="^" line="851" column="27" />
+        <mark key="." line="168" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/constraintlayout_sample/app/src/main/res/layout/item2_constraint.xml" timestamp="1588068536959">
         <mark key="[" line="11" column="51" />
@@ -68,26 +67,21 @@
         <mark key="^" line="14" column="60" />
         <mark key="." line="14" column="59" />
       </file>
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/common/AdManager.java" timestamp="1588066924687">
-        <mark key="[" line="576" column="71" />
-        <mark key="]" line="576" column="52" />
-        <mark key="." line="576" column="52" />
-      </file>
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_main/src/main/java/com/dopool/module_main/view/custom/lastplayview/LastPlayView.kt" timestamp="1588126007433" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.20/60070a2fbed969e9b73f214cb41072eabedf299a/kotlin-stdlib-common-1.3.20-sources.jar!/kotlin/util/Result.kt" timestamp="1588122747069" />
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_main/build/generated/source/kapt/debug/com/dopool/module_main/view/activity/MainActivity$$ARouter$$Autowired.java" timestamp="1588126127644" />
       <file name="$USER_HOME$/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d1aa81e7c3b5759a4fd80cb9c730255c/jars/classes.jar!/android/support/v7/app/AppCompatActivity.class" timestamp="1588127246358" />
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/main/CoinContract.kt" timestamp="1588124005305" />
-      <file name="$USER_HOME$/Downloads/constraintlayout_sample/app/src/main/res/layout/item1_constraint.xml" timestamp="1588068465691">
-        <mark key="[" line="20" column="33" />
-        <mark key="]" line="21" column="36" />
-        <mark key="." line="21" column="35" />
-        <mark key="^" line="21" column="36" />
-      </file>
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_main/src/main/java/com/dopool/module_main/presenter/MainPresenter.kt" timestamp="1588130476257" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.huburt-Hu/NewbieGuide/v2.4.0/4ccbc8c518366c501a50407d9b07c4f95553124c/NewbieGuide-v2.4.0-sources.jar!/com/app/hubert/guide/model/GuidePage.java" timestamp="1588128750589" />
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/main/CoinActivity.kt" timestamp="1588124917797" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_base_component/src/main/java/com/starschina/sdk/base/utils/Log.java" timestamp="1588132423320" />
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/placement/exitad/ExitAppAdPanel.java" timestamp="1588127063379" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_base_component/src/main/java/com/starschina/sdk/base/media/Config.java" timestamp="1588132693929">
+        <mark key="[" line="4" column="37" />
+        <mark key="]" line="4" column="37" />
+        <mark key="." line="4" column="37" />
+      </file>
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/task/TaskCenterAdapter.kt" timestamp="1588126221089" />
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/view/sign/BreadcrumbsView.kt" timestamp="1588123780093" />
     </filemarks>
@@ -110,48 +104,49 @@
       <jump line="411" column="42" filename="$USER_HOME$/workspace/StarschinaTV8/module_main/src/main/java/com/dopool/module_main/view/activity/MainActivity.kt" />
       <jump line="410" column="34" filename="$USER_HOME$/workspace/StarschinaTV8/module_main/src/main/java/com/dopool/module_main/view/activity/MainActivity.kt" />
       <jump line="147" column="24" filename="$USER_HOME$/workspace/StarschinaTV8/module_base_component/src/main/java/com/dopool/module_base_component/ad/BootSuspensionAdManager.kt" />
+      <jump line="877" column="22" filename="$USER_HOME$/workspace/StarschinaTV8/module_main/src/main/java/com/dopool/module_main/view/activity/MainActivity.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>wrap_content</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>wrap_content</text>
+        <text encoding="base64">IHRydWU=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaG93QXBwU3RhcnRBZFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuaShtVGFnLCAiYm9vdFN1cGVuc2lvblN0cmluZzokYm9vdFN1cGVuc2lvblN0cmluZyIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5pKCJNYWluQWN0aXZpdHkiLCAibGl1Y2llbiBCb290U3VzcGVuc2lvbkFkTWFuYWdlciBvblBvcFdpbmRvd0NsaWNrTGlzdGVuZXIiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuaSgiIEJvb3RTdXNwZW5zaW9uQWRNYW5hZ2VyIiwgImFkIHJlcG9ydCAke3JlY29yZH0iKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIGlzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhciBib290U3VwZW5zaW9uU3RyaW5nOiBTdHJpbmcK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zdGFyc2NoaW5hLnNkay5iYXNlLnV0aWxzLkxvZwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZC51dGlsLkxvZwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Ly9pbXBvcnQgY29tLnN0YXJzY2hpbmEuc2RrLmJhc2UudXRpbHMuTG9nCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIHVwZGF0ZQo=</text>
+        <text encoding="base64">ICAgICAgICBMb2cuaSgiIEJvb3RTdXNwZW5zaW9uQWRNYW5hZ2VyIiwgImFkIHJlcG9ydCAke3JlY29yZH0iKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHVwZGF0ZSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
