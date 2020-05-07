@@ -59,16 +59,17 @@
       </file>
       <file name="$USER_HOME$/Documents/AndroidStudio/DeviceExplorer/xiaomi-mi_8_se-db78c8e9/data/data/dopool.player/cache/hook.log" timestamp="1588830585686" />
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_main/src/main/java/com/dopool/module_main/view/activity/MainActivity.kt" timestamp="1588824150154" />
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/loader/ADPluginEvent.kt" timestamp="1588841972680" />
       <file name="$USER_HOME$/workspace/StarschinaTV8/common/src/main/java/com/dopool/common/util/LogUtil.kt" timestamp="1588823798558">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/render/PreloadingRender/PreloadingRender.kt" timestamp="1588840781311">
-        <mark key="[" line="19" column="21" />
-        <mark key="]" line="17" column="45" />
-        <mark key="." line="17" column="44" />
-        <mark key="^" line="17" column="45" />
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/render/PreloadingRender/PreloadingRender.kt" timestamp="1588841903093">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="84" column="45" />
       </file>
       <file name="/fragment.kt" timestamp="1588836080680">
         <mark key="[" line="0" column="0" />
@@ -91,17 +92,14 @@
         <mark key="[" line="127" column="98" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/android/widget/ImageView.java" timestamp="1588839696527" />
-      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/loader/GDT/GDTNativeV2.kt" timestamp="1588839111297">
-        <mark key="[" line="52" column="27" />
-        <mark key="]" line="53" column="22" />
-        <mark key="." line="53" column="21" />
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/loader/GDT/GDTNativeV2.kt" timestamp="1588841986559">
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="0" />
+        <mark key="." line="106" column="0" />
         <mark key="^" line="53" column="22" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/android/os/CountDownTimer.java" timestamp="1588838485109" />
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_base_component/src/main/java/com/dopool/module_base_component/data/net/bean/RspConfig.kt" timestamp="1588823932676" />
-      <file name="/fragment.java" timestamp="1588152774042">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/loader/GDT/GDTNativeV2Render.kt" timestamp="1588838896109">
         <mark key="'" line="9" column="0" />
         <mark key="[" line="8" column="0" />
@@ -161,24 +159,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQud2lkZ2V0LkZyYW1lTGF5b3V0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text>//        val layoutParams = ViewGroup.LayoutParams(ViewGroup.LayoutParams.MATCH_PARENT, ViewGroup.LayoutParams.MATCH_PARENT )
-//        layout.setBackgroundColor(Color.parseColor(&quot;#0000ff&quot;))
-//        viewGroup.addView(layout,layoutParams)
-//        initWidget()
-//
-//        gdtClickedView.add(viewGroup)</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQub3MuSGFuZGxlclRocmVhZAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBTdXBwcmVzc0xpbnQoIlNldFRleHRJMThuIikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBoYW5kbGVyLnBvc3REZWxheWVkKHJ1bm5hYmxlLCAxMDAwKQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
