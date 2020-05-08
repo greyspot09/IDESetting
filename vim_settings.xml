@@ -9,6 +9,7 @@
       <history-search>
         <entry encoding="base64">XDxzaG93QXBwU3RhcnRBZFw+</entry>
         <entry encoding="base64">XDxhZENvbmZpZ1w+</entry>
+        <entry encoding="base64">XDxMb2dcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
@@ -40,6 +41,9 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
@@ -62,11 +66,12 @@
       </file>
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2de2a1da3040166bb31faa957d9dd922/jetified-open_ad_sdk/jars/classes.jar!/com/bytedance/sdk/openadsdk/AdSlot.class" timestamp="1588906307515" />
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2de2a1da3040166bb31faa957d9dd922/jetified-open_ad_sdk/jars/classes.jar!/com/bytedance/sdk/openadsdk/TTAdConstant.class" timestamp="1588904093510" />
-      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/render/PreloadingRender/PreloadingRender.kt" timestamp="1588921341802">
-        <mark key="[" line="180" column="42" />
-        <mark key="]" line="182" column="20" />
-        <mark key="." line="182" column="19" />
-        <mark key="^" line="182" column="20" />
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/render/PreloadingRender/PreloadingRender.kt" timestamp="1588922386655">
+        <mark key="'" line="106" column="12" />
+        <mark key="[" line="108" column="26" />
+        <mark key="]" line="108" column="27" />
+        <mark key="." line="108" column="27" />
+        <mark key="^" line="97" column="27" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d38c63deeca963c558fe516b1169310c/constraintlayout-1.1.3/jars/classes.jar!/androidx/constraintlayout/widget/ConstraintSet.class" timestamp="1588918806232" />
       <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/PlayerActivity.kt" timestamp="1588908935733">
@@ -82,7 +87,7 @@
         <mark key="]" line="35" column="32" />
         <mark key="." line="35" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/loader/Bytedance/ByteDanceNative.kt" timestamp="1588921129595">
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/loader/Bytedance/ByteDanceNative.kt" timestamp="1588921619518">
         <mark key="[" line="87" column="0" />
         <mark key="]" line="87" column="0" />
         <mark key="." line="87" column="0" />
@@ -129,21 +134,22 @@
       <jump line="205" column="0" filename="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/loader/GDT/GDTNativeV2.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/loader/GDT/GDTNativeV2Render.kt" />
       <jump line="8" column="0" filename="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/loader/GDT/GDTNativeV2Render.kt" />
+      <jump line="106" column="12" filename="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/render/PreloadingRender/PreloadingRender.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWRkQnV0dG9ucygpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nLmQobVRhZywgIjEzIikK</text>
       </register>
       <register name="-" type="4">
         <text>?</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhZENvbmZpZ1w+</text>
+        <text encoding="base64">XDxMb2dcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nLmkobVRhZywgIjExMTExMTExIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nLmQobVRhZywgIjEzIikK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYWRkQnV0dG9ucygpCg==</text>
@@ -179,10 +185,10 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxhZENvbmZpZ1w+</last-search>
+      <last-search encoding="base64">XDxMb2dcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhZENvbmZpZ1w+</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxMb2dcPg==</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
