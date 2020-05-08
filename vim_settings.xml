@@ -46,44 +46,48 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/placement/banner/PlayingAdView.java" timestamp="1588900335613" />
-      <file name="$USER_HOME$/Desktop/头条sdk/demo/src/main/java/com/union_test/toutiao/activity/FeedListActivity.java" timestamp="1588901703580" />
-      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/loader/Bytedance/ByteDanceNativeRender.kt" timestamp="1588901195368">
-        <mark key="[" line="8" column="12" />
-        <mark key="]" line="8" column="12" />
-        <mark key="." line="8" column="11" />
-        <mark key="^" line="8" column="12" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/placement/pre/PreAd.java" timestamp="1588903187485" />
+      <file name="$USER_HOME$/Desktop/头条sdk/demo/src/main/java/com/union_test/toutiao/activity/FeedListActivity.java" timestamp="1588904703835" />
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/loader/Bytedance/ByteDanceNativeRender.kt" timestamp="1588903788972">
+        <mark key="[" line="9" column="24" />
+        <mark key="]" line="10" column="55" />
+        <mark key="." line="10" column="54" />
+        <mark key="^" line="10" column="55" />
       </file>
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/TTAdManagerHolder.java" timestamp="1588899635635" />
-      <file name="/Dummy.txt" timestamp="1588899277184">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2de2a1da3040166bb31faa957d9dd922/jetified-open_ad_sdk/jars/classes.jar!/com/bytedance/sdk/openadsdk/AdSlot.class" timestamp="1588906307515" />
+      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2de2a1da3040166bb31faa957d9dd922/jetified-open_ad_sdk/jars/classes.jar!/com/bytedance/sdk/openadsdk/TTAdConstant.class" timestamp="1588904093510" />
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/render/PreloadingRender/PreloadingRender.kt" timestamp="1588906782917">
+        <mark key="[" line="152" column="39" />
+        <mark key="]" line="152" column="27" />
+        <mark key="^" line="152" column="35" />
+        <mark key="." line="152" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_play/src/main/java/com/dopool/module_play/play/reporter/PlayAnalysis.kt" timestamp="1588846478400">
-        <mark key="[" line="258" column="46" />
-      </file>
-      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/render/PreloadingRender/PreloadingRender.kt" timestamp="1588901725712">
-        <mark key="[" line="91" column="37" />
-        <mark key="]" line="94" column="0" />
-        <mark key="." line="94" column="0" />
-        <mark key="^" line="134" column="58" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2de2a1da3040166bb31faa957d9dd922/jetified-open_ad_sdk/jars/classes.jar!/com/bytedance/sdk/openadsdk/TTAdManager.class" timestamp="1588898710920" />
-      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/PlayerActivity.kt" timestamp="1588900155615">
-        <mark key="'" line="23" column="30" />
-        <mark key="[" line="39" column="111" />
-        <mark key="]" line="39" column="110" />
-        <mark key="." line="39" column="109" />
-        <mark key="^" line="39" column="110" />
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/PlayerActivity.kt" timestamp="1588907418681">
+        <mark key="'" line="24" column="30" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="19" column="41" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="29" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/placement/banner/TTNativeBannerAdTypeFeed.java" timestamp="1588900789019" />
-      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/MainActivity.kt" timestamp="1588899109609">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_user_analysis/build.gradle" timestamp="1588903281766" />
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/MainActivity.kt" timestamp="1588906989710">
+        <mark key="[" line="35" column="32" />
+        <mark key="]" line="35" column="32" />
+        <mark key="." line="35" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/loader/Bytedance/ByteDanceNative.kt" timestamp="1588901161759">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/loader/Bytedance/ByteDanceNative.kt" timestamp="1588906498467">
+        <mark key="[" line="25" column="35" />
+        <mark key="]" line="27" column="45" />
+        <mark key="." line="27" column="44" />
+        <mark key="^" line="27" column="45" />
+      </file>
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/AndroidManifest.xml" timestamp="1588908106329">
+        <mark key="[" line="19" column="42" />
+        <mark key="]" line="19" column="12" />
+        <mark key="^" line="19" column="12" />
+        <mark key="." line="19" column="11" />
       </file>
       <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/loader/GDT/GDTNativeV2.kt" timestamp="1588900803290">
         <mark key="[" line="106" column="0" />
@@ -91,8 +95,9 @@
         <mark key="." line="106" column="0" />
         <mark key="^" line="53" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/res/xml/file_paths.xml" timestamp="1588898546646" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/placement/pre/TTPreAdTypeFeed.java" timestamp="1588901844439" />
+      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2de2a1da3040166bb31faa957d9dd922/jetified-open_ad_sdk/jars/classes.jar!/com/bytedance/sdk/openadsdk/TTNativeAd.class" timestamp="1588905613457" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/placement/pre/TTPreAdTypeFeed.java" timestamp="1588903214925" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/appcompat-v7/27.1.1/21d073509c5f8d25a1bf274067fa729a1fba8d75/appcompat-v7-27.1.1-sources.jar!/android/support/v7/app/AlertController.java" timestamp="1588903463273" />
       <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/loader/GDT/GDTNativeV2Render.kt" timestamp="1588901078887" />
     </filemarks>
     <jumps>
@@ -129,43 +134,45 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2V0Q29udGVudFZpZXcoUi5sYXlvdXQuYWN0aXZpdHlfcGxheWVyKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhZENvbmZpZ1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8vLyAgICBmdW4gcmVuZGVyKGdkdFVuaWZpZWQ6IE5hdGl2ZVVuaWZpZWRBRERhdGEsIGdkdENvbnRhaW5lcjogTmF0aXZlQWRDb250YWluZXIpOiBMaXN0PFZpZXc+Ci8vLy8gICAgZnVuIGNsZWFyKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nLmkobVRhZywgIuWktOadoeWOn+eUn+W5v+WRiu+8jCBpbWFnZVVybDogJHtpbWFnZVVybH0iKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2V0Q29udGVudFZpZXcoUi5sYXlvdXQuYWN0aXZpdHlfcGxheWVyKQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+      <register name="3" type="4">
+        <text>)
+
+            ttFeedAd.registerViewForInteraction(layout,skipButton,</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGltYWdlVXJsID0gdHRGZWVkQWQuaW1hZ2VMaXN0WzBdCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8qCiAgICAqIEAgcGEKICAgICAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8qCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biByZW5kZXIoZ2R0VW5pZmllZDogTmF0aXZlVW5pZmllZEFERGF0YSwgZ2R0Q29udGFpbmVyOiBOYXRpdmVBZENvbnRhaW5lcik6ICBMaXN0PFZpZXc+IHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nLmkobVRhZywgImltYWdlTW9kZWw6ICR7dHRGZWVkQWQuaW1hZ2VNb2RlfSIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
