@@ -51,8 +51,8 @@
       </file>
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/placement/pre/PreAd.java" timestamp="1588903187485" />
       <file name="$USER_HOME$/Desktop/头条sdk/demo/src/main/java/com/union_test/toutiao/activity/FeedListActivity.java" timestamp="1588909065494" />
-      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/loader/Bytedance/ByteDanceNativeRender.kt" timestamp="1588911021845">
-        <mark key="[" line="11" column="58" />
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/loader/Bytedance/ByteDanceNativeRender.kt" timestamp="1588917620270">
+        <mark key="[" line="12" column="42" />
         <mark key="]" line="11" column="58" />
         <mark key="." line="11" column="58" />
         <mark key="^" line="11" column="63" />
@@ -62,12 +62,13 @@
       </file>
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2de2a1da3040166bb31faa957d9dd922/jetified-open_ad_sdk/jars/classes.jar!/com/bytedance/sdk/openadsdk/AdSlot.class" timestamp="1588906307515" />
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2de2a1da3040166bb31faa957d9dd922/jetified-open_ad_sdk/jars/classes.jar!/com/bytedance/sdk/openadsdk/TTAdConstant.class" timestamp="1588904093510" />
-      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/render/PreloadingRender/PreloadingRender.kt" timestamp="1588911641212">
-        <mark key="[" line="107" column="9" />
-        <mark key="]" line="131" column="0" />
-        <mark key="^" line="131" column="25" />
-        <mark key="." line="131" column="0" />
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/render/PreloadingRender/PreloadingRender.kt" timestamp="1588921341802">
+        <mark key="[" line="180" column="42" />
+        <mark key="]" line="182" column="20" />
+        <mark key="." line="182" column="19" />
+        <mark key="^" line="182" column="20" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d38c63deeca963c558fe516b1169310c/constraintlayout-1.1.3/jars/classes.jar!/androidx/constraintlayout/widget/ConstraintSet.class" timestamp="1588918806232" />
       <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/PlayerActivity.kt" timestamp="1588908935733">
         <mark key="'" line="24" column="30" />
         <mark key="[" line="18" column="0" />
@@ -75,17 +76,17 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="29" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/placement/banner/TTNativeBannerAdTypeFeed.java" timestamp="1588900789019" />
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_user_analysis/build.gradle" timestamp="1588903281766" />
       <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/MainActivity.kt" timestamp="1588906989710">
         <mark key="[" line="35" column="32" />
         <mark key="]" line="35" column="32" />
         <mark key="." line="35" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/loader/Bytedance/ByteDanceNative.kt" timestamp="1588909912599">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/loader/Bytedance/ByteDanceNative.kt" timestamp="1588921129595">
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="87" column="0" />
+        <mark key="." line="87" column="0" />
+        <mark key="^" line="71" column="55" />
       </file>
       <file name="$USER_HOME$/workspace/ADExample2/app/src/main/AndroidManifest.xml" timestamp="1588908841445">
         <mark key="[" line="19" column="42" />
@@ -93,15 +94,10 @@
         <mark key="^" line="19" column="12" />
         <mark key="." line="19" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/loader/GDT/GDTNativeV2.kt" timestamp="1588900803290">
-        <mark key="[" line="106" column="0" />
-        <mark key="]" line="106" column="0" />
-        <mark key="." line="106" column="0" />
-        <mark key="^" line="53" column="22" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2de2a1da3040166bb31faa957d9dd922/jetified-open_ad_sdk/jars/classes.jar!/com/bytedance/sdk/openadsdk/TTNativeAd.class" timestamp="1588905613457" />
+      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2de2a1da3040166bb31faa957d9dd922/jetified-open_ad_sdk/jars/classes.jar!/com/bytedance/sdk/openadsdk/TTNativeAd.class" timestamp="1588918601596" />
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/placement/pre/TTPreAdTypeFeed.java" timestamp="1588903214925" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/appcompat-v7/27.1.1/21d073509c5f8d25a1bf274067fa729a1fba8d75/appcompat-v7-27.1.1-sources.jar!/android/support/v7/app/AlertController.java" timestamp="1588903463273" />
+      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d38c63deeca963c558fe516b1169310c/constraintlayout-1.1.3/jars/classes.jar!/androidx/constraintlayout/widget/ConstraintLayout.class" timestamp="1588918866128" />
       <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/loader/GDT/GDTNativeV2Render.kt" timestamp="1588901078887" />
     </filemarks>
     <jumps>
@@ -138,19 +134,19 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWRkQnV0dG9ucygpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>gdtContadawiner</text>
+        <text>?</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhZENvbmZpZ1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIHNraXBCdXR0b246IEJ1dHRvbj8KICAgICAgICBnZXQoKSA9IGxheW91dC5maW5kVmlld0J5SWQoUi5pZC5wcmVMb2FkaW5nU2tpcCkKCiAgICBwcml2YXRlIGZ1biBjcmVhdGVMYXJnZUltYWdlVmlldyhjb250ZXh0OiBDb250ZXh0KSB7CiAgICAgICAgdmFsIGFkSW1hZ2VWaWV3ID0gSW1hZ2VWaWV3KGNvbnRleHQpCiAgICAgICAgYWRJbWFnZVZpZXcuaWQgPSBSLmlkLnByZUxvYWRpbmdQb3N0ZXIKICAgICAgICBhZEltYWdlVmlldy5zY2FsZVR5cGUgPSBJbWFnZVZpZXcuU2NhbGVUeXBlLkZJVF9YWQogICAgICAgIGFkSW1hZ2VWaWV3LnNldEJhY2tncm91bmRDb2xvcihDb2xvci5wYXJzZUNvbG9yKCIjZmYwMDAwIikpCgogICAgICAgIHZhbCBzZXQgPSBDb25zdHJhaW50U2V0KCkKCiAgICAgICAgLy9pbWFnZVZpZXcKICAgICAgICBzZXQuY29ubmVjdChhZEltYWdlVmlldy5pZCwgQ29uc3RyYWludFNldC5UT1AsIENvbnN0cmFpbnRTZXQuUEFSRU5UX0lELCBDb25zdHJhaW50U2V0LlRPUCkKICAgICAgICBzZXQuY29ubmVjdChhZEltYWdlVmlldy5pZCwgQ29uc3RyYWludFNldC5MRUZULCBDb25zdHJhaW50U2V0LlBBUkVOVF9JRCwgQ29uc3RyYWludFNldC5MRUZUKQogICAgICAgIHNldC5jb25uZWN0KGFkSW1hZ2VWaWV3LmlkLCBDb25zdHJhaW50U2V0LkJPVFRPTSwgQ29uc3RyYWludFNldC5QQVJFTlRfSUQsIENvbnN0cmFpbnRTZXQuQk9UVE9NKQogICAgICAgIHNldC5jb25uZWN0KGFkSW1hZ2VWaWV3LmlkLCBDb25zdHJhaW50U2V0LlJJR0hULCBDb25zdHJhaW50U2V0LlBBUkVOVF9JRCwgQ29uc3RyYWludFNldC5SSUdIVCkKICAgICAgICBzZXQuYXBwbHlUbyhsYXlvdXQpCiAgICB9CgogICAgcHJpdmF0ZSBmdW4gY3JlYXRlU2tpcEJ1dHRvbigpIHsKICAgICAgICB2YWwgc2tpcEJ1dHRvbiA9IEJ1dHRvbihjb250ZXh0KQogICAgICAgIHNraXBCdXR0b24udGV4dCA9ICJza2lwIgogICAgICAgIHNraXBCdXR0b24uaWQgPSBSLmlkLnByZUxvYWRpbmdTa2lwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nLmkobVRhZywgIjExMTExMTExIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWRkQnV0dG9ucygpCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -159,22 +155,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbml0V2lkZ2V0KHZpZXdHcm91cC5jb250ZXh0KQo=</text>
+        <text encoding="base64">ICAgICAgICByZW5kZXJBZCh0dEZlZWRBZCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2aWV3R3JvdXAuYWRkVmlldyhsYXlvdXQsbGF5b3V0UGFyYW1zKQo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgbGF5b3V0ID0gY29udGVudExheW91dCA/OiByZXR1cm4gIGxpc3RPZigpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgbGF5b3V0UGFyYW1zID0gVmlld0dyb3VwLkxheW91dFBhcmFtcyhWaWV3R3JvdXAuTGF5b3V0UGFyYW1zLk1BVENIX1BBUkVOVCwgVmlld0dyb3VwLkxheW91dFBhcmFtcy5NQVRDSF9QQVJFTlQgKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZXQuYXBwbHlUbyhjb250ZW50TGF5b3V0KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsYXlvdXQgPSBDb25zdHJhaW50TGF5b3V0KHZpZXdHcm91cC5jb250ZXh0KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2V0LmFwcGx5VG8oY29udGVudExheW91dCEhKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBnZHRDb250YWluZXIuYWRkVmlldyhsYXlvdXQsbGF5b3V0UGFyYW1zKQo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgc2V0ID0gQ29uc3RyYWludFNldCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2V0LmFwcGx5VG8oY29udGVudExheW91dCEhKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
