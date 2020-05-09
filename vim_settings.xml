@@ -11,6 +11,8 @@
         <entry encoding="base64">XDxhZENvbmZpZ1w+</entry>
         <entry encoding="base64">XDxMb2dcPg==</entry>
         <entry encoding="base64">XDxtRXZlbnRUeXBlRmlsdGVyXD4=</entry>
+        <entry encoding="base64">XDx2aXBCdXR0b25cPg==</entry>
+        <entry encoding="base64">XDxyZW5kZXJWaWRlb1w+</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
@@ -50,37 +52,47 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/DemoApplication.kt" timestamp="1588988444213">
-        <mark key="[" line="19" column="32" />
-        <mark key="]" line="19" column="37" />
-        <mark key="." line="19" column="36" />
-        <mark key="^" line="19" column="37" />
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/StubModel.kt" timestamp="1588995151013" />
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/render/PreloadingRender/PreloadingRender.kt" timestamp="1588996796394">
+        <mark key="'" line="154" column="109" />
+        <mark key="[" line="176" column="0" />
+        <mark key="]" line="176" column="46" />
+        <mark key="." line="176" column="0" />
+        <mark key="^" line="182" column="30" />
       </file>
-      <file name="$USER_HOME$/Downloads/GDT_unionNormal_Android_SDK_4/Demo/src/main/java/com/qq/e/union/demo/BannerActivity.java" timestamp="1588986744810" />
-      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/loader/Utils.kt" timestamp="1588930679531">
-        <mark key="[" line="5" column="41" />
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/loader/ADPlugin.kt" timestamp="1588994320668">
+        <mark key="[" line="21" column="16" />
+        <mark key="]" line="21" column="16" />
+        <mark key="." line="21" column="15" />
+        <mark key="^" line="21" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/StarschinaTV8/MPChartLib/src/main/java/com/github/mikephil/charting/charts/Chart.java" timestamp="1588988305336" />
-      <file name="$USER_HOME$/Downloads/GDT_unionNormal_Android_SDK_4/Demo/src/main/java/com/qq/e/union/demo/DemoListActivity.java" timestamp="1588986924204" />
-      <file name="$USER_HOME$/Downloads/GDT_unionNormal_Android_SDK_4/Demo/src/main/AndroidManifest.xml" timestamp="1588986996997" />
-      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/PlayerActivity.kt" timestamp="1588988475364">
-        <mark key="'" line="23" column="30" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="72" column="49" />
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/loader/ADLoader.kt" timestamp="1588994299825">
+        <mark key="[" line="55" column="37" />
+        <mark key="]" line="55" column="49" />
+        <mark key="." line="55" column="48" />
+        <mark key="^" line="55" column="49" />
       </file>
-      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/MainActivity.kt" timestamp="1588987487188">
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/PlayerActivity.kt" timestamp="1588993986003">
+        <mark key="[" line="60" column="5" />
+        <mark key="]" line="68" column="62" />
+        <mark key="^" line="68" column="62" />
+        <mark key="." line="68" column="61" />
+      </file>
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/MainActivity.kt" timestamp="1588994547867">
         <mark key="[" line="77" column="0" />
         <mark key="]" line="77" column="0" />
         <mark key="." line="77" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/GDT_unionNormal_Android_SDK_4/Demo/src/main/java/com/qq/e/union/demo/DemoApplication.java" timestamp="1588986928070" />
-      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/loader/Bytedance/ByteDanceNative.kt" timestamp="1588930643529">
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="94" column="0" />
-        <mark key="." line="94" column="0" />
-        <mark key="^" line="71" column="55" />
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/DemoApplication.kt" timestamp="1588994520405">
+        <mark key="[" line="38" column="16" />
+        <mark key="]" line="38" column="17" />
+        <mark key="." line="38" column="17" />
+        <mark key="^" line="19" column="37" />
+      </file>
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/loader/Bytedance/ByteDanceNative.kt" timestamp="1588994842289">
+        <mark key="[" line="40" column="85" />
+        <mark key="]" line="40" column="85" />
+        <mark key="." line="40" column="85" />
       </file>
       <file name="$USER_HOME$/workspace/ADExample2/app/src/main/AndroidManifest.xml" timestamp="1588988246148">
         <mark key="[" line="28" column="0" />
@@ -88,8 +100,36 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="29" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/loader/GDT/GDTNativeV2.kt" timestamp="1588988526835" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/placement/pre/TTPreAdTypeFeed.java" timestamp="1588988069444" />
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/res/values/ids.xml" timestamp="1588996077158">
+        <mark key="[" line="6" column="26" />
+        <mark key="]" line="6" column="26" />
+        <mark key="." line="6" column="26" />
+      </file>
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/loader/Bytedance/ByteDanceNativeRender.kt" timestamp="1588995136886">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/loader/ADPluginEvent.kt" timestamp="1588994799638">
+        <mark key="[" line="15" column="10" />
+        <mark key="]" line="15" column="10" />
+        <mark key="." line="15" column="10" />
+        <mark key="^" line="38" column="22" />
+      </file>
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/loader/GDT/GDTNativeV2.kt" timestamp="1588996774694">
+        <mark key="'" line="97" column="16" />
+        <mark key="[" line="91" column="39" />
+        <mark key="]" line="91" column="39" />
+        <mark key="^" line="110" column="31" />
+        <mark key="." line="91" column="39" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e67d4a5db28e091e669ef782b86ad87d/jetified-GDTSDK.union.4.90.960/jars/classes.jar!/com/qq/e/ads/nativ/NativeUnifiedADData.class" timestamp="1588995943163" />
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/loader/GDT/GDTNativeV2Render.kt" timestamp="1588995675532">
+        <mark key="[" line="9" column="14" />
+        <mark key="]" line="8" column="21" />
+        <mark key="^" line="8" column="21" />
+        <mark key="." line="8" column="20" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="94" column="79" filename="$USER_HOME$/workspace/StarschinaTV8/module_play/src/main/java/com/dopool/module_play/play/viewmodel/vod/VodDataViewModel.kt" />
@@ -123,45 +163,49 @@
       <jump line="106" column="12" filename="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/render/PreloadingRender/PreloadingRender.kt" />
       <jump line="88" column="35" filename="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/render/PreloadingRender/PreloadingRender.kt" />
       <jump line="123" column="26" filename="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/common/AdManager.java" />
+      <jump line="33" column="16" filename="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/render/PreloadingRender/PreloadingRender.kt" />
+      <jump line="97" column="16" filename="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/loader/GDT/GDTNativeV2.kt" />
+      <jump line="174" column="4" filename="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/render/PreloadingRender/PreloadingRender.kt" />
+      <jump line="154" column="109" filename="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/render/PreloadingRender/PreloadingRender.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBtZWRpYVZpZXcuaWQgPSBSLmlkLnByZUxvYWRpbmdHRFRWaWRlbwo=</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>contentL</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtRXZlbnRUeXBlRmlsdGVyXD4=</text>
+        <text encoding="base64">XDxyZW5kZXJWaWRlb1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJhY2tncm91bmQgPSBDb250ZXh0Q29tcGF0LmdldERyYXdhYmxlKGNvbnRleHQsIFIuZHJhd2FibGUuYnV0dG9uX2JnX3JvdW5kZWRfY29ybmVycykK</text>
+        <text encoding="base64">ICAgIDxpdGVtIG5hbWU9InByZUxvYWRpbmdUVFZpZGVvIiB0eXBlPSJpZCIvPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp0aGVtZT0iQHN0eWxlL0FwcFRoZW1lLk5vQWN0aW9uQmFyIgo=</text>
+        <text encoding="base64">ICAgICAgICBtZWRpYVZpZXcuaWQgPSBSLmlkLnByZUxvYWRpbmdHRFRWaWRlbwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsYXlvdXQuYWRkVmlldyhtZWRpYVZpZXcpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGF5b3V0LnNldEJhY2tncm91bmRDb2xvcihDb2xvci5wYXJzZUNvbG9yKCIjMDAwMGZmIikpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEubGFuZy5FeGNlcHRpb24K</text>
+        <text encoding="base64">Ly8gICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qc29uLkpTT05PYmplY3QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5ieXRlZGFuY2Uuc2RrLm9wZW5hZHNkay5UVEFkU2RrCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGFkZEJ1dHRvbnMoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5ieXRlZGFuY2Uuc2RrLm9wZW5hZHNkay5UVEFkQ29uZmlnCmltcG9ydCBjb20uYnl0ZWRhbmNlLnNkay5vcGVuYWRzZGsuVFRBZENvbnN0YW50Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGNyZWF0ZUxhcmdlSW1hZ2VWaWV3KCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGlmIChnZHRVbmlmaWVkLmFkUGF0dGVyblR5cGUgPT0gQWRQYXR0ZXJuVHlwZS5OQVRJVkVfVklERU8pIHsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -173,9 +217,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxtRXZlbnRUeXBlRmlsdGVyXD4=</last-search>
+      <last-search encoding="base64">XDxyZW5kZXJWaWRlb1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtRXZlbnRUeXBlRmlsdGVyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxyZW5kZXJWaWRlb1w+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
