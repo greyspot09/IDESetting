@@ -71,7 +71,10 @@
         <mark key="." line="5" column="71" />
         <mark key="^" line="5" column="1" />
       </file>
-      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/PlayerActivity.kt" timestamp="1589160525861" />
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/PlayerActivity.kt" timestamp="1589162846722">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="82" column="4" />
+      </file>
       <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/MainActivity.kt" timestamp="1589160382517" />
       <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/DemoApplication.kt" timestamp="1589018864713">
         <mark key="[" line="19" column="32" />
@@ -89,7 +92,12 @@
         <mark key="." line="2" column="48" />
         <mark key="^" line="2" column="48" />
       </file>
-      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/PortraitBannerActivity.kt" timestamp="1589160090632" />
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/PortraitBannerActivity.kt" timestamp="1589163095031">
+        <mark key="[" line="73" column="43" />
+        <mark key="]" line="73" column="43" />
+        <mark key="^" line="73" column="39" />
+        <mark key="." line="73" column="43" />
+      </file>
       <file name="$USER_HOME$/Desktop/头条sdk/demo/src/main/AndroidManifest.xml" timestamp="1589019862181">
         <mark key="[" line="168" column="0" />
         <mark key="]" line="168" column="0" />
@@ -152,20 +160,20 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>{ loader?.loadAD(it) }</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>{ loader?.loadAD(it) }</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGVja1Blcm1pc3Npb25cPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWQuYmluZEFkVG9WaWV3KGNvbnRleHQsIGdkdENvbnRhaW5lciwgbnVsbCwgY2xpY2thYmxlVmlld3MpCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">ZnVuIEFEQ29uZmlnLmdldFBvcnRyYWl0QmFubmVyKCk6IEFER3JvdXBDb250YWluZXI/IHsKICAgIHJldHVybiBjb25maWdzLmZpbmQgewogICAgICAgIGl0LnBhZ2UgPT0gInBsYXllciIgJiYgaXQudHlwZSA9PSAiYmFubmVyIgogICAgfQp9</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIExvZy5kKG1UYWcsICLmj5Lku7bvvJoke3BsdWdpbi5zdW1tYXJ5fSwgZXZlbnQ6JGV2ZW50IikK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -174,22 +182,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmFscGhhPSIiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0b29sczpsYXlvdXRfZWRpdG9yX2Fic29sdXRlWT0iMWRwIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0b29sczpsYXlvdXRfZWRpdG9yX2Fic29sdXRlWD0iMWRwIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2xpY2thYmxlVmlld3MuYWRkQWxsKGNsaWNrQWJsZVZpZXcpCg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmFscGhhPSIiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhZC5iaW5kQWRUb1ZpZXcoY29udGV4dCwgZ2R0Q29udGFpbmVyLCBudWxsLCBjbGlja2FibGVWaWV3cykK</text>
+        <text encoding="base64">ICAgICAgICB0b29sczpsYXlvdXRfZWRpdG9yX2Fic29sdXRlWT0iMWRwIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHN0YXJ0Q291bnRkb3duKCkK</text>
+        <text encoding="base64">ICAgICAgICB0b29sczpsYXlvdXRfZWRpdG9yX2Fic29sdXRlWD0iMWRwIgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
