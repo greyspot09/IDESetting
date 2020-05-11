@@ -14,6 +14,7 @@
         <entry encoding="base64">XDx2aXBCdXR0b25cPg==</entry>
         <entry encoding="base64">XDxyZW5kZXJWaWRlb1w+</entry>
         <entry encoding="base64">XDxjaGVja1Blcm1pc3Npb25cPg==</entry>
+        <entry encoding="base64">XDxtYWtlQURQbHVnaW5cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
@@ -54,6 +55,7 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/placement/banner/BaiduBannerAdTypeBanner.java" timestamp="1589180331804" />
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/loader/ADUnit.kt" timestamp="1589183614692" />
       <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/loader/Baidu/Banner/BaiduBanner.kt" timestamp="1589180129487">
         <mark key="[" line="66" column="0" />
         <mark key="]" line="66" column="0" />
@@ -75,11 +77,11 @@
       </file>
       <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/loader/GDT/BannerV2/GDTBannerV2Render.kt" timestamp="1589179219584" />
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/placement/banner/PlayingAdView.java" timestamp="1589180328949" />
-      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/DemoApplication.kt" timestamp="1589181401150">
-        <mark key="[" line="49" column="15" />
-        <mark key="]" line="49" column="16" />
-        <mark key="." line="49" column="15" />
-        <mark key="^" line="49" column="16" />
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/DemoApplication.kt" timestamp="1589183550937">
+        <mark key="[" line="35" column="46" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
+        <mark key="^" line="51" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/loader/LoopADLoader.kt" timestamp="1589177548365">
         <mark key="[" line="35" column="0" />
@@ -104,13 +106,13 @@
         <mark key="]" line="7" column="42" />
         <mark key="." line="7" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/PortraitBannerActivity.kt" timestamp="1589180140578">
-        <mark key="[" line="39" column="92" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/PortraitBannerActivity.kt" timestamp="1589183652473">
+        <mark key="'" line="25" column="16" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/placement/banner/BaseBannerAd.java" timestamp="1589179921221" />
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/android/os/CountDownTimer.java" timestamp="1589175818494" />
     </filemarks>
     <jumps>
       <jump line="94" column="79" filename="$USER_HOME$/workspace/StarschinaTV8/module_play/src/main/java/com/dopool/module_play/play/viewmodel/vod/VodDataViewModel.kt" />
@@ -151,6 +153,7 @@
       <jump line="38" column="21" filename="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/MainActivity.kt" />
       <jump line="26" column="12" filename="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/MainActivity.kt" />
       <jump line="37" column="8" filename="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/MainActivity.kt" />
+      <jump line="25" column="16" filename="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/PortraitBannerActivity.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -162,7 +165,7 @@
         <text>h</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjaGVja1Blcm1pc3Npb25cPg==</text>
+        <text encoding="base64">XDxtYWtlQURQbHVnaW5cPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5pKG1UYWcsICLnmb7luqZiYW5uZXLvvIwgb25BZFN3aXRjaCIpCg==</text>
@@ -174,25 +177,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBQYWlyKEFEUGxhdGZvcm0uZ2R0LCAiTmF0aXZlVW5pZmllZEFEIikgLT4KLy8gICAgICAgICAgICAgICAgR0RUTmF0aXZlVjIodGhpcywgcHJvdmlkZXIuYXBwX2lkLCBBRFBsYXRmb3JtLmdkdCwgdW5pdCwKLy8gICAgICAgICAgICAgICAgICAgIGFkQ29udGFpbmVyLHJlbmRlcikKLy8gICAgICAgICAgICBQYWlyKEFEUGxhdGZvcm0uYnl0ZURhbmNlLCAiRmVlZEFkJiYxNSIpIC0+Ci8vICAgICAgICAgICAgICAgIEJ5dGVEYW5jZU5hdGl2ZSh0aGlzLAovLyAgICAgICAgICAgICAgICAgICAgcHJvdmlkZXIuYXBwX2lkLCBBRFBsYXRmb3JtLmJ5dGVEYW5jZSwgdW5pdCwKLy8gICAgICAgICAgICAgICAgICAgIGFkQ29udGFpbmVyLCByZW5kZXIp</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhZFZpZXcucmVtbwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhZFZpZXcuCg==</text>
+        <text encoding="base64">ICAgICAgICBhZFZpZXcucmVtbwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -201,9 +204,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxjaGVja1Blcm1pc3Npb25cPg==</last-search>
+      <last-search encoding="base64">XDxtYWtlQURQbHVnaW5cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjaGVja1Blcm1pc3Npb25cPg==</last-pattern>
+      <last-pattern encoding="base64">XDxtYWtlQURQbHVnaW5cPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
