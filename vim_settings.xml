@@ -53,6 +53,16 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/DemoApplication.kt" timestamp="1589018864713">
+        <mark key="[" line="19" column="32" />
+        <mark key="]" line="19" column="32" />
+        <mark key="." line="19" column="32" />
+      </file>
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/res/layout/activity_portrait_banner.xml" timestamp="1589161113462">
+        <mark key="[" line="9" column="28" />
+        <mark key="]" line="9" column="29" />
+        <mark key="." line="9" column="29" />
+      </file>
       <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/render/PreloadingRender/PreloadingRender.kt" timestamp="1589160510931">
         <mark key="'" line="154" column="109" />
         <mark key="[" line="177" column="12" />
@@ -65,27 +75,11 @@
         <mark key="]" line="13" column="50" />
         <mark key="." line="13" column="50" />
       </file>
-      <file name="$USER_HOME$/Desktop/头条sdk/demo/gradle/wrapper/gradle-wrapper.properties" timestamp="1589018233169">
-        <mark key="[" line="5" column="70" />
-        <mark key="]" line="5" column="71" />
-        <mark key="." line="5" column="71" />
-        <mark key="^" line="5" column="1" />
-      </file>
       <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/PlayerActivity.kt" timestamp="1589162846722">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="82" column="4" />
       </file>
       <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/MainActivity.kt" timestamp="1589160382517" />
-      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/DemoApplication.kt" timestamp="1589018864713">
-        <mark key="[" line="19" column="32" />
-        <mark key="]" line="19" column="32" />
-        <mark key="." line="19" column="32" />
-      </file>
-      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/res/layout/activity_portrait_banner.xml" timestamp="1589161113462">
-        <mark key="[" line="9" column="28" />
-        <mark key="]" line="9" column="29" />
-        <mark key="." line="9" column="29" />
-      </file>
       <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/PorTraitActivity.kt" timestamp="1589160029125" />
       <file name="$USER_HOME$/workspace/ADExample2/app/src/main/AndroidManifest.xml" timestamp="1589019538143">
         <mark key="]" line="2" column="48" />
