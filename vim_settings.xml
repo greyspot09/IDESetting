@@ -53,75 +53,60 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/StubModel.kt" timestamp="1588995151013" />
-      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/res/layout/content_main.xml" timestamp="1589008720065" />
-      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e67d4a5db28e091e669ef782b86ad87d/jetified-GDTSDK.union.4.90.960/jars/classes.jar!/com/qq/e/ads/nativ/NativeADEventListener.class" timestamp="1589003626039" />
-      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/res/values/ids.xml" timestamp="1588996077158">
-        <mark key="[" line="6" column="26" />
-        <mark key="]" line="6" column="26" />
-        <mark key="." line="6" column="26" />
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/render/PreloadingRender/PreloadingRender.kt" timestamp="1589160510931">
+        <mark key="'" line="154" column="109" />
+        <mark key="[" line="177" column="12" />
+        <mark key="]" line="177" column="12" />
+        <mark key="." line="177" column="12" />
+        <mark key="^" line="176" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/loader/Bytedance/ByteDanceNativeRender.kt" timestamp="1588995136886">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/Desktop/头条sdk/demo/build.gradle" timestamp="1589019302078">
+        <mark key="[" line="13" column="50" />
+        <mark key="]" line="13" column="50" />
+        <mark key="." line="13" column="50" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e67d4a5db28e091e669ef782b86ad87d/jetified-GDTSDK.union.4.90.960/jars/classes.jar!/com/qq/e/ads/nativ/NativeUnifiedADData.class" timestamp="1589003676678" />
-      <file name="/Dummy.txt" timestamp="1589008616723">
+      <file name="$USER_HOME$/Desktop/头条sdk/demo/gradle/wrapper/gradle-wrapper.properties" timestamp="1589018233169">
+        <mark key="[" line="5" column="70" />
+        <mark key="]" line="5" column="71" />
+        <mark key="." line="5" column="71" />
+        <mark key="^" line="5" column="1" />
+      </file>
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/PlayerActivity.kt" timestamp="1589160525861" />
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/MainActivity.kt" timestamp="1589160382517" />
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/DemoApplication.kt" timestamp="1589018864713">
+        <mark key="[" line="19" column="32" />
+        <mark key="]" line="19" column="32" />
+        <mark key="." line="19" column="32" />
+      </file>
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/res/layout/activity_portrait_banner.xml" timestamp="1589161113462">
+        <mark key="[" line="9" column="28" />
+        <mark key="]" line="9" column="29" />
+        <mark key="." line="9" column="29" />
+      </file>
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/PorTraitActivity.kt" timestamp="1589160029125" />
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/AndroidManifest.xml" timestamp="1589019538143">
+        <mark key="]" line="2" column="48" />
+        <mark key="." line="2" column="48" />
+        <mark key="^" line="2" column="48" />
+      </file>
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/PortraitBannerActivity.kt" timestamp="1589160090632" />
+      <file name="$USER_HOME$/Desktop/头条sdk/demo/src/main/AndroidManifest.xml" timestamp="1589019862181">
+        <mark key="[" line="168" column="0" />
+        <mark key="]" line="168" column="0" />
+        <mark key="." line="168" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/ADExample2/app/build.gradle" timestamp="1589019255669">
+        <mark key="[" line="9" column="36" />
+      </file>
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/loader/GDT/GDTNativeV2.kt" timestamp="1589160611457" />
+      <file name="/fragment.java" timestamp="1589160066377">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/render/PreloadingRender/PreloadingRender.kt" timestamp="1589003800122">
-        <mark key="'" line="154" column="109" />
-        <mark key="[" line="193" column="0" />
-        <mark key="]" line="193" column="0" />
-        <mark key="." line="193" column="0" />
-        <mark key="^" line="194" column="24" />
-      </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/android/util/Log.java" timestamp="1589004103828" />
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/android/view/View.java" timestamp="1589009651898" />
-      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/MainActivity.kt" timestamp="1589011508093">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-        <mark key="^" line="92" column="13" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.0.0/2151d26c3b241f0a887f2dadb9ab091649fcf020/recyclerview-1.0.0-sources.jar!/androidx/recyclerview/widget/RecyclerView.java" timestamp="1589009536711" />
-      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/MyAdapter.kt" timestamp="1589010916376">
-        <mark key="[" line="14" column="23" />
-        <mark key="]" line="11" column="50" />
-        <mark key="." line="11" column="50" />
-      </file>
-      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/loader/Bytedance/ByteDanceNative.kt" timestamp="1588994842289">
-        <mark key="[" line="40" column="85" />
-        <mark key="]" line="40" column="85" />
-        <mark key="." line="40" column="85" />
-      </file>
-      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/FirstFragment.kt" timestamp="1589004553951" />
-      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/res/layout/my_text_view.xml" timestamp="1589008354382">
-        <mark key="[" line="6" column="30" />
-        <mark key="]" line="6" column="31" />
-        <mark key="." line="6" column="31" />
-        <mark key="^" line="6" column="33" />
-      </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/android/widget/AdapterView.java" timestamp="1589010108170" />
-      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/loader/GDT/GDTNativeV2.kt" timestamp="1589004343915">
-        <mark key="'" line="97" column="16" />
-        <mark key="[" line="46" column="20" />
-        <mark key="]" line="46" column="21" />
-        <mark key="^" line="57" column="33" />
-        <mark key="." line="46" column="21" />
-      </file>
-      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/res/layout/activity_main.xml" timestamp="1589008723123">
-        <mark key="[" line="23" column="38" />
-        <mark key="]" line="29" column="4" />
-        <mark key="." line="29" column="3" />
-        <mark key="^" line="29" column="4" />
-      </file>
-      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/loader/GDT/GDTNativeV2Render.kt" timestamp="1588995675532">
-        <mark key="[" line="9" column="14" />
-        <mark key="]" line="8" column="21" />
-        <mark key="^" line="8" column="21" />
-        <mark key="." line="8" column="20" />
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/loader/GDT/GDTNativeV2Render.kt" timestamp="1589020757654">
+        <mark key="[" line="13" column="111" />
+        <mark key="]" line="13" column="111" />
+        <mark key="^" line="13" column="118" />
+        <mark key="." line="13" column="111" />
       </file>
     </filemarks>
     <jumps>
@@ -167,17 +152,17 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">YWJzdHJhY3Qg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YWJzdHJhY3Qg</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGVja1Blcm1pc3Npb25cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBlbnRyYW5jZXMuYWRkKEVudHJ5KCLliY3otLTniYciLCBQbGF5ZXJBY3Rpdml0eTo6Y2xhc3MuamF2YSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWQuYmluZEFkVG9WaWV3KGNvbnRleHQsIGdkdENvbnRhaW5lciwgbnVsbCwgY2xpY2thYmxlVmlld3MpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -186,25 +171,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CgovLyAgICAgICAgZmFiLnNldE9uQ2xpY2tMaXN0ZW5lciB7IF8gLT4KLy8gICAgICAgICAgICB2YWwgaW50ZW50ID0gSW50ZW50KHRoaXMsUGxheWVyQWN0aXZpdHk6OmNsYXNzLmphdmEpLmFwcGx5IHsKLy8gICAgICAgICAgICAgICAgcHV0RXh0cmEoRVhUUkFfTUVTU0FHRSwgIm1lc3NhZ2UiKQovLyAgICAgICAgICAgIH0KLy8gICAgICAgICAgICBzdGFydEFjdGl2aXR5KGludGVudCkKLy8gICAgICAgIH0=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBvbkl0ZW1DbGljayh2aWV3OiBBbnksIHBvc2l0aW9uOiBJbnQpIHsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmFscGhhPSIiCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB0b29sczpsYXlvdXRfZWRpdG9yX2Fic29sdXRlWT0iMWRwIgo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB0b29sczpsYXlvdXRfZWRpdG9yX2Fic29sdXRlWD0iMWRwIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2xpY2thYmxlVmlld3MuYWRkQWxsKGNsaWNrQWJsZVZpZXcpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBhZC5iaW5kQWRUb1ZpZXcoY29udGV4dCwgZ2R0Q29udGFpbmVyLCBudWxsLCBjbGlja2FibGVWaWV3cykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Ly8gICAgICAgIHN0YXJ0Q291bnRkb3duKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
