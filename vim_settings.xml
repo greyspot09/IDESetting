@@ -55,67 +55,114 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.61/fe3b9d48f4c3947639b6b1760213c1b79281383e/kotlin-stdlib-common-1.3.61-sources.jar!/kotlin/util/Standard.kt" timestamp="1589271256057" />
-      <file name="/SplashAdRequest.java" timestamp="1589265354437" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/placement/portraitbanner/PortraitBannerAdView.java" timestamp="1589265496233" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/common/AdEventNew.java" timestamp="1589265707547" />
-      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/loader/ADLoader.kt" timestamp="1589268282736">
-        <mark key="'" line="103" column="0" />
-        <mark key="[" line="59" column="4" />
-        <mark key="]" line="59" column="4" />
-        <mark key="^" line="68" column="35" />
-        <mark key="." line="59" column="4" />
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/loader/Baidu/BaiduNative/BaiduNative.kt" timestamp="1589277332038">
+        <mark key="[" line="49" column="32" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/placement/insert/GDTInsertAdTypeNativeUnified.java" timestamp="1589266841919">
-        <mark key="[" line="71" column="18" />
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/render/CountdownRender.kt" timestamp="1589275328099">
+        <mark key="[" line="2" column="20" />
+        <mark key="]" line="2" column="9" />
+        <mark key="^" line="2" column="9" />
+        <mark key="." line="2" column="8" />
       </file>
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/common/AdRequest.java" timestamp="1589265460510" />
-      <file name="$USER_HOME$/Library/Android/sdk/platforms/android-29/data/res/values/colors.xml" timestamp="1589270720907" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/placement/splash/SplashView.java" timestamp="1589269060389" />
-      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/loader/ADPluginEvent.kt" timestamp="1589268760129">
-        <mark key="[" line="59" column="24" />
-        <mark key="]" line="59" column="24" />
-        <mark key="." line="59" column="24" />
-        <mark key="^" line="57" column="40" />
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/MainActivity.kt" timestamp="1589274148890">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/common/AdManager.java" timestamp="1589267140073">
-        <mark key="[" line="566" column="14" />
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/AndroidManifest.xml" timestamp="1589275025378">
+        <mark key="[" line="19" column="57" />
+        <mark key="]" line="22" column="120" />
+        <mark key="^" line="22" column="120" />
+        <mark key="." line="22" column="119" />
       </file>
-      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/loader/LoopADLoader.kt" timestamp="1589269419863">
-        <mark key="[" line="50" column="37" />
-        <mark key="]" line="59" column="50" />
-        <mark key="." line="59" column="49" />
-        <mark key="^" line="59" column="50" />
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/render/CountdownAbleADRender.kt" timestamp="1589275533099">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="12" column="1" />
+        <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/common/AdRequestNew.java" timestamp="1589265619020" />
-      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/render/PortraitBannerRender/PortraitBannerRender.kt" timestamp="1589271184517" />
-      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/render/PreloadingRender/PreloadingRender.kt" timestamp="1589271406394">
-        <mark key="'" line="30" column="0" />
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="^" line="188" column="15" />
-        <mark key="." line="66" column="0" />
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/loader/GDT/BannerV2/GDTBannerV2Render.kt" timestamp="1589277604216">
+        <mark key="[" line="2" column="29" />
+        <mark key="]" line="3" column="25" />
+        <mark key="." line="3" column="24" />
+        <mark key="^" line="3" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/placement/portraitbanner/BaiduPortraitBannerAdTypeNative.java" timestamp="1589266550257">
-        <mark key="[" line="55" column="83" />
-        <mark key="]" line="55" column="83" />
-        <mark key="^" line="55" column="120" />
-        <mark key="." line="55" column="83" />
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/loader/Baidu/BaiduNative/BaiduNativeRender.kt" timestamp="1589277166910">
+        <mark key="[" line="10" column="8" />
+        <mark key="]" line="10" column="8" />
+        <mark key="." line="10" column="8" />
+        <mark key="^" line="10" column="35" />
       </file>
-      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/PlayerActivity.kt" timestamp="1589270881702" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_splash/src/main/java/com/dopool/module_splash/view/splash/activity/SplashActivity.kt" timestamp="1589268043192" />
-      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/loader/ADPluginBase.kt" timestamp="1589268679013">
-        <mark key="[" line="28" column="19" />
-        <mark key="]" line="31" column="49" />
-        <mark key="." line="31" column="48" />
-        <mark key="^" line="31" column="49" />
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/loader/GDT/NativeV2/GDTNativeV2Render.kt" timestamp="1589276211834">
+        <mark key="[" line="11" column="44" />
+        <mark key="]" line="11" column="44" />
+        <mark key="." line="11" column="44" />
+        <mark key="^" line="11" column="48" />
       </file>
-      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/res/layout/activity_player.xml" timestamp="1589270202831">
-        <mark key="'" line="11" column="59" />
-        <mark key="[" line="10" column="47" />
-        <mark key="]" line="10" column="47" />
-        <mark key="^" line="10" column="46" />
-        <mark key="." line="10" column="47" />
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/res/layout/activity_portrait_banner.xml" timestamp="1589273964543">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/LandscapeBannerActivity.kt" timestamp="1589276326448">
+        <mark key="'" line="76" column="68" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="32" column="47" />
+      </file>
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/render/LandscapeBanner/LandscapeBannerRender.kt" timestamp="1589277538595">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="32" />
+        <mark key="." line="47" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/render/PortraitBannerRender/PortraitBannerRender.kt" timestamp="1589277189811">
+        <mark key="[" line="104" column="28" />
+        <mark key="]" line="104" column="28" />
+        <mark key="." line="104" column="28" />
+        <mark key="^" line="104" column="15" />
+      </file>
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/loader/GDT/NativeV2/GDTNativeV2.kt" timestamp="1589276879212">
+        <mark key="'" line="39" column="34" />
+        <mark key="[" line="59" column="15" />
+        <mark key="]" line="59" column="15" />
+        <mark key="." line="59" column="15" />
+        <mark key="^" line="118" column="60" />
+      </file>
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/render/PreloadingRender/PreloadingRender.kt" timestamp="1589276728517">
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="37" column="28" />
+        <mark key="]" line="37" column="0" />
+        <mark key="^" line="23" column="83" />
+        <mark key="." line="37" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/loader/GDT/BannerV2/GDTBannerV2.kt" timestamp="1589277448686">
+        <mark key="[" line="27" column="26" />
+        <mark key="]" line="27" column="26" />
+        <mark key="." line="27" column="26" />
+      </file>
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/PlayerActivity.kt" timestamp="1589275502993">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/res/layout/activity_landscape_banner.xml" timestamp="1589273979643">
+        <mark key="[" line="6" column="45" />
+      </file>
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/PortraitBannerActivity.kt" timestamp="1589275514105">
+        <mark key="'" line="27" column="16" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="34" column="52" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/render/ADRender.kt" timestamp="1589276565570">
+        <mark key="[" line="5" column="4" />
+        <mark key="]" line="5" column="4" />
+        <mark key="^" line="5" column="12" />
+        <mark key="." line="5" column="4" />
       </file>
     </filemarks>
     <jumps>
@@ -163,48 +210,49 @@
       <jump line="28" column="16" filename="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/loader/ADLoader.kt" />
       <jump line="107" column="0" filename="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/loader/ADLoader.kt" />
       <jump line="11" column="59" filename="$USER_HOME$/workspace/ADExample2/app/src/main/res/layout/activity_player.xml" />
+      <jump line="76" column="68" filename="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/LandscapeBannerActivity.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHt9Cg==</text>
+        <text encoding="base64">ICAgIGZ1biByZQo=</text>
       </register>
       <register name="-" type="4">
-        <text>6</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjdXJyZW50UGx1Z2luXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJlbnQ6IFZpZXdHcm91cAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbGlzdAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHt9Cg==</text>
+        <text encoding="base64">ICAgIGZ1biByZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBMb2cuaShtVGFnLCAiY2xlYXIgY29udGVudExheW91dDoke2NvbnRlbnRMYXlvdXQuamF2YUNsYXNzLnNpbXBsZU5hbWV9IikK</text>
+        <text encoding="base64">ICAgICAgICBMb2cuaShtVGFnLCAic3RhcnRUaW1lIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IjMwMGRwIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIHBhcmVudCA9IHBhcmVudCBhcz8gVmlld0dyb3VwCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgdmFsIHBhcmVudCA9IHJlbmRlclZpZXdHcm91cD8ucGFyZW50IGFzPyBWaWV3R3JvdXAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXJlbnQucmVtb3ZlVmlldygpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaGFuZGxlciA9PSBudWxsIHx8IHJ1bm5hYmxlID09IG51bGwpIHsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvYWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvYWROZXh0KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmZvckVhY2ggewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
