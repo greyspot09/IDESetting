@@ -60,10 +60,10 @@
         <mark key="[" line="126" column="77" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/java/lang/Throwable.java" timestamp="1589510064011" />
-      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/plguin/ADPluginBase.kt" timestamp="1589514925417">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
+      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/plguin/ADPluginBase.kt" timestamp="1589517959285">
+        <mark key="[" line="46" column="42" />
+        <mark key="]" line="46" column="43" />
+        <mark key="." line="46" column="43" />
         <mark key="^" line="54" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/plguin/Baidu/Interstitial/BaiduInterstitialRender.kt" timestamp="1589507671533">
@@ -86,11 +86,11 @@
         <mark key="." line="66" column="22" />
         <mark key="^" line="66" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/plguin/GDT/NativeV2/GDTNativeV2.kt" timestamp="1589515077757">
-        <mark key="[" line="75" column="28" />
-        <mark key="]" line="27" column="12" />
-        <mark key="." line="27" column="12" />
-        <mark key="^" line="74" column="8" />
+      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/plguin/GDT/NativeV2/GDTNativeV2.kt" timestamp="1589517577618">
+        <mark key="[" line="39" column="40" />
+        <mark key="]" line="41" column="26" />
+        <mark key="." line="41" column="25" />
+        <mark key="^" line="41" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/render/PortraitBannerRender/PortraitBannerRender.kt" timestamp="1589512958942">
         <mark key="[" line="172" column="0" />
@@ -109,12 +109,6 @@
         <mark key="^" line="53" column="23" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/PlayerActivity.kt" timestamp="1589507527032">
-        <mark key="[" line="67" column="24" />
-        <mark key="]" line="100" column="47" />
-        <mark key="." line="100" column="46" />
-        <mark key="^" line="100" column="47" />
-      </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/android/view/ViewGroup.java" timestamp="1589512930801" />
       <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/plguin/GDT/NativeExpress/GDTNativeExpress.kt" timestamp="1589509576812">
         <mark key="[" line="97" column="28" />
@@ -131,6 +125,7 @@
         <mark key="." line="102" column="0" />
         <mark key="^" line="102" column="24" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e67d4a5db28e091e669ef782b86ad87d/jetified-GDTSDK.union.4.90.960/jars/classes.jar!/com/qq/e/ads/nativ/NativeUnifiedAD.class" timestamp="1589517398223" />
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/java/util/Collection.java" timestamp="1589508763392" />
       <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/plguin/Baidu/BaiduNative/BaiduNative.kt" timestamp="1589514739891">
         <mark key="[" line="31" column="0" />
@@ -200,8 +195,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">bGF0ZWluaXQg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">bGF0ZWluaXQg</text>
@@ -213,31 +208,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5kKG1UYWcsICLlub/ngrnpgJpiYW5uZXLvvIxvbkFEQ2xvc2VPdmVybGF5ICIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhZE1hbmFnZXIuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhZE1hbmFnZXIuCg==</text>
+        <text encoding="base64">ICAgICAgICBhZE1hbmFnZXI/LnNldAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbml0QUQocDBbMF0pCg==</text>
+        <text encoding="base64">ICAgICAgICBhZE1hbmFnZXIuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbml0QUQocDBbMF0pCg==</text>
+        <text encoding="base64">ICAgICAgICBhZE1hbmFnZXIuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5kKG1UYWcsICLlub/ngrnpgJpiYW5uZXLvvIxvbkFEQ2xvc2VPdmVybGF5ICIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbml0QUQocDBbMF0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbml0QUQocDBbMF0pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuaShtVGFnLCAiZGVzdG9yeSIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5kKG1UYWcsICLlub/ngrnpgJpiYW5uZXLvvIxvbkFEQ2xvc2VPdmVybGF5ICIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJyZW50QWQ/LmRlc3Ryb3koKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBleC5wcmludFN0YWNrVHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICBMb2cuaShtVGFnLCAiZGVzdG9yeSIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
