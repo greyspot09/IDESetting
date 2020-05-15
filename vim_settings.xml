@@ -127,10 +127,10 @@
       </file>
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e67d4a5db28e091e669ef782b86ad87d/jetified-GDTSDK.union.4.90.960/jars/classes.jar!/com/qq/e/ads/nativ/NativeUnifiedAD.class" timestamp="1589517398223" />
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/java/util/Collection.java" timestamp="1589508763392" />
-      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/plguin/Baidu/BaiduNative/BaiduNative.kt" timestamp="1589514739891">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="33" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/plguin/Baidu/BaiduNative/BaiduNative.kt" timestamp="1589521350377">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/plguin/GDT/BannerV2/GDTBannerV2.kt" timestamp="1589514491618">
         <mark key="[" line="52" column="0" />
@@ -196,7 +196,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">bGF0ZWluaXQg</text>
@@ -208,31 +208,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5kKG1UYWcsICLlub/ngrnpgJpiYW5uZXLvvIxvbkFEQ2xvc2VPdmVybGF5ICIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhZE1hbmFnZXI/LnNldAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhZE1hbmFnZXIuCg==</text>
+        <text encoding="base64">ICAgICAgICBhZE1hbmFnZXI/LnNldAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBhZE1hbmFnZXIuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbml0QUQocDBbMF0pCg==</text>
+        <text encoding="base64">ICAgICAgICBhZE1hbmFnZXIuCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbml0QUQocDBbMF0pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5kKG1UYWcsICLlub/ngrnpgJpiYW5uZXLvvIxvbkFEQ2xvc2VPdmVybGF5ICIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbml0QUQocDBbMF0pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5kKG1UYWcsICLlub/ngrnpgJpiYW5uZXLvvIxvbkFEQ2xvc2VPdmVybGF5ICIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuaShtVGFnLCAiZGVzdG9yeSIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
