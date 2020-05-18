@@ -64,8 +64,8 @@
         <mark key="^" line="30" column="19" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/LandscapeBannerActivity.kt" timestamp="1589766675568">
-        <mark key="[" line="60" column="22" />
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/LandscapeBannerActivity.kt" timestamp="1589767814173">
+        <mark key="[" line="58" column="74" />
         <mark key="]" line="57" column="34" />
         <mark key="." line="57" column="33" />
         <mark key="^" line="57" column="34" />
@@ -94,8 +94,8 @@
       </file>
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d38c63deeca963c558fe516b1169310c/constraintlayout-1.1.3/jars/classes.jar!/androidx/constraintlayout/widget/ConstraintSet.class" timestamp="1589764538788" />
       <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/render/PlayerInterstitialRender/PlayerInterstitialRender.kt" timestamp="1589764660082" />
-      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/render/LandscapeBanner/LandscapeBannerRender.kt" timestamp="1589766503833">
-        <mark key="[" line="15" column="51" />
+      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/render/LandscapeBanner/LandscapeBannerRender.kt" timestamp="1589767605609">
+        <mark key="[" line="55" column="30" />
         <mark key="]" line="15" column="51" />
         <mark key="^" line="15" column="55" />
         <mark key="." line="15" column="51" />
@@ -105,11 +105,11 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/adfactory/ADLoaderFactory.kt" timestamp="1589766529345">
-        <mark key="[" line="153" column="112" />
-        <mark key="]" line="95" column="20" />
-        <mark key="." line="95" column="19" />
-        <mark key="^" line="95" column="20" />
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/adfactory/ADLoaderFactory.kt" timestamp="1589768716180">
+        <mark key="[" line="96" column="48" />
+        <mark key="]" line="143" column="45" />
+        <mark key="^" line="174" column="24" />
+        <mark key="." line="143" column="45" />
       </file>
       <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/PortraitBannerActivity.kt" timestamp="1589529019442">
         <mark key="[" line="60" column="0" />
@@ -211,11 +211,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">SW50ICA=</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwbGF0Zm9ybVw+</text>
