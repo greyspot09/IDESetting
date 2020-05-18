@@ -81,9 +81,11 @@
         <mark key="." line="13" column="21" />
         <mark key="^" line="13" column="22" />
       </file>
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/placement/pre/PreAd.java" timestamp="1589772779919" />
       <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/plguin/Baidu/Interstitial/BaiduInterstitialRender.kt" timestamp="1589771624921">
         <mark key="[" line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/protocol/AdBeanX.java" timestamp="1589772795341" />
       <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/plguin/Baidu/Interstitial/BaiduInterstitial.kt" timestamp="1589771628355">
         <mark key="[" line="24" column="87" />
         <mark key="]" line="24" column="87" />
@@ -96,9 +98,8 @@
         <mark key="." line="149" column="0" />
         <mark key="^" line="41" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_main/src/main/java/com/dopool/module_main/view/activity/MainActivity.kt" timestamp="1589770392259" />
-      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/model/ADUnit.kt" timestamp="1589771716190">
-        <mark key="[" line="52" column="4" />
+      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/model/ADUnit.kt" timestamp="1589772803189">
+        <mark key="[" line="44" column="19" />
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
@@ -107,7 +108,7 @@
       <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/plguin/Baidu/Banner/BaiduBanner.kt" timestamp="1589771358093">
         <mark key="[" line="21" column="35" />
       </file>
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_base_component/src/main/java/com/dopool/module_base_component/app/BaseApp.kt" timestamp="1589771899131" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_base_component/src/main/java/com/dopool/module_base_component/app/BaseApp.kt" timestamp="1589772740919" />
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/placement/exitad/TTInteractionExitAd.java" timestamp="1589770540652" />
       <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/render/ExitRender/ExitRender.kt" timestamp="1589771237679">
         <mark key="'" line="179" column="12" />
@@ -116,13 +117,12 @@
         <mark key="." line="102" column="0" />
         <mark key="^" line="102" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/placement/exitad/ExitAppAdPanel.java" timestamp="1589770220202" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/balance/CoinBalancePresenter.kt" timestamp="1589772770154" />
       <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/plguin/Baidu/BaiduNative/BaiduNative.kt" timestamp="1589771683050">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/placement/exitad/PlatformExitAd.java" timestamp="1589770194483" />
     </filemarks>
     <jumps>
       <jump line="94" column="79" filename="$USER_HOME$/workspace/StarschinaTV8/module_play/src/main/java/com/dopool/module_play/play/viewmodel/vod/VodDataViewModel.kt" />
