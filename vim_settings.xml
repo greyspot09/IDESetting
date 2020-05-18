@@ -18,6 +18,7 @@
         <entry encoding="base64">XDxjdXJyZW50UGx1Z2luXD4=</entry>
         <entry encoding="base64">XDxsaXN0ZW5lclw+</entry>
         <entry encoding="base64">XDxwbGF0Zm9ybVw+</entry>
+        <entry encoding="base64">XDxhZGRMb2dvSW1hZ2VWaWV3XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
@@ -57,107 +58,105 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/plguin/Baidu/BaiduNative/BaiduNativeRender.kt" timestamp="1589781435815">
-        <mark key="[" line="6" column="26" />
+      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/render/PreloadingRender/PreloadingRender.kt" timestamp="1589793629865">
+        <mark key="'" line="108" column="51" />
+        <mark key="[" line="37" column="15" />
+        <mark key="]" line="37" column="15" />
+        <mark key="." line="37" column="15" />
+        <mark key="^" line="158" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/render/PreloadingRender/PreloadingRender.kt" timestamp="1589774005483">
-        <mark key="[" line="170" column="28" />
-        <mark key="]" line="170" column="41" />
-        <mark key="." line="170" column="40" />
-        <mark key="^" line="170" column="41" />
+      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/plguin/Bytedance/Native/ByteDanceNative.kt" timestamp="1589790833725">
+        <mark key="'" line="55" column="12" />
+        <mark key="[" line="93" column="16" />
+        <mark key="]" line="93" column="16" />
+        <mark key="." line="93" column="16" />
+        <mark key="^" line="92" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/plguin/Bytedance/Native/ByteDanceNative.kt" timestamp="1589781260251">
-        <mark key="'" line="45" column="12" />
-        <mark key="[" line="68" column="69" />
-        <mark key="]" line="68" column="69" />
-        <mark key="." line="68" column="69" />
-        <mark key="^" line="68" column="71" />
+      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/plguin/GDT/NativeV2/GDTNativeV2.kt" timestamp="1589786923216">
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="69" />
+        <mark key="." line="94" column="0" />
+        <mark key="^" line="93" column="65" />
       </file>
-      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/plguin/Bytedance/Native/ByteDanceNativeRender.kt" timestamp="1589781217194">
-        <mark key="[" line="7" column="22" />
+      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/render/PortraitBannerRender/PortraitBannerRender.kt" timestamp="1589787566259">
+        <mark key="[" line="109" column="4" />
+        <mark key="]" line="152" column="4" />
+        <mark key="." line="111" column="53" />
       </file>
-      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/plguin/Baidu/Interstitial/BaiduInterstitial.kt" timestamp="1589781162739">
-        <mark key="[" line="46" column="16" />
-        <mark key="]" line="46" column="16" />
-        <mark key="." line="46" column="16" />
-        <mark key="^" line="22" column="88" />
+      <file name="/fragment.kt" timestamp="1589793544408">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/plguin/GDT/NativeV2/GDTNativeV2.kt" timestamp="1589781305592">
-        <mark key="[" line="94" column="8" />
-        <mark key="]" line="94" column="8" />
-        <mark key="." line="94" column="8" />
-        <mark key="^" line="39" column="26" />
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/adfactory/PluginCreator.kt" timestamp="1589789417942">
+        <mark key="[" line="74" column="69" />
+        <mark key="]" line="74" column="69" />
+        <mark key="." line="74" column="69" />
       </file>
-      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/render/LandscapeBanner/LandscapeBannerRender.kt" timestamp="1589780300502">
-        <mark key="[" line="17" column="27" />
-        <mark key="]" line="15" column="57" />
-        <mark key="." line="15" column="56" />
-        <mark key="^" line="15" column="57" />
-      </file>
-      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/adfactory/PluginCreator.kt" timestamp="1589781635718">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="^" line="59" column="77" />
-        <mark key="." line="30" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/res/values/ids.xml" timestamp="1589773953941">
+      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2de2a1da3040166bb31faa957d9dd922/jetified-open_ad_sdk/jars/classes.jar!/com/bytedance/sdk/openadsdk/TTNativeAd.class" timestamp="1589790991315" />
+      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/res/values/ids.xml" timestamp="1589791170838">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
         <mark key="^" line="4" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/render/ADRender.kt" timestamp="1589780204775">
-        <mark key="[" line="14" column="34" />
-        <mark key="]" line="14" column="23" />
-        <mark key="." line="14" column="22" />
-        <mark key="^" line="14" column="23" />
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/PermissionUtil.kt" timestamp="1589788433514" />
+      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/render/ADRender.kt" timestamp="1589793373703">
+        <mark key="[" line="45" column="28" />
+        <mark key="]" line="45" column="28" />
+        <mark key="." line="45" column="28" />
+        <mark key="^" line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/plguin/GDT/BannerV2/GDTBannerV2Render.kt" timestamp="1589781480491">
-        <mark key="[" line="4" column="27" />
+      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/plguin/Baidu/Interstitial/BaiduInterstitialRender.kt" timestamp="1589792279280">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/model/ADUnit.kt" timestamp="1589774418782">
+      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/loader/ADLoader.kt" timestamp="1589789240511">
+        <mark key="[" line="93" column="35" />
+        <mark key="]" line="137" column="29" />
+        <mark key="." line="137" column="28" />
+        <mark key="^" line="137" column="29" />
+      </file>
+      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/model/ADUnit.kt" timestamp="1589789259302">
         <mark key="[" line="44" column="19" />
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/plguin/Baidu/Banner/BaiduBanner.kt" timestamp="1589774393802">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/plguin/GDT/NativeV2/GDTNativeV2Render.kt" timestamp="1589787512929">
+        <mark key="[" line="13" column="24" />
+        <mark key="]" line="14" column="1" />
+        <mark key="^" line="14" column="1" />
+        <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/adfactory/ADLoaderFactory.kt" timestamp="1589781392413">
-        <mark key="[" line="164" column="0" />
-        <mark key="]" line="164" column="0" />
-        <mark key="^" line="82" column="93" />
-        <mark key="." line="164" column="0" />
+      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/render/PlayerInterstitialRender/PlayerInterstitialRender.kt" timestamp="1589792270785">
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="0" />
+        <mark key="." line="103" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/plguin/GDT/NativeExpress/GDTNativeExpress.kt" timestamp="1589781279129">
-        <mark key="[" line="102" column="8" />
-        <mark key="]" line="102" column="8" />
-        <mark key="." line="102" column="8" />
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/PlayerActivity.kt" timestamp="1589787105883">
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="0" />
+        <mark key="." line="77" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/PlayerInterstitialActivity.kt" timestamp="1589780419529">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
-        <mark key="^" line="40" column="61" />
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/adfactory/ADLoaderFactory.kt" timestamp="1589793742495">
+        <mark key="[" line="97" column="20" />
+        <mark key="]" line="97" column="20" />
+        <mark key="^" line="98" column="52" />
+        <mark key="." line="97" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/render/ExitRender/ExitRender.kt" timestamp="1589780218868">
-        <mark key="'" line="181" column="12" />
-        <mark key="[" line="39" column="44" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
+      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/utils/ViewExtension.kt" timestamp="1589793671415">
+        <mark key="[" line="25" column="64" />
+        <mark key="]" line="25" column="64" />
+        <mark key="." line="25" column="64" />
       </file>
-      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/plguin/Baidu/BaiduNative/BaiduNative.kt" timestamp="1589781467479">
-        <mark key="[" line="59" column="44" />
-        <mark key="]" line="57" column="42" />
-        <mark key="." line="57" column="41" />
-        <mark key="^" line="57" column="42" />
+      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/render/ExitRender/ExitRender.kt" timestamp="1589793522905">
+        <mark key="'" line="174" column="12" />
+        <mark key="[" line="26" column="33" />
+        <mark key="]" line="26" column="33" />
+        <mark key="^" line="136" column="59" />
+        <mark key="." line="26" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/plguin/GDT/BannerV2/GDTBannerV2.kt" timestamp="1589781518965">
-        <mark key="[" line="58" column="8" />
-        <mark key="]" line="58" column="8" />
-        <mark key="." line="58" column="8" />
+      <file name="/fragment.java" timestamp="1589792991354">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -229,48 +228,56 @@
       <jump line="169" column="8" filename="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/adfactory/ADLoaderFactory.kt" />
       <jump line="31" column="65" filename="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/plguin/Bytedance/Native/ByteDanceNative.kt" />
       <jump line="45" column="12" filename="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/plguin/Bytedance/Native/ByteDanceNative.kt" />
+      <jump line="26" column="17" filename="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/render/PreloadingRender/PreloadingRender.kt" />
+      <jump line="223" column="0" filename="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/render/PreloadingRender/PreloadingRender.kt" />
+      <jump line="64" column="4" filename="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/render/PreloadingRender/PreloadingRender.kt" />
+      <jump line="50" column="33" filename="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/render/PreloadingRender/PreloadingRender.kt" />
+      <jump line="182" column="37" filename="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/render/PreloadingRender/PreloadingRender.kt" />
+      <jump line="187" column="28" filename="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/render/PreloadingRender/PreloadingRender.kt" />
+      <jump line="237" column="8" filename="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/render/PreloadingRender/PreloadingRender.kt" />
+      <jump line="103" column="51" filename="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/render/PreloadingRender/PreloadingRender.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBMb2cuaSgibGl1Y2llbiIsICJ0byBjcmVhdGUiKQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwbGF0Zm9ybVw+</text>
+        <text encoding="base64">XDxhZGRMb2dvSW1hZ2VWaWV3XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuaSgibGl1Y2llbiIsICJ1bml0KHBsYXRmb3JtOiRwbGF0Zm9ybSwgcmVuZGVyVHlwZTogJHt1bml0LnJlbmRlcl90eXBlfSkiKQo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgbGF5b3V0ID0gYWRkQ29udGVudExheW91dCh2aWV3R3JvdXApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBMb2cuaSgibGl1Y2llbiIsICJ0byBjcmVhdGUiKQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIExvZy5pKCJsaXVjaWVuIiwgInVuaXQocGxhdGZvcm06JHBsYXRmb3JtLCByZW5kZXJUeXBlOiAke3VuaXQucmVuZGVyX3R5cGV9KSIpCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgIExvZy5pKCJsaXVjaWVuIiwgInRoaXMocGxhdGZvcm06JHt0aGlzLnBsYXRmb3JtfSwgcmVuZGVyVHlwZTogJHJlbmRlclR5cGUpIikK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGlhbG9nLnNob3coKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN1YnRpdGxlICAgICAgICA9IG5hdGl2ZUFkLmRlc2MK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">CgoKCi8vICAgIGNsYXNzIEdEVE5hdGl2ZVYyOiBQbHVnaW5DcmVhdG9yKCkgewovLyAgICAgICAgb3ZlcnJpZGUgZnVuIGNyZWF0ZShwbGF0Zm9ybTogSW50LCBhcHBJZDogU3RyaW5nLCB1bml0OiBBRFVuaXQsIGFjdGl2aXR5OiBBY3Rpdml0eSwgdmlld0dyb3VwOiBWaWV3R3JvdXAsIHJlbmRlcjogQURSZW5kZXIpOiBBRFBsdWdpbj8gewovLyAgICAgICAgICAgIGlmIChwbGF0Zm9ybSA9PSBBRFBsYXRmb3JtLmdkdCAmJiB1bml0LnJlbmRlcl90eXBlID09IEdEVEFkVHlwZS5OQVRJVkVfVU5JRklFRCAmJiByZW5kZXIgaXMgR0RUTmF0aXZlVjJSZW5kZXIpIHsKLy8gICAgICAgICAgICAgICAgR0RUTmF0aXZlVjIoYWN0aXZpdHksYXBwSWQsIEFEUGxhdGZvcm0uZ2R0LCB1bml0LCB2aWV3R3JvdXAscmVuZGVyKQovLyAgICAgICAgICAgIH0KLy8gICAgICAgICAgICByZXR1cm4gbnVsbAovLyAgICAgICAgfQovLyAgICB9Ci8vCi8vICAgIGNsYXNzIEdEVEJhbm5lclYyOiBQbHVnaW5DcmVhdG9yKCkgewovLyAgICAgICAgb3ZlcnJpZGUgZnVuIGNyZWF0ZShwbGF0Zm9ybTogSW50LCBhcHBJZDogU3RyaW5nLCB1bml0OiBBRFVuaXQsIGFjdGl2aXR5OiBBY3Rpdml0eSwgdmlld0dyb3VwOiBWaWV3R3JvdXAsIHJlbmRlcjogQURSZW5kZXIpOiBBRFBsdWdpbj8gewovLyAgICAgICAgICAgIGlmIChwbGF0Zm9ybSA9PSBBRFBsYXRmb3JtLmdkdCAmJiB1bml0LnJlbmRlcl90eXBlID09IEdEVEFkVHlwZS5CQU5ORVJfVU5JRklFRCAmJiByZW5kZXIgaXMgR0RUQmFubmVyVjJSZW5kZXIpIHsKLy8gICAgICAgICAgICAgICAgc3RhcnNjaGluYS5hZGxvYWRlci5wbGd1aW4uR0RULkJhbm5lclYyLkdEVEJhbm5lclYyKGFjdGl2aXR5LGFwcElkLCBBRFBsYXRmb3JtLmdkdCwgdW5pdCwgdmlld0dyb3VwLHJlbmRlcikKLy8gICAgICAgICAgICB9Ci8vICAgICAgICAgICAgcmV0dXJuIG51bGwKLy8gICAgICAgIH0KLy8gICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRpdGxlICAgICAgICAgICA9IG5hdGl2ZUFkLnRpdGxlLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2aWV3R3JvdXAsCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBzZXQuY29ubmVjdChhZFZpZXcuaWQsIENvbnN0cmFpbnRTZXQuVE9QLCBDb25zdHJhaW50U2V0LlBBUkVOVF9JRCwgQ29uc3RyYWludFNldC5UT1ApCi8vICAgICAgICAgICAgc2V0LmNvbm5lY3QoYWRWaWV3LmlkLCBDb25zdHJhaW50U2V0LkxFRlQsIENvbnN0cmFpbnRTZXQuUEFSRU5UX0lELCBDb25zdHJhaW50U2V0LkxFRlQpCi8vICAgICAgICAgICAgc2V0LmNvbm5lY3QoYWRWaWV3LmlkLCBDb25zdHJhaW50U2V0LkJPVFRPTSwgQ29uc3RyYWludFNldC5QQVJFTlRfSUQsIENvbnN0cmFpbnRTZXQuQk9UVE9NKQovLyAgICAgICAgICAgIHNldC5jb25uZWN0KGFkVmlldy5pZCwgQ29uc3RyYWludFNldC5SSUdIVCwgQ29uc3RyYWludFNldC5QQVJFTlRfSUQsIENvbnN0cmFpbnRTZXQuUklHSFQpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGNvbnRhaW5lclZpZXc6IFZpZXdHcm91cCwK</text>
+        <text encoding="base64">ICAgICAgICBhZGRjb250Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGNvbnRhaW5lclZpZXc6IFZpZXdHcm91cCwK</text>
+        <text encoding="base64">ICAgICAgICBsYXlvdXQuaWQgPSBSLmlkLmFkX2NvbnRlbnRfbGF5b3V0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZpZXdHcm91cCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgVE9ETygibm90IGltcGxlbWVudGVkIikgLy9UbyBjaGFuZ2UgYm9keSBvZiBjcmVhdGVkIGZ1bmN0aW9ucyB1c2UgRmlsZSB8IFNldHRpbmdzIHwgRmlsZSBUZW1wbGF0ZXMuCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -279,9 +286,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxwbGF0Zm9ybVw+</last-search>
+      <last-search encoding="base64">XDxhZGRMb2dvSW1hZ2VWaWV3XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwbGF0Zm9ybVw+</last-pattern>
+      <last-pattern encoding="base64">XDxhZGRMb2dvSW1hZ2VWaWV3XD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
