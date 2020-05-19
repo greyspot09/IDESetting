@@ -89,6 +89,9 @@
         <mark key="]" line="74" column="69" />
         <mark key="." line="74" column="69" />
       </file>
+      <file name="$USER_HOME$/workspace/ADExample2/app/build.gradle" timestamp="1589851650140">
+        <mark key="[" line="56" column="50" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2de2a1da3040166bb31faa957d9dd922/jetified-open_ad_sdk/jars/classes.jar!/com/bytedance/sdk/openadsdk/TTNativeAd.class" timestamp="1589790991315" />
       <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/res/values/ids.xml" timestamp="1589791170838">
         <mark key="[" line="7" column="0" />
@@ -115,11 +118,6 @@
         <mark key="]" line="7" column="44" />
         <mark key="." line="7" column="43" />
         <mark key="^" line="7" column="44" />
-      </file>
-      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/model/ADUnit.kt" timestamp="1589789259302">
-        <mark key="[" line="44" column="19" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/utils/ViewExtensionForConstraintLayout.kt" timestamp="1589795215038">
         <mark key="[" line="33" column="17" />
