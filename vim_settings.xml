@@ -58,13 +58,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/build.gradle" timestamp="1589860595142">
-        <mark key="[" line="78" column="65" />
-        <mark key="]" line="78" column="65" />
-        <mark key="." line="78" column="65" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/build.gradle" timestamp="1589864891221">
+        <mark key="[" line="86" column="65" />
+        <mark key="]" line="86" column="65" />
+        <mark key="." line="86" column="65" />
       </file>
       <file name="$USER_HOME$/workspace/StarschinaTV8/MPChartLib/src/main/AndroidManifest.xml" timestamp="1589860273637" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/adloader/build.gradle" timestamp="1589861466126">
+      <file name="$USER_HOME$/workspace/StarschinaTV8/adloader/build.gradle" timestamp="1589864607647">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
@@ -116,12 +116,15 @@
         <mark key="^" line="65" column="53" />
         <mark key="." line="65" column="52" />
       </file>
-      <file name="$USER_HOME$/workspace/StarschinaTV8/settings.gradle" timestamp="1589859998779">
-        <mark key="[" line="2" column="0" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/settings.gradle" timestamp="1589864720208">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_base_component/build.gradle" timestamp="1589860991593" />
       <file name="$USER_HOME$/workspace/StarschinaTV8/adloader/src/main/java/starschina/adloader/render/PlayerInterstitialRender/PlayerInterstitialRender.kt" timestamp="1589861233775" />
-      <file name="$USER_HOME$/workspace/ADExample2/adloader/build.gradle" timestamp="1589860766171">
+      <file name="$USER_HOME$/workspace/ADExample2/adloader/build.gradle" timestamp="1589864627227">
         <mark key="[" line="33" column="51" />
         <mark key="]" line="40" column="4" />
         <mark key="." line="40" column="3" />
@@ -211,10 +214,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWR4LmNvcmUudmlldy5zaXplCg==</text>
+        <text encoding="base64">aW5jbHVkZSAnOmFkbG9hZGVyJwo=</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhZGRMb2dvSW1hZ2VWaWV3XD4=</text>
@@ -223,31 +226,31 @@
         <text encoding="base64">ICAgICAgICAgICAgLCAibW9kdWxlX3ZpcF9wYWdlL3NyYy9tYWluIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWR4LmNvcmUudmlldy5zaXplCg==</text>
+        <text encoding="base64">aW5jbHVkZSAnOmFkbG9hZGVyJwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5idW1wdGVjaC5nbGlkZS5HbGlkZQo=</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWR4LmNvcmUudmlldy5zaXplCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC5jb25zdHJhaW50LkNvbnN0cmFpbnRMYXlvdXQK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5idW1wdGVjaC5nbGlkZS5HbGlkZQo=</text>
       </register>
       <register name="4" type="2">
-        <text>import androidx.constraintlayout.widget.ConstraintSet</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC5jb25zdHJhaW50LkNvbnN0cmFpbnRMYXlvdXQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ29uc3RyYWludFNldAo=</text>
+        <text>import androidx.constraintlayout.widget.ConstraintSet</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgbGF5b3V0ID0gQ29uc3RyYWludExheW91dAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ29uc3RyYWludFNldAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgbGF5b3V0ID0gQ29uc3RyYWludExheW91dAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWR4LmNvbnN0cmFpbnRsYXlvdXQud2lkZ2V0LkNvbnN0cmFpbnRMYXlvdXQK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgbGF5b3V0ID0gQ29uc3RyYWludExheW91dAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFubm90YXRpb25Qcm9jZXNzb3IgJ2NvbS5naXRodWIuYnVtcHRlY2guZ2xpZGU6Y29tcGlsZXI6NC43LjEnCg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWR4LmNvbnN0cmFpbnRsYXlvdXQud2lkZ2V0LkNvbnN0cmFpbnRMYXlvdXQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
