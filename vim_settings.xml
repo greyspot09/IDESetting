@@ -58,12 +58,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/render/PreloadingRender/PreloadingRender.kt" timestamp="1589796617906">
+      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/render/PreloadingRender/PreloadingRender.kt" timestamp="1589850371426">
         <mark key="'" line="108" column="51" />
         <mark key="[" line="91" column="29" />
-        <mark key="]" line="91" column="0" />
-        <mark key="." line="91" column="0" />
-        <mark key="^" line="88" column="60" />
+        <mark key="]" line="86" column="51" />
+        <mark key="." line="86" column="50" />
+        <mark key="^" line="86" column="51" />
       </file>
       <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/plguin/Bytedance/Native/ByteDanceNative.kt" timestamp="1589794662615">
         <mark key="'" line="55" column="12" />
@@ -81,6 +81,9 @@
       <file name="/fragment.kt" timestamp="1589793544408">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/ADExample2/gradle/wrapper/gradle-wrapper.properties" timestamp="1589850397817">
+        <mark key="[" line="5" column="79" />
+      </file>
       <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/adfactory/PluginCreator.kt" timestamp="1589789417942">
         <mark key="[" line="74" column="69" />
         <mark key="]" line="74" column="69" />
@@ -93,12 +96,14 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="4" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/PermissionUtil.kt" timestamp="1589788433514" />
       <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/render/ADRender.kt" timestamp="1589793373703">
         <mark key="[" line="45" column="28" />
         <mark key="]" line="45" column="28" />
         <mark key="." line="45" column="28" />
         <mark key="^" line="40" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/KsAdSdk_full/output/SDKDemo/gradle/wrapper/gradle-wrapper.properties" timestamp="1589850667804">
+        <mark key="[" line="5" column="79" />
       </file>
       <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/plguin/Baidu/Interstitial/BaiduInterstitialRender.kt" timestamp="1589792279280">
         <mark key="[" line="10" column="0" />
@@ -110,12 +115,6 @@
         <mark key="]" line="7" column="44" />
         <mark key="." line="7" column="43" />
         <mark key="^" line="7" column="44" />
-      </file>
-      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/loader/ADLoader.kt" timestamp="1589789240511">
-        <mark key="[" line="93" column="35" />
-        <mark key="]" line="137" column="29" />
-        <mark key="." line="137" column="28" />
-        <mark key="^" line="137" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/model/ADUnit.kt" timestamp="1589789259302">
         <mark key="[" line="44" column="19" />
