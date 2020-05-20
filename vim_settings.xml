@@ -58,17 +58,18 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/MainActivity.kt" timestamp="1589943498666">
+        <mark key="[" line="138" column="57" />
+        <mark key="]" line="108" column="31" />
+        <mark key="^" line="108" column="31" />
+        <mark key="." line="108" column="30" />
+      </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/app/Activity.java" timestamp="1589945536100" />
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/protocol/AdBeanX.java" timestamp="1589881998075">
         <mark key="[" line="288" column="65" />
         <mark key="]" line="306" column="36" />
         <mark key="^" line="306" column="36" />
         <mark key="." line="306" column="35" />
-      </file>
-      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/res/layout/dialog_exit_ad.xml" timestamp="1589879510239">
-        <mark key="[" line="4" column="26" />
-        <mark key="]" line="4" column="26" />
-        <mark key="." line="4" column="26" />
-        <mark key="^" line="4" column="32" />
       </file>
       <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/res/values/styles.xml" timestamp="1589938303820">
         <mark key="[" line="13" column="20" />
@@ -80,7 +81,14 @@
         <mark key="]" line="154" column="0" />
         <mark key="." line="154" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Android/sdk/platforms/android-28/android.jar!/android/view/Window.class" timestamp="1589938888445" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_main/src/main/java/com/dopool/module_main/view/activity/MainActivity.kt" timestamp="1589945592205">
+        <mark key="[" line="1316" column="0" />
+        <mark key="]" line="1316" column="47" />
+        <mark key="." line="1316" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/common/AdManager.java" timestamp="1589944314572">
+        <mark key="." line="359" column="20" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="94" column="79" filename="$USER_HOME$/workspace/StarschinaTV8/module_play/src/main/java/com/dopool/module_play/play/viewmodel/vod/VodDataViewModel.kt" />
@@ -164,8 +172,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>StarschinaTV8</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgc3VwZXIuZmluaXNoQWZ0ZXJUcmFuc2l0aW9uKCkK</text>
       </register>
       <register name="-" type="4">
         <text>StarschinaTV8</text>
@@ -174,7 +182,7 @@
         <text encoding="base64">XDxhZGRMb2dvSW1hZ2VWaWV3XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxjb2xvciBuYW1lPSJ3aGl0ZSI+I2ZmZmZmZjwvY29sb3I+Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgc3VwZXIuZmluaXNoQWZ0ZXJUcmFuc2l0aW9uKCkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
