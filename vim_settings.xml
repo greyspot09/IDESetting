@@ -58,44 +58,29 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/build.gradle" timestamp="1589880719248" />
-      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/res/anim/dialog_enter.xml" timestamp="1589878417798" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/placement/portraitbanner/PortraitBannerAdView.java" timestamp="1589882052981" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_play/src/main/java/com/dopool/module_play/play/ad/AdComponent.kt" timestamp="1589882344572" />
-      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/res/layout/dialog_exit_ad.xml" timestamp="1589879510239">
-        <mark key="[" line="4" column="26" />
-        <mark key="]" line="4" column="26" />
-        <mark key="." line="4" column="26" />
-        <mark key="^" line="4" column="32" />
-      </file>
-      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/res/values/styles.xml" timestamp="1589878414711">
-        <mark key="[" line="13" column="20" />
-        <mark key="]" line="13" column="20" />
-        <mark key="." line="13" column="20" />
-      </file>
-      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/res/drawable/round_corner_button_background.xml" timestamp="1589878397331" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/utils/DownloadAdUtils.java" timestamp="1589880988572" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/placement/banner/PlayingAdView.java" timestamp="1589882496264" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/debug/data/AdConfigInstance.kt" timestamp="1589881659082" />
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/protocol/AdBeanX.java" timestamp="1589881998075">
         <mark key="[" line="288" column="65" />
         <mark key="]" line="306" column="36" />
         <mark key="^" line="306" column="36" />
         <mark key="." line="306" column="35" />
       </file>
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_base_component/src/main/java/com/dopool/module_base_component/ad/ChildAdManager.java" timestamp="1589881245613" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/common/AdManager.java" timestamp="1589881193919" />
-      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/model/ADUnit.kt" timestamp="1589880829252" />
-      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/res/values/strings.xml" timestamp="1589879281619" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_my/src/main/res/values/style.xml" timestamp="1589879984661" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/bean/AdBean.java" timestamp="1589881620364" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/protocol/RspPlayAdConfig.java" timestamp="1589881215295" />
-      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/render/ExitRender/ExitRender.kt" timestamp="1589879918692">
+      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/res/layout/dialog_exit_ad.xml" timestamp="1589879510239">
+        <mark key="[" line="4" column="26" />
+        <mark key="]" line="4" column="26" />
+        <mark key="." line="4" column="26" />
+        <mark key="^" line="4" column="32" />
+      </file>
+      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/res/values/styles.xml" timestamp="1589938303820">
+        <mark key="[" line="13" column="20" />
+        <mark key="]" line="13" column="20" />
+        <mark key="." line="13" column="20" />
+      </file>
+      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/render/ExitRender/ExitRender.kt" timestamp="1589938990619">
         <mark key="[" line="154" column="0" />
         <mark key="]" line="154" column="0" />
         <mark key="." line="154" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/download/AdVideoDownloadReceiver.kt" timestamp="1589880974063" />
+      <file name="$USER_HOME$/Library/Android/sdk/platforms/android-28/android.jar!/android/view/Window.class" timestamp="1589938888445" />
     </filemarks>
     <jumps>
       <jump line="94" column="79" filename="$USER_HOME$/workspace/StarschinaTV8/module_play/src/main/java/com/dopool/module_play/play/viewmodel/vod/VodDataViewModel.kt" />
