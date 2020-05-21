@@ -63,13 +63,6 @@
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/protocol/PlayAdConfigRequest.java" timestamp="1590045478930" />
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/common/AdConfig.java" timestamp="1590044282359" />
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/placement/exitad/ExitPlayAdPanel.java" timestamp="1590050085584" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_main/src/main/java/com/dopool/module_main/view/activity/MainActivity.kt" timestamp="1590050721106">
-        <mark key="'" line="1408" column="36" />
-        <mark key="[" line="801" column="0" />
-        <mark key="]" line="803" column="25" />
-        <mark key="." line="803" column="24" />
-        <mark key="^" line="803" column="25" />
-      </file>
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_base_component/src/main/java/com/dopool/module_base_component/util/LehooParser.kt" timestamp="1590045472162" />
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/placement/insert/PlatformInsertAd.java" timestamp="1590044244299" />
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/common/AdRequestHandler.java" timestamp="1590049794726" />
@@ -91,10 +84,10 @@
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/placement/exitad/GDTExitAdTypeExpress.java" timestamp="1590050090758" />
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_base_component/src/main/java/com/dopool/module_base_component/ui/fragment/pagefragment/PageFragment.kt" timestamp="1590047414527" />
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_splash/src/main/java/com/dopool/module_splash/view/splash/activity/SplashActivity.kt" timestamp="1590050741018" />
-      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/plguin/GDT/NativeExpress/GDTNativeExpress.kt" timestamp="1590050975336">
-        <mark key="[" line="155" column="52" />
-        <mark key="]" line="155" column="52" />
-        <mark key="." line="155" column="52" />
+      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/plguin/GDT/NativeExpress/GDTNativeExpress.kt" timestamp="1590052901406">
+        <mark key="[" line="31" column="19" />
+        <mark key="]" line="31" column="19" />
+        <mark key="." line="31" column="19" />
         <mark key="^" line="155" column="52" />
       </file>
       <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/render/ExitRender/ExitRender.kt" timestamp="1590052139762">
@@ -202,11 +195,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBleGl0TG9hZGVyPy5vblBhdXNlKCkK</text>
+      <register name="&quot;" type="4">
+        <text>ADSize.FULL_WIDTH</text>
       </register>
       <register name="-" type="4">
-        <text>6</text>
+        <text>ADSize.FULL_WIDTH</text>
       </register>
       <register name="/" type="4">
         <text>dismiss</text>
