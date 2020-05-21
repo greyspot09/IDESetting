@@ -58,11 +58,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/ADLoaderFactory/ADLoaderFactory.kt" timestamp="1590029662096">
-        <mark key="[" line="134" column="45" />
-        <mark key="]" line="134" column="45" />
-        <mark key="." line="134" column="45" />
-        <mark key="^" line="131" column="20" />
+      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/ADLoaderFactory/ADLoaderFactory.kt" timestamp="1590032768584">
+        <mark key="[" line="166" column="45" />
+        <mark key="]" line="152" column="45" />
+        <mark key="." line="152" column="44" />
+        <mark key="^" line="152" column="45" />
       </file>
       <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/render/PreloadingRender/PreloadingRender.kt" timestamp="1590031036398">
         <mark key="[" line="95" column="0" />
@@ -119,18 +119,14 @@
         <mark key="." line="155" column="52" />
         <mark key="^" line="155" column="52" />
       </file>
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_base_component/src/main/java/com/dopool/module_base_component/adloader/ADModelBridge.kt" timestamp="1590022715353">
-        <mark key="[" line="6" column="5" />
-        <mark key="]" line="6" column="5" />
-        <mark key="." line="6" column="5" />
-      </file>
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_child_model/src/main/java/com/dopool/module_child_model/view/ChildModeMainActivity.kt" timestamp="1590032534100" />
       <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/PlayerInterstitialActivity.kt" timestamp="1590024795137">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
         <mark key="^" line="52" column="8" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/render/ExitRender/ExitRender.kt" timestamp="1590031422637">
+      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/render/ExitRender/ExitRender.kt" timestamp="1590032223464">
         <mark key="[" line="203" column="0" />
         <mark key="]" line="203" column="0" />
         <mark key="^" line="164" column="56" />
@@ -222,11 +218,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bGF5b3V0ICA=</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhZGRMb2dvSW1hZ2VWaWV3XD4=</text>
