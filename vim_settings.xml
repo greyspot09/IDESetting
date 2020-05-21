@@ -72,9 +72,9 @@
       <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/plguin/ADPluginBase.kt" timestamp="1590024897124" />
       <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/plguin/Bytedance/Native/ByteDanceNative.kt" timestamp="1590029875636" />
       <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/plguin/Baidu/Interstitial/BaiduInterstitialRender.kt" timestamp="1590026711114" />
-      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/loader/ADLoader.kt" timestamp="1590028264631">
+      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/loader/ADLoader.kt" timestamp="1590040582681">
         <mark key="'" line="26" column="5" />
-        <mark key="[" line="96" column="44" />
+        <mark key="[" line="20" column="18" />
         <mark key="]" line="96" column="36" />
         <mark key="." line="96" column="35" />
         <mark key="^" line="96" column="36" />
@@ -115,10 +115,10 @@
       </file>
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_child_model/src/main/java/com/dopool/module_child_model/view/ChildModeMainActivity.kt" timestamp="1590032534100" />
       <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/PlayerInterstitialActivity.kt" timestamp="1590024795137">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="^" line="52" column="8" />
-        <mark key="." line="36" column="0" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="42" column="8" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/render/ExitRender/ExitRender.kt" timestamp="1590032223464">
         <mark key="[" line="203" column="0" />
