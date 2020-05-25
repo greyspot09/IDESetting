@@ -73,7 +73,7 @@
     <filemarks>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.8.0/cd6e591964f60aed960bdadbc3754665d3a0f32e/glide-3.8.0-sources.jar!/com/bumptech/glide/request/target/Target.java" timestamp="1590390766155" />
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0b876ef4e2c4d8fb316fc4bf5040820e/constraint-layout-1.1.3/jars/classes.jar!/android/support/constraint/ConstraintSet.class" timestamp="1590389313396" />
-      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/ADLoaderFactory/ADLoaderFactory.kt" timestamp="1590394405719">
+      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/ADLoaderFactory/ADLoaderFactory.kt" timestamp="1590395496999">
         <mark key="[" line="139" column="53" />
         <mark key="]" line="139" column="53" />
         <mark key="." line="139" column="53" />
@@ -91,6 +91,7 @@
         <mark key="^" line="142" column="48" />
         <mark key="." line="138" column="45" />
       </file>
+      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/res/anim/dialog_enter.xml" timestamp="1590395555025" />
       <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/ADLoaderFactory/PluginCreator.kt" timestamp="1590392574992">
         <mark key="[" line="88" column="63" />
         <mark key="]" line="88" column="63" />
@@ -113,18 +114,18 @@
         <mark key="]" line="49" column="17" />
         <mark key="." line="49" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/MainActivity.kt" timestamp="1590394440993">
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/MainActivity.kt" timestamp="1590395406938">
         <mark key="[" line="110" column="0" />
         <mark key="]" line="110" column="0" />
         <mark key="." line="110" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/res/layout/dialog_exit_ad.xml" timestamp="1590389441707" />
-      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/render/ExitRender/ExitRender.kt" timestamp="1590394254581">
+      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/res/layout/dialog_exit_ad.xml" timestamp="1590395574869" />
+      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/render/ExitRender/ExitRender.kt" timestamp="1590395639561">
         <mark key="'" line="273" column="10" />
         <mark key="[" line="219" column="0" />
-        <mark key="]" line="249" column="76" />
-        <mark key="." line="249" column="76" />
-        <mark key="^" line="249" column="87" />
+        <mark key="]" line="251" column="64" />
+        <mark key="." line="251" column="63" />
+        <mark key="^" line="251" column="64" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/view/ViewGroup.java" timestamp="1590394049161" />
       <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/plguin/Baidu/BaiduNative/BaiduNative.kt" timestamp="1590389619862">
@@ -235,7 +236,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHZhbCBleGl0QWQgPSBhZENvbmZpZy5nZXRBZEJ5SWQoMjIwKQo=</text>
+        <text encoding="base64">Ly8gICAgICAgIHZhbCBleGl0QWQgPSBhZENvbmZpZy5nZXRBZEJ5SWQoMjE5KQo=</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -247,31 +248,31 @@
         <text encoding="base64">ICAgICAgICB2aWV3R3JvdXAuYWRkVmlldyhuZXdWaWV3KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHZhbCBleGl0QWQgPSBhZENvbmZpZy5nZXRBZEJ5SWQoMjIwKQo=</text>
+        <text encoding="base64">Ly8gICAgICAgIHZhbCBleGl0QWQgPSBhZENvbmZpZy5nZXRBZEJ5SWQoMjE5KQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgfSBlbHNlIHsKLy8gICAgICAgIHZpZXdHcm91cC5hZGRWaWV3KG5ld1ZpZXcpCi8vICAgIH0K</text>
+        <text encoding="base64">Ly8gICAgICAgIHZhbCBleGl0QWQgPSBhZENvbmZpZy5nZXRBZEJ5SWQoMjIwKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgaWYgKGxheW91dFBhcmFtcyAhPSBudWxsKSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Ly8gICAgfSBlbHNlIHsKLy8gICAgICAgIHZpZXdHcm91cC5hZGRWaWV3KG5ld1ZpZXcpCi8vICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgdmlld0dyb3VwLmFkZFZpZXcocHJlVmlldykK</text>
+        <text encoding="base64">Ly8gICAgaWYgKGxheW91dFBhcmFtcyAhPSBudWxsKSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICB9IGVsc2Ugewo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBpZiAobGF5b3V0UGFyYW1zICE9IG51bGwpIHsK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgdmlld0dyb3VwLmFkZFZpZXcocHJlVmlldykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbCBsYXlvdXRQYXJhbXMgPSBWaWV3R3JvdXAuTGF5b3V0UGFyYW1zKAogICAgICAgIFZpZXdHcm91cC5MYXlvdXRQYXJhbXMuTUFUQ0hfUEFSRU5ULAogICAgICAgIFZpZXdHcm91cC5MYXlvdXRQYXJhbXMuTUFUQ0hfUEFSRU5UCiAgICAp</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICB9IGVsc2Ugewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
