@@ -71,13 +71,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/plguin/Bytedance/express/TTNativeExpress.kt" timestamp="1590399528138">
+      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/plguin/Bytedance/express/TTNativeExpress.kt" timestamp="1590400662639">
         <mark key="[" line="81" column="46" />
         <mark key="]" line="99" column="0" />
         <mark key="." line="99" column="0" />
         <mark key="^" line="97" column="56" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.8.0/cd6e591964f60aed960bdadbc3754665d3a0f32e/glide-3.8.0-sources.jar!/com/bumptech/glide/request/target/Target.java" timestamp="1590390766155" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/adtask/appdownload/AdAppDownloadActivity.kt" timestamp="1590400403767" />
       <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/ADLoaderFactory/ADLoaderFactory.kt" timestamp="1590397466103">
         <mark key="[" line="109" column="42" />
         <mark key="]" line="109" column="42" />
@@ -117,7 +117,6 @@
         <mark key="^" line="121" column="85" />
         <mark key="." line="144" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.8.0/cd6e591964f60aed960bdadbc3754665d3a0f32e/glide-3.8.0-sources.jar!/com/bumptech/glide/DrawableRequestBuilder.java" timestamp="1590390445342" />
       <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/plguin/GDT/NativeV2/GDTNativeV2.kt" timestamp="1590391127020" />
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f05f79c9a56a10c4e66ef5ae27f408d5/open_ad_sdk/jars/classes.jar!/com/bytedance/sdk/openadsdk/TTNativeExpressAd.class" timestamp="1590396850878" />
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f05f79c9a56a10c4e66ef5ae27f408d5/open_ad_sdk/jars/classes.jar!/com/bytedance/sdk/openadsdk/TTAdNative.class" timestamp="1590396723147" />
@@ -127,6 +126,7 @@
         <mark key="^" line="92" column="65" />
         <mark key="." line="18" column="15" />
       </file>
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/placement/background/BackgroundAdView.kt" timestamp="1590400356081" />
       <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/MainActivity.kt" timestamp="1590395406938">
         <mark key="[" line="110" column="0" />
         <mark key="]" line="110" column="0" />
