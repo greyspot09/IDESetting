@@ -77,7 +77,7 @@
         <mark key="." line="99" column="0" />
         <mark key="^" line="97" column="56" />
       </file>
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/adtask/appdownload/AdAppDownloadActivity.kt" timestamp="1590400403767" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/adtask/appdownload/AdAppDownloadActivity.kt" timestamp="1590456857412" />
       <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/ADLoaderFactory/ADLoaderFactory.kt" timestamp="1590397466103">
         <mark key="[" line="109" column="42" />
         <mark key="]" line="109" column="42" />
@@ -96,14 +96,14 @@
         <mark key="^" line="151" column="60" />
         <mark key="." line="154" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/res/anim/dialog_enter.xml" timestamp="1590395555025" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/api/entry/CoinTaskCustomBean.kt" timestamp="1590456389042" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/common/src/main/java/com/dopool/common/util/AppUtil.kt" timestamp="1590456374522" />
       <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/plguin/Bytedance/Native/TTFeedNative.kt" timestamp="1590397415130">
         <mark key="[" line="0" column="50" />
         <mark key="]" line="17" column="30" />
         <mark key="." line="17" column="29" />
         <mark key="^" line="17" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/plguin/Bytedance/Native/ByteDanceNativeRender.kt" timestamp="1590396360281" />
       <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/ADLoaderFactory/PluginCreator.kt" timestamp="1590397538998">
         <mark key="[" line="90" column="66" />
         <mark key="]" line="90" column="66" />
@@ -117,22 +117,14 @@
         <mark key="^" line="121" column="85" />
         <mark key="." line="144" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/plguin/GDT/NativeV2/GDTNativeV2.kt" timestamp="1590391127020" />
-      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f05f79c9a56a10c4e66ef5ae27f408d5/open_ad_sdk/jars/classes.jar!/com/bytedance/sdk/openadsdk/TTNativeExpressAd.class" timestamp="1590396850878" />
-      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f05f79c9a56a10c4e66ef5ae27f408d5/open_ad_sdk/jars/classes.jar!/com/bytedance/sdk/openadsdk/TTAdNative.class" timestamp="1590396723147" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_main/src/main/java/com/dopool/module_main/view/activity/MainActivity.kt" timestamp="1590457858568" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/api/entry/CoinTaskTypeCustomBean.kt" timestamp="1590456392194" />
       <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/plguin/Bytedance/express/TTExpressPlugin.kt" timestamp="1590397403526">
         <mark key="[" line="18" column="8" />
         <mark key="]" line="18" column="15" />
         <mark key="^" line="92" column="65" />
         <mark key="." line="18" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/placement/background/BackgroundAdView.kt" timestamp="1590400356081" />
-      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/MainActivity.kt" timestamp="1590395406938">
-        <mark key="[" line="110" column="0" />
-        <mark key="]" line="110" column="0" />
-        <mark key="." line="110" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/res/layout/dialog_exit_ad.xml" timestamp="1590395574869" />
       <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/plguin/Bytedance/express/TTNativeExpressRender.kt" timestamp="1590399272836">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -145,7 +137,10 @@
         <mark key="^" line="244" column="64" />
         <mark key="." line="174" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/view/ViewGroup.java" timestamp="1590394049161" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/api/entry/CoinBalanceBean.java" timestamp="1590456382799" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/view/TaskViewView.kt" timestamp="1590456418890" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/view/sign/BreadcrumbsView.kt" timestamp="1590456676874" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/common/src/main/java/com/dopool/common/util/FileUtil.kt" timestamp="1590456002282" />
     </filemarks>
     <jumps>
       <jump line="94" column="79" filename="$USER_HOME$/workspace/StarschinaTV8/module_play/src/main/java/com/dopool/module_play/play/viewmodel/vod/VodDataViewModel.kt" />
