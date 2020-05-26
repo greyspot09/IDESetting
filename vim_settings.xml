@@ -71,10 +71,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/adtask/appdownload/AdAppDownloadPresenter.kt" timestamp="1590459224111" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/manager/TxManager.kt" timestamp="1590459216027" />
       <file name="$USER_HOME$/workspace/StarschinaTV8/common/src/main/java/com/dopool/common/BaseApplication.kt" timestamp="1590459545294" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/api/ApiConstant.kt" timestamp="1590459203947" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/main/CoinContract.kt" timestamp="1590475229735" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/main/CoinMainModel.kt" timestamp="1590475888668" />
       <file name="$USER_HOME$/Downloads/Jetpack-MVVM-Best-Practice/app/src/main/java/com/kunminx/puremusic/ui/base/BaseFragment.java" timestamp="1590471218894" />
       <file name="$USER_HOME$/Downloads/Jetpack-MVVM-Best-Practice/app/src/main/java/com/kunminx/puremusic/MainActivity.java" timestamp="1590467414657" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common-java8/2.2.0/777ad8a2c39ec412a8c77a3923ceb536946acb29/lifecycle-common-java8-2.2.0-sources.jar!/androidx/lifecycle/DefaultLifecycleObserver.java" timestamp="1590471235034" />
@@ -82,19 +81,24 @@
       <file name="$USER_HOME$/workspace/StarschinaTV8/common/src/main/java/com/dopool/common/init/network/config/ParamsBuilder.kt" timestamp="1590461068159" />
       <file name="$USER_HOME$/Downloads/Jetpack-MVVM-Best-Practice/app/src/main/java/com/kunminx/puremusic/ui/page/MainFragment.java" timestamp="1590472267942" />
       <file name="$USER_HOME$/Downloads/Jetpack-MVVM-Best-Practice/app/src/main/java/com/kunminx/puremusic/ui/helper/DrawerCoordinateHelper.java" timestamp="1590470394717" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_base_component/src/main/java/com/dopool/module_base_component/ui/view/dialog/CustomDialog.kt" timestamp="1590474424811" />
       <file name="$USER_HOME$/Downloads/Jetpack-MVVM-Best-Practice/app/src/main/java/com/kunminx/puremusic/ui/page/adapter/DrawerAdapter.java" timestamp="1590471251207" />
       <file name="$USER_HOME$/Downloads/Jetpack-MVVM-Best-Practice/app/src/main/java/com/kunminx/puremusic/App.java" timestamp="1590471245907" />
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_base_component/src/main/java/com/dopool/module_base_component/app/BaseApp.kt" timestamp="1590459462160">
         <mark key="'" line="142" column="29" />
       </file>
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/main/CoinPresenter.kt" timestamp="1590476005466" />
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_base_component/src/main/java/com/dopool/module_base_component/data/net/module/ShopModel.kt" timestamp="1590463024976">
         <mark key="[" line="36" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/main/CoinActivity.kt" timestamp="1590473653513" />
+      <file name="$USER_HOME$/.gradle/caches/transforms-1/files-1.1/SmartRefreshLayout-1.1.0-alpha-14.aar/239b5c35b24e0d0efb2982ff75b9637c/jars/classes.jar!/com/scwang/smartrefresh/layout/SmartRefreshLayout.class" timestamp="1590474993172" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/main/CoinActivity.kt" timestamp="1590475732171">
+        <mark key="[" line="47" column="48" />
+        <mark key="]" line="47" column="48" />
+        <mark key="." line="47" column="48" />
+      </file>
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/balance/CoinBalancePresenter.kt" timestamp="1590473244064" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/adtask/watchvideo/AdWatchVideoPresenter.kt" timestamp="1590459360392" />
       <file name="$USER_HOME$/workspace/StarschinaTV8/app/src/main/java/dopool/player/MeizuPushRecever.kt" timestamp="1590459370853" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/api/ApiImp.kt" timestamp="1590459207288" />
     </filemarks>
     <jumps>
       <jump line="94" column="79" filename="$USER_HOME$/workspace/StarschinaTV8/module_play/src/main/java/com/dopool/module_play/play/viewmodel/vod/VodDataViewModel.kt" />
@@ -200,11 +204,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>h</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>renderContainer</text>
@@ -213,7 +217,7 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nb0ltYWdlVmlldy5jb25zdHJhaW50c1dpZHRoV3JhcENvbnRlbnQoc2V0KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZWN5Y2xlclZpZXcuCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -225,25 +229,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGQK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZGQK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBzZXQuY29ubmVjdChsb2dvSW1hZ2VWaWV3LmlkLCBDb25zdHJhaW50U2V0LlRPUCwgZmxhZ1RleHRWaWV3LmlkLCBDb25zdHJhaW50U2V0LlRPUCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBsb2dvSW1hZ2VWaWV3LmNvbnN0cmFpbnRzSGVpZ2h0KHNldCwgNDApCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBzZXQuY29ubmVjdChsb2dvSW1hZ2VWaWV3LmlkLCBDb25zdHJhaW50U2V0LlRPUCwgZmxhZ1RleHRWaWV3LmlkLCBDb25zdHJhaW50U2V0LlRPUCkK</text>
       </register>
       <register name="9" type="2">
-        <text>//        val adImageView = ImageView(context)
-//        adImageView.id = R.id.ad_image_view
-//        val layoutParams = ViewGroup.LayoutParams(
-//            ViewGroup.LayoutParams.MATCH_PARENT,
-//            ViewGroup.LayoutParams.MATCH_PARENT
-//        )
-//        contentLayout.addView(adImageView, layoutParams)</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBsb2dvSW1hZ2VWaWV3LmNvbnN0cmFpbnRzSGVpZ2h0KHNldCwgNDApCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
