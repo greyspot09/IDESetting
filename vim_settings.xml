@@ -71,27 +71,37 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Desktop/tmsdk-adcoin-2.0-6020-041419/demo/src/main/java/com/tencent/tmsecure/demo/ad/impl/H5Browser.java" timestamp="1590565164263" />
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_play/src/main/java/com/dopool/module_play/play/activities/ShortPlayerActivity.kt" timestamp="1590561439158" />
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_play/src/main/java/com/dopool/module_play/play/activities/WebPlayActivity.kt" timestamp="1590561488126" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/extensions/1.1.1/d654e6aa2f4a7c33f2dfe6c8465ee9ad2a81c1aa/extensions-1.1.1-sources.jar!/android/arch/lifecycle/ViewModelProviders.java" timestamp="1590559573537" />
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_base_component/src/main/java/com/starschina/sdk/player/MeasureHelper.java" timestamp="1590560610201" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/common/src/main/java/com/dopool/common/BaseApplication.kt" timestamp="1590565337774">
+        <mark key="[" line="467" column="12" />
+        <mark key="]" line="467" column="13" />
+        <mark key="^" line="459" column="60" />
+        <mark key="." line="467" column="13" />
+      </file>
+      <file name="$USER_HOME$/workspace/StarschinaTV8/common/build.gradle" timestamp="1590563892861">
+        <mark key="[" line="199" column="0" />
+        <mark key="]" line="199" column="0" />
+        <mark key="^" line="194" column="32" />
+        <mark key="." line="199" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_base_component/src/main/java/com/starschina/sdk/player/CustomTextureView.java" timestamp="1590559803981" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/build.gradle" timestamp="1590562368388" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/build.gradle" timestamp="1590563122062" />
       <file name="$USER_HOME$/Downloads/Jetpack-MVVM-Best-Practice/build.gradle" timestamp="1590561834547" />
       <file name="$USER_HOME$/Downloads/Jetpack-MVVM-Best-Practice/app/src/main/java/com/kunminx/puremusic/MainActivity.java" timestamp="1590561231881" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_play/src/main/java/com/dopool/module_play/play/view/ShortLandControllerView.kt" timestamp="1590559536044" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-viewmodel/2.2.0/4f90404dd52d3162217bf329db5afb32d373ec63/lifecycle-viewmodel-2.2.0-sources.jar!/androidx/lifecycle/ViewModelProvider.java" timestamp="1590561023368" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_play/src/main/java/com/dopool/module_play/play/view/VipTipsView.kt" timestamp="1590559494444" />
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_newad/app/src/main/java/dopool/player/PlayerActivity.kt" timestamp="1590560888099" />
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_play/src/main/java/com/dopool/module_play/play/activities/PlayerActivity.kt" timestamp="1590561429748">
         <mark key="'" line="166" column="76" />
       </file>
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_base_component/src/main/java/com/starschina/sdk/player/IRenderView.java" timestamp="1590559738260" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_play/src/main/java/com/dopool/module_play/play/view/PlayerSettingDrawerView.kt" timestamp="1590559724177" />
+      <file name="$USER_HOME$/Desktop/tmsdk-adcoin-2.0-6020-041419/demo/src/main/java/com/tencent/tmsecure/demo/DemoApplication.java" timestamp="1590565099908" />
       <file name="$USER_HOME$/Downloads/Jetpack-MVVM-Best-Practice/app/src/main/java/com/kunminx/puremusic/App.java" timestamp="1590561184039" />
-      <file name="$USER_HOME$/Desktop/tmsdk-adcoin-2.0-6020-041419/build.gradle" timestamp="1590562548037" />
+      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/42c7ec7f946ec7c2ff8c483351f47582/jars/classes.jar!/com/tencent/ep/shanhuad/adpublic/H5BrowserListener.class" timestamp="1590565122634" />
+      <file name="$USER_HOME$/.gradle/caches/transforms-1/files-1.1/shanhuAD-1.0.12.aar/d0172912c85a7022c618963f7fe40ab5/jars/classes.jar!/com/tencent/ep/shanhuad/adpublic/ShanHuAD.class" timestamp="1590565041951" />
+      <file name="$USER_HOME$/Desktop/tmsdk-adcoin-2.0-6020-041419/build.gradle" timestamp="1590563792452" />
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/main/CoinActivity.kt" timestamp="1590562110555" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_play/src/main/java/com/dopool/module_play/play/view/ShortPortraitControllerView.kt" timestamp="1590559528067" />
     </filemarks>
     <jumps>
       <jump line="71" column="11" filename="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/MainActivity.kt" />
@@ -202,37 +212,44 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>adloader</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>renderContainer</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoVVNFX05FV19BRF9NT0RVTEUpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5pKCJkZW1vIiwgIlRNU0RLIG9wZW5BcHBEZXRhaWxQYWdlOiAke3AwfSIpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGRkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEubGFuZy5FeGNlcHRpb24K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXJzY2hpbmEuYWRsb2FkZXIucGxndWluLkFEUGx1Z2luRXZlbnQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXJzY2hpbmEuYWRsb2FkZXIucGxndWluLkFEUGx1Z2luCg==</text>
+        <text>//        TMSDKContext.setTMSDKLogEnable(true)
+//        val result = init(this, object : AbsTMSConfig() {
+//            override fun getServerAddress(): String {
+////                return &quot;mazutest.3g.qq.com&quot;
+//                //正式环境地址
+//                return &quot;mazu.3g.qq.com&quot;
+//            }
+//        })</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXJzY2hpbmEuYWRsb2FkZXIubG9hZGVyLkFETG9hZGVyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBzdXBlci5nZXRTZXJ2ZXJBZGRyZXNzKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRXhpdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFwaSBmaWxlcygnbGlicy9wb2ludHNfbWFsbC90bXNkay5qYXInKQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
