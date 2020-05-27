@@ -71,6 +71,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-viewmodel/2.2.0/4f90404dd52d3162217bf329db5afb32d373ec63/lifecycle-viewmodel-2.2.0-sources.jar!/androidx/lifecycle/ViewModelStoreOwner.java" timestamp="1590555550926" />
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/build.gradle" timestamp="1590545458499">
         <mark key="[" line="79" column="15" />
         <mark key="]" line="79" column="27" />
@@ -104,12 +105,11 @@
       </file>
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_base_component/build.gradle" timestamp="1590550252757" />
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/main/CoinPresenter.kt" timestamp="1590551868742" />
-      <file name="$USER_HOME$/Downloads/Jetpack-MVVM-Best-Practice/architecture/src/main/java/com/kunminx/architecture/bridge/callback/UnPeekLiveData.java" timestamp="1590543437366" />
       <file name="$USER_HOME$/Downloads/Jetpack-MVVM-Best-Practice/architecture/src/main/java/com/kunminx/architecture/data/usecase/UseCaseScheduler.java" timestamp="1590543510688" />
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/main/CoinContract.kt" timestamp="1590551852577" />
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/main/CoinMainModel.kt" timestamp="1590551901693" />
-      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/MainActivity.kt" timestamp="1590551582174">
-        <mark key="[" line="102" column="41" />
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/MainActivity.kt" timestamp="1590555302210">
+        <mark key="[" line="195" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/main/CoinActivity.kt" timestamp="1590551841211" />
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_base_component/src/main/java/com/dopool/module_base_component/adloader/ADModelBridge.kt" timestamp="1590545942855">
