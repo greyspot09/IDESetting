@@ -83,25 +83,30 @@
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/protocol/AdBeanX.java" timestamp="1590546372262">
         <mark key="'" line="319" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/StarschinaTV8/settings.gradle" timestamp="1590544315144">
-        <mark key="[" line="3" column="40" />
-        <mark key="]" line="3" column="52" />
-        <mark key="." line="3" column="51" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/settings.gradle" timestamp="1590550221981">
+        <mark key="[" line="2" column="10" />
+        <mark key="]" line="2" column="10" />
+        <mark key="." line="2" column="10" />
         <mark key="^" line="3" column="52" />
       </file>
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_main/src/main/java/com/dopool/module_main/view/activity/MainActivity.kt" timestamp="1590548204978">
-        <mark key="'" line="819" column="0" />
-        <mark key="[" line="1342" column="0" />
-        <mark key="]" line="1342" column="0" />
-        <mark key="^" line="511" column="33" />
-        <mark key="." line="1342" column="0" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_main/src/main/java/com/dopool/module_main/view/activity/MainActivity.kt" timestamp="1590550518012">
+        <mark key="'" line="817" column="0" />
+        <mark key="[" line="124" column="0" />
+        <mark key="]" line="124" column="0" />
+        <mark key="." line="124" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/Jetpack-MVVM-Best-Practice/architecture/src/main/java/com/kunminx/architecture/ui/adapter/BaseBindingAdapter.java" timestamp="1590543471098" />
       <file name="$USER_HOME$/Downloads/Jetpack-MVVM-Best-Practice/app/src/main/java/com/kunminx/puremusic/App.java" timestamp="1590543746114" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_newad/app/src/main/java/dopool/player/PlayerInterstitialActivity.kt" timestamp="1590551243167">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_base_component/build.gradle" timestamp="1590550252757" />
       <file name="$USER_HOME$/Downloads/Jetpack-MVVM-Best-Practice/app/src/main/java/com/kunminx/puremusic/ui/page/LoginFragment.java" timestamp="1590542770382" />
       <file name="$USER_HOME$/Downloads/Jetpack-MVVM-Best-Practice/architecture/src/main/java/com/kunminx/architecture/bridge/callback/UnPeekLiveData.java" timestamp="1590543437366" />
       <file name="$USER_HOME$/Downloads/Jetpack-MVVM-Best-Practice/architecture/src/main/java/com/kunminx/architecture/data/usecase/UseCaseScheduler.java" timestamp="1590543510688" />
-      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/MainActivity.kt" timestamp="1590545740097">
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/MainActivity.kt" timestamp="1590551240210">
         <mark key="[" line="102" column="41" />
       </file>
       <file name="$USER_HOME$/Downloads/Jetpack-MVVM-Best-Practice/architecture/src/main/java/com/kunminx/architecture/utils/Utils.java" timestamp="1590543248463" />
@@ -227,7 +232,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>adloader</text>
       </register>
       <register name="/" type="4">
         <text>renderContainer</text>
@@ -239,28 +244,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGRkCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5maW5pc2hBZnRlclRyYW5zaXRpb24oKQo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEubGFuZy5FeGNlcHRpb24K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN0YXJzY2hpbmEuYWRsb2FkZXIucGxndWluLkFEUGx1Z2luRXZlbnQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoVVNFX05FV19BRF9NT0RVTEUpIHsK</text>
+        <text encoding="base64">aW1wb3J0IHN0YXJzY2hpbmEuYWRsb2FkZXIucGxndWluLkFEUGx1Z2luCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoVVNFX05FV19BRF9NT0RVTEUpIHsK</text>
+        <text encoding="base64">aW1wb3J0IHN0YXJzY2hpbmEuYWRsb2FkZXIubG9hZGVyLkFETG9hZGVyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgRXhpdAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoVVNFX05FV19BRF9NT0RVTEUpIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
