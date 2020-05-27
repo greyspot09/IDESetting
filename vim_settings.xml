@@ -71,47 +71,54 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/adtask/appdownload/AdAppDownloadActivity.kt" timestamp="1590486976737" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/common/libs/points_mall/tmsdk.jar!/com/tmsdk/module/coin/CoinManager.class" timestamp="1590485675663" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/adtask/appdownload/AdAppDownloadPresenter.kt" timestamp="1590486807250" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/common/src/main/java/com/dopool/common/util/LogUtil.kt" timestamp="1590481886821" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/manager/TxManager.kt" timestamp="1590487472743">
-        <mark key="'" line="116" column="64" />
-        <mark key="[" line="312" column="92" />
-        <mark key="]" line="106" column="48" />
-        <mark key="." line="106" column="47" />
-        <mark key="^" line="106" column="48" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/build.gradle" timestamp="1590545458499">
+        <mark key="[" line="79" column="15" />
+        <mark key="]" line="79" column="27" />
+        <mark key="." line="79" column="26" />
+        <mark key="^" line="79" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/manager/AdDownloadManager.kt" timestamp="1590487233962" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/common/libs/points_mall/tmsdk.jar!/com/tmsdk/ManagerCreator.class" timestamp="1590485707025" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/common/src/main/res/values/strings.xml" timestamp="1590485117327">
-        <mark key="^" line="948" column="48" />
+      <file name="$USER_HOME$/Downloads/Jetpack-MVVM-Best-Practice/app/src/main/java/com/kunminx/puremusic/ui/page/MainFragment.java" timestamp="1590542775270" />
+      <file name="$USER_HOME$/Downloads/Jetpack-MVVM-Best-Practice/architecture/src/main/java/com/kunminx/architecture/utils/NetworkUtils.java" timestamp="1590543424273" />
+      <file name="$USER_HOME$/Downloads/Jetpack-MVVM-Best-Practice/architecture/src/main/java/com/kunminx/architecture/ui/binding/Drawables.java" timestamp="1590543475991" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/protocol/AdBeanX.java" timestamp="1590546372262">
+        <mark key="'" line="319" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/StarschinaTV8/common/libs/points_mall/tmsdk.jar!/com/tmsdk/module/ad/AdManager.class" timestamp="1590487335677" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/constant/Constant.kt" timestamp="1590485218623">
-        <mark key="[" line="32" column="26" />
-        <mark key="]" line="32" column="26" />
-        <mark key="." line="32" column="26" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/settings.gradle" timestamp="1590544315144">
+        <mark key="[" line="3" column="40" />
+        <mark key="]" line="3" column="52" />
+        <mark key="." line="3" column="51" />
+        <mark key="^" line="3" column="52" />
+      </file>
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_main/src/main/java/com/dopool/module_main/view/activity/MainActivity.kt" timestamp="1590548204978">
+        <mark key="'" line="819" column="0" />
+        <mark key="[" line="1342" column="0" />
+        <mark key="]" line="1342" column="0" />
+        <mark key="^" line="511" column="33" />
+        <mark key="." line="1342" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/Jetpack-MVVM-Best-Practice/architecture/src/main/java/com/kunminx/architecture/ui/adapter/BaseBindingAdapter.java" timestamp="1590543471098" />
+      <file name="$USER_HOME$/Downloads/Jetpack-MVVM-Best-Practice/app/src/main/java/com/kunminx/puremusic/App.java" timestamp="1590543746114" />
+      <file name="$USER_HOME$/Downloads/Jetpack-MVVM-Best-Practice/app/src/main/java/com/kunminx/puremusic/ui/page/LoginFragment.java" timestamp="1590542770382" />
+      <file name="$USER_HOME$/Downloads/Jetpack-MVVM-Best-Practice/architecture/src/main/java/com/kunminx/architecture/bridge/callback/UnPeekLiveData.java" timestamp="1590543437366" />
+      <file name="$USER_HOME$/Downloads/Jetpack-MVVM-Best-Practice/architecture/src/main/java/com/kunminx/architecture/data/usecase/UseCaseScheduler.java" timestamp="1590543510688" />
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/MainActivity.kt" timestamp="1590545740097">
+        <mark key="[" line="102" column="41" />
+      </file>
+      <file name="$USER_HOME$/Downloads/Jetpack-MVVM-Best-Practice/architecture/src/main/java/com/kunminx/architecture/utils/Utils.java" timestamp="1590543248463" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_base_component/src/main/java/com/dopool/module_base_component/adloader/ADModelBridge.kt" timestamp="1590545942855">
+        <mark key="[" line="71" column="51" />
+        <mark key="]" line="71" column="58" />
+        <mark key="^" line="71" column="58" />
+        <mark key="." line="71" column="57" />
       </file>
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/main/CoinMainAdapter.kt" timestamp="1590487489011">
-        <mark key="[" line="442" column="0" />
-        <mark key="]" line="442" column="0" />
-        <mark key="^" line="432" column="59" />
-        <mark key="." line="442" column="0" />
+        <mark key="[" line="434" column="0" />
+        <mark key="]" line="434" column="0" />
+        <mark key="." line="434" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/StarschinaTV8/common/libs/points_mall/tmsdk.jar!/com/tmsdk/module/coin/CoinTask.class" timestamp="1590486238470" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/adtask/watchvideo/AdWatchVideoContract.kt" timestamp="1590486160919" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/adtask/watchvideo/AdWatchVideoActivity.kt" timestamp="1590487641853" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/api/entry/CoinTaskCustomBean.kt" timestamp="1590486256715" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/common/libs/points_mall/tmsdk.jar!/com/tmsdk/TMSDKContext.class" timestamp="1590485692023" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/common/libs/points_mall/tmsdk.jar!/com/tmsdk/module/ad/StyleAdEntity.class" timestamp="1590487383205" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/balance/CoinBalancePresenter.kt" timestamp="1590479551890" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/adtask/watchvideo/AdWatchVideoPresenter.kt" timestamp="1590487012473" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/adtask/appdownload/AdAppDownloadContract.kt" timestamp="1590486812514" />
+      <file name="$USER_HOME$/Downloads/Jetpack-MVVM-Best-Practice/app/src/main/java/com/kunminx/puremusic/ui/page/DrawerFragment.java" timestamp="1590542144527" />
     </filemarks>
     <jumps>
-      <jump line="94" column="79" filename="$USER_HOME$/workspace/StarschinaTV8/module_play/src/main/java/com/dopool/module_play/play/viewmodel/vod/VodDataViewModel.kt" />
-      <jump line="73" column="0" filename="$USER_HOME$/workspace/StarschinaTV8/module_base_component/src/main/java/com/starschina/sdk/player/players/PlayerInterface.kt" />
       <jump line="307" column="32" filename="$USER_HOME$/workspace/StarschinaTV8/module_play/src/main/java/com/dopool/module_play/play/fragments/live/LiveFragment.kt" />
       <jump line="71" column="11" filename="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/MainActivity.kt" />
       <jump line="75" column="11" filename="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/MainActivity.kt" />
@@ -210,6 +217,8 @@
       <jump line="78" column="41" filename="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/plguin/Bytedance/express/TTExpressPlugin.kt" />
       <jump line="142" column="29" filename="$USER_HOME$/workspace/StarschinaTV8/module_base_component/src/main/java/com/dopool/module_base_component/app/BaseApp.kt" />
       <jump line="112" column="64" filename="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/manager/TxManager.kt" />
+      <jump line="319" column="0" filename="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/protocol/AdBeanX.java" />
+      <jump line="818" column="0" filename="$USER_HOME$/workspace/StarschinaTV8/module_main/src/main/java/com/dopool/module_main/view/activity/MainActivity.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -218,40 +227,40 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>renderContainer</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdGFydEFkV2F0Y2hWaWRlb0FjdGl2aXR5KGNvbnRleHQsIGFkRGF0YSkK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoVVNFX05FV19BRF9NT0RVTEUpIHsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5pKFRBRzIsICJnb1RlbmNlbnRUYXNrSGFuZGxlUGFnZSB0eXBlIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIiIK</text>
+        <text encoding="base64">ICAgICAgICBzdXBlci5maW5pc2hBZnRlclRyYW5zaXRpb24oKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuaSgpCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zdGFyc2NoaW5hLnNkay5iYXNlLnV0aWxzLkxvZwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoVVNFX05FV19BRF9NT0RVTEUpIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoVVNFX05FV19BRF9NT0RVTEUpIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZWN5Y2xlclZpZXcuCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoVVNFX05FV19BRF9NT0RVTEUpIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
