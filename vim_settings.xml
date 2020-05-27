@@ -77,8 +77,8 @@
         <mark key="." line="79" column="26" />
         <mark key="^" line="79" column="27" />
       </file>
-      <file name="$USER_HOME$/Downloads/Jetpack-MVVM-Best-Practice/app/src/main/java/com/kunminx/puremusic/ui/page/MainFragment.java" timestamp="1590542775270" />
-      <file name="$USER_HOME$/Downloads/Jetpack-MVVM-Best-Practice/architecture/src/main/java/com/kunminx/architecture/utils/NetworkUtils.java" timestamp="1590543424273" />
+      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/ADLoaderFactory/ADLoaderFactory.kt" timestamp="1590551588314" />
+      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/render/ADRender.kt" timestamp="1590551563149" />
       <file name="$USER_HOME$/Downloads/Jetpack-MVVM-Best-Practice/architecture/src/main/java/com/kunminx/architecture/ui/binding/Drawables.java" timestamp="1590543475991" />
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/protocol/AdBeanX.java" timestamp="1590546372262">
         <mark key="'" line="319" column="0" />
@@ -89,7 +89,7 @@
         <mark key="." line="2" column="10" />
         <mark key="^" line="3" column="52" />
       </file>
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_main/src/main/java/com/dopool/module_main/view/activity/MainActivity.kt" timestamp="1590550518012">
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_main/src/main/java/com/dopool/module_main/view/activity/MainActivity.kt" timestamp="1590551786576">
         <mark key="'" line="817" column="0" />
         <mark key="[" line="124" column="0" />
         <mark key="]" line="124" column="0" />
@@ -103,25 +103,22 @@
         <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_base_component/build.gradle" timestamp="1590550252757" />
-      <file name="$USER_HOME$/Downloads/Jetpack-MVVM-Best-Practice/app/src/main/java/com/kunminx/puremusic/ui/page/LoginFragment.java" timestamp="1590542770382" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/main/CoinPresenter.kt" timestamp="1590551868742" />
       <file name="$USER_HOME$/Downloads/Jetpack-MVVM-Best-Practice/architecture/src/main/java/com/kunminx/architecture/bridge/callback/UnPeekLiveData.java" timestamp="1590543437366" />
       <file name="$USER_HOME$/Downloads/Jetpack-MVVM-Best-Practice/architecture/src/main/java/com/kunminx/architecture/data/usecase/UseCaseScheduler.java" timestamp="1590543510688" />
-      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/MainActivity.kt" timestamp="1590551240210">
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/main/CoinContract.kt" timestamp="1590551852577" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/main/CoinMainModel.kt" timestamp="1590551901693" />
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/MainActivity.kt" timestamp="1590551582174">
         <mark key="[" line="102" column="41" />
       </file>
-      <file name="$USER_HOME$/Downloads/Jetpack-MVVM-Best-Practice/architecture/src/main/java/com/kunminx/architecture/utils/Utils.java" timestamp="1590543248463" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/main/CoinActivity.kt" timestamp="1590551841211" />
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_base_component/src/main/java/com/dopool/module_base_component/adloader/ADModelBridge.kt" timestamp="1590545942855">
         <mark key="[" line="71" column="51" />
         <mark key="]" line="71" column="58" />
         <mark key="^" line="71" column="58" />
         <mark key="." line="71" column="57" />
       </file>
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/main/CoinMainAdapter.kt" timestamp="1590487489011">
-        <mark key="[" line="434" column="0" />
-        <mark key="]" line="434" column="0" />
-        <mark key="." line="434" column="0" />
-      </file>
-      <file name="$USER_HOME$/Downloads/Jetpack-MVVM-Best-Practice/app/src/main/java/com/kunminx/puremusic/ui/page/DrawerFragment.java" timestamp="1590542144527" />
+      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/render/ExitRender/ExitRender.kt" timestamp="1590551502278" />
     </filemarks>
     <jumps>
       <jump line="307" column="32" filename="$USER_HOME$/workspace/StarschinaTV8/module_play/src/main/java/com/dopool/module_play/play/fragments/live/LiveFragment.kt" />
