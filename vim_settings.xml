@@ -71,57 +71,32 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-viewmodel/2.2.0/4f90404dd52d3162217bf329db5afb32d373ec63/lifecycle-viewmodel-2.2.0-sources.jar!/androidx/lifecycle/ViewModelStoreOwner.java" timestamp="1590555550926" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/build.gradle" timestamp="1590545458499">
-        <mark key="[" line="79" column="15" />
-        <mark key="]" line="79" column="27" />
-        <mark key="." line="79" column="26" />
-        <mark key="^" line="79" column="27" />
-      </file>
-      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/ADLoaderFactory/ADLoaderFactory.kt" timestamp="1590551588314" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/detekt-config.yml" timestamp="1590558295265" />
-      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/render/ADRender.kt" timestamp="1590551563149" />
-      <file name="$USER_HOME$/Downloads/Jetpack-MVVM-Best-Practice/architecture/src/main/java/com/kunminx/architecture/ui/binding/Drawables.java" timestamp="1590543475991" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/protocol/AdBeanX.java" timestamp="1590546372262">
-        <mark key="'" line="319" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/StarschinaTV8/settings.gradle" timestamp="1590550221981">
-        <mark key="[" line="2" column="10" />
-        <mark key="]" line="2" column="10" />
-        <mark key="." line="2" column="10" />
-        <mark key="^" line="3" column="52" />
-      </file>
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_main/src/main/java/com/dopool/module_main/view/activity/MainActivity.kt" timestamp="1590551786576">
-        <mark key="'" line="817" column="0" />
-        <mark key="[" line="124" column="0" />
-        <mark key="]" line="124" column="0" />
-        <mark key="." line="124" column="0" />
-      </file>
-      <file name="$USER_HOME$/Downloads/Jetpack-MVVM-Best-Practice/app/src/main/java/com/kunminx/puremusic/App.java" timestamp="1590556393431" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_newad/app/src/main/java/dopool/player/PlayerInterstitialActivity.kt" timestamp="1590551243167">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_base_component/build.gradle" timestamp="1590550252757" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/main/CoinPresenter.kt" timestamp="1590551868742" />
-      <file name="$USER_HOME$/Downloads/Jetpack-MVVM-Best-Practice/architecture/src/main/java/com/kunminx/architecture/data/usecase/UseCaseScheduler.java" timestamp="1590543510688" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/extensions/1.1.1/d654e6aa2f4a7c33f2dfe6c8465ee9ad2a81c1aa/extensions-1.1.1-sources.jar!/android/arch/lifecycle/ViewModelProviders.java" timestamp="1590559573537" />
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/main/CoinContract.kt" timestamp="1590551852577" />
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/main/CoinMainModel.kt" timestamp="1590551901693" />
       <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/MainActivity.kt" timestamp="1590555302210">
         <mark key="[" line="195" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/main/CoinActivity.kt" timestamp="1590551841211" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_base_component/src/main/java/com/dopool/module_base_component/adloader/ADModelBridge.kt" timestamp="1590545942855">
-        <mark key="[" line="71" column="51" />
-        <mark key="]" line="71" column="58" />
-        <mark key="^" line="71" column="58" />
-        <mark key="." line="71" column="57" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-viewmodel/2.2.0/4f90404dd52d3162217bf329db5afb32d373ec63/lifecycle-viewmodel-2.2.0-sources.jar!/androidx/lifecycle/ViewModelStoreOwner.java" timestamp="1590555550926" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_play/src/main/java/com/dopool/module_play/play/view/ShortLandControllerView.kt" timestamp="1590559536044" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/detekt-config.yml" timestamp="1590558295265" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_play/src/main/java/com/dopool/module_play/play/view/PlayerControllerView.kt" timestamp="1590559447644" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_play/src/main/java/com/dopool/module_play/play/view/VipTipsView.kt" timestamp="1590559494444" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_play/src/main/java/com/dopool/module_play/play/activities/PlayerActivity.kt" timestamp="1590559305145">
+        <mark key="'" line="166" column="76" />
       </file>
-      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/render/ExitRender/ExitRender.kt" timestamp="1590551502278" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_base_component/src/main/java/com/starschina/sdk/player/IRenderView.java" timestamp="1590559738260" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_play/src/main/java/com/dopool/module_play/play/view/PlayerSettingDrawerView.kt" timestamp="1590559724177" />
+      <file name="$USER_HOME$/Downloads/Jetpack-MVVM-Best-Practice/app/src/main/java/com/kunminx/puremusic/App.java" timestamp="1590556393431" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_play/src/main/java/com/dopool/module_play/play/activities/InputActivity.kt" timestamp="1590559345034" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/main/CoinPresenter.kt" timestamp="1590551868742" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/main/CoinActivity.kt" timestamp="1590551841211" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_base_component/src/main/java/com/dopool/module_base_component/aroute/ARouterUtil.kt" timestamp="1590559257397" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_play/src/main/java/com/dopool/module_play/play/view/ShortPortraitControllerView.kt" timestamp="1590559528067" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_play/src/main/java/com/dopool/module_play/play/view/PlayerLandscapeConditionView.kt" timestamp="1590559470470" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_play/src/main/java/com/dopool/module_play/play/view/PlayerLandscapeControllerView.kt" timestamp="1590559355540" />
     </filemarks>
     <jumps>
-      <jump line="307" column="32" filename="$USER_HOME$/workspace/StarschinaTV8/module_play/src/main/java/com/dopool/module_play/play/fragments/live/LiveFragment.kt" />
       <jump line="71" column="11" filename="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/MainActivity.kt" />
       <jump line="75" column="11" filename="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/MainActivity.kt" />
       <jump line="42" column="44" filename="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/loader/ADLoader.kt" />
@@ -221,6 +196,7 @@
       <jump line="112" column="64" filename="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/manager/TxManager.kt" />
       <jump line="319" column="0" filename="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/protocol/AdBeanX.java" />
       <jump line="818" column="0" filename="$USER_HOME$/workspace/StarschinaTV8/module_main/src/main/java/com/dopool/module_main/view/activity/MainActivity.kt" />
+      <jump line="166" column="76" filename="$USER_HOME$/workspace/StarschinaTV8/module_play/src/main/java/com/dopool/module_play/play/activities/PlayerActivity.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
