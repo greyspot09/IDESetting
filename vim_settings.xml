@@ -71,58 +71,57 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/adtask/appdownload/AdAppDownloadActivity.kt" timestamp="1590570909226">
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/adtask/appdownload/AdAppDownloadActivity.kt" timestamp="1590635216382">
         <mark key="[" line="105" column="21" />
         <mark key="]" line="105" column="21" />
         <mark key="^" line="105" column="21" />
         <mark key="." line="105" column="20" />
       </file>
-      <file name="$USER_HOME$/Desktop/tmsdk-adcoin-2.0-6020-042319/demo/src/main/java/com/tencent/tmsecure/demo/adcoin/AdCoinActivity.java" timestamp="1590630071073" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/adtask/appdownload/AdAppDownloadPresenter.kt" timestamp="1590570942667" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/manager/TxManager.kt" timestamp="1590631164121">
-        <mark key="'" line="226" column="28" />
-        <mark key="[" line="215" column="64" />
-        <mark key="]" line="209" column="62" />
-        <mark key="." line="209" column="62" />
+      <file name="$USER_HOME$/Desktop/tmsdk-adcoin-2.0-6020-042319/demo/src/main/java/com/tencent/tmsecure/demo/adcoin/AdCoinActivity.java" timestamp="1590638402932">
+        <mark key="[" line="200" column="24" />
+        <mark key="]" line="200" column="70" />
+        <mark key="." line="200" column="70" />
       </file>
-      <file name="$USER_HOME$/workspace/StarschinaTV8/common/src/main/java/com/dopool/common/BaseApplication.kt" timestamp="1590628529373">
-        <mark key="[" line="449" column="0" />
-        <mark key="]" line="449" column="0" />
-        <mark key="." line="449" column="0" />
+      <file name="$USER_HOME$/Desktop/tmsdk-adcoin-2.0-6020-042319/demo/src/main/java/com/tencent/tmsecure/demo/ad/AdActivity.java" timestamp="1590636726117" />
+      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bc836414602dce542523580edeedf588/jars/classes.jar!/com/tencent/ep/shanhuad/adpublic/models/AdID.class" timestamp="1590635877738" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/common/src/main/res/values/strings.xml" timestamp="1590635088981">
+        <mark key="[" line="949" column="26" />
+        <mark key="]" line="949" column="26" />
+        <mark key="^" line="948" column="48" />
+        <mark key="." line="949" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/api/entry/CoinTaskTypeCustomBean.kt" timestamp="1590571595855" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/main/CoinMainModel.kt" timestamp="1590631477070" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/constant/Constant.kt" timestamp="1590631340129">
+      <file name="$USER_HOME$/Desktop/tmsdk-adcoin-2.0-6020-042319/demo/src/main/java/com/tencent/tmsecure/demo/DemoApplication.java" timestamp="1590638888576" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/constant/Constant.kt" timestamp="1590637120966">
         <mark key="[" line="32" column="26" />
         <mark key="]" line="32" column="26" />
         <mark key="." line="32" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/main/CoinMainAdapter.kt" timestamp="1590631770977">
-        <mark key="[" line="434" column="0" />
-        <mark key="]" line="434" column="0" />
-        <mark key="." line="434" column="0" />
+      <file name="$USER_HOME$/.gradle/caches/transforms-1/files-1.1/shanhuAD-1.0.12.aar/d0172912c85a7022c618963f7fe40ab5/jars/classes.jar!/com/tencent/ep/shanhuad/adpublic/models/AdID.class" timestamp="1590635865585" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/main/CoinMainAdapter.kt" timestamp="1590635209920">
+        <mark key="[" line="442" column="42" />
+        <mark key="]" line="442" column="42" />
+        <mark key="." line="442" column="42" />
+        <mark key="^" line="442" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/api/entry/CoinBalanceBean.java" timestamp="1590571660328" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/task/TaskCenterAdapter.kt" timestamp="1590631727650">
-        <mark key="[" line="148" column="39" />
-        <mark key="]" line="148" column="48" />
-        <mark key="." line="148" column="47" />
-        <mark key="^" line="148" column="48" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/common/libs/points_mall/tmsdk.jar!/com/tmsdk/module/coin/AdConfigManager.class" timestamp="1590637271861" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/utils/SignUtil.java" timestamp="1590637096959" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/adtask/watchvideo/AdWatchVideoActivity.kt" timestamp="1590638559560">
+        <mark key="[" line="346" column="0" />
+        <mark key="]" line="346" column="0" />
+        <mark key="^" line="347" column="74" />
+        <mark key="." line="346" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/StarschinaTV8/common/libs/points_mall/tmsdk.jar!/com/tmsdk/module/coin/CoinTask.class" timestamp="1590631486006" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/adtask/watchvideo/AdWatchVideoActivity.kt" timestamp="1590571009110" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/api/entry/CoinTaskCustomBean.kt" timestamp="1590631667538">
-        <mark key="[" line="11" column="46" />
-        <mark key="]" line="11" column="24" />
-        <mark key="." line="11" column="23" />
-        <mark key="^" line="11" column="24" />
+      <file name="$USER_HOME$/Desktop/tmsdk-adcoin-2.0-6020-042319/demo/libs/tmsdk.jar!/com/tmsdk/module/coin/AdConfigManager.class" timestamp="1590636489230" />
+      <file name="$USER_HOME$/Desktop/tmsdk-adcoin-2.0-6020-042319/demo/libs/tmsdk.jar!/com/tmsdk/module/coin/AdRequestData.class" timestamp="1590635548533" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/common/src/main/java/com/dopool/common/BaseApplication.kt" timestamp="1590639457488">
+        <mark key="[" line="469" column="12" />
+        <mark key="]" line="469" column="13" />
+        <mark key="." line="469" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/api/entry/TecentShopListBean.kt" timestamp="1590571819957" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.yanzhenjie.recyclerview/support/1.3.2/8cff9362cba704375f77422c812274d94a1b286e/support-1.3.2-sources.jar!/com/yanzhenjie/recyclerview/AdapterWrapper.java" timestamp="1590631228863" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/task/TaskCenterPresenter.kt" timestamp="1590631360790" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/adtask/watchvideo/AdWatchVideoPresenter.kt" timestamp="1590571035085" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/task/TaskCenternModel.kt" timestamp="1590631421543" />
-      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bc836414602dce542523580edeedf588/jars/classes.jar!/com/tencent/ep/shanhuad/adpublic/models/AdMetaInfo.class" timestamp="1590628801791" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/common/libs/points_mall/tmsdk.jar!/com/tmsdk/module/coin/CoinTask.class" timestamp="1590635452202" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/main/CoinPresenter.kt" timestamp="1590635015252" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/api/StoreParamsBuilder.kt" timestamp="1590636901973" />
+      <file name="$USER_HOME$/Desktop/tmsdk-adcoin-2.0-6020-042319/javadoc/reference/com/tmsdk/module/coin/AdConfig.BUSINESS.html" timestamp="1590636104407" />
     </filemarks>
     <jumps>
       <jump line="42" column="44" filename="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/loader/ADLoader.kt" />
@@ -229,51 +228,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">dHlwZSA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dHlwZSA=</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>renderContainer</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5pKCJkZW1vIiwgIlRNU0RLIG9wZW5BcHBEZXRhaWxQYWdlOiAke3AwfSIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5lKFRBRzIsICJnb3RSZXdhcmRWZWRpb19vbkFkRXJyb3IiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBnZXQoKSB7IHJldHVybiBjb2luVGFzay4gZmlsdGVyRGF0YVswXT8udGV4dF8xID86ICIiIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBwdXRTdHJpbmcoQWRDb25maWcuQURfS0VZLkFEX0NIQU5ORUxfTk8ubmFtZSwgQ29uc3RhbnQuQVBQX1NFQ1JFVCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBwdXRJbnQoQWRDb25maWcuQURfS0VZLkFEX05VTS5uYW1lLCBDb25zdGFudC5BUFBfSUQpOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmV0Y2hBZCgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHV0SW50KEFkQ29uZmlnLkFEX0tFWS5BRF9OVU0ubmFtZSwgMTApOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICDigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJQKICAgICAgICDniYjmnYPlo7DmmI7vvJrmnKzmlofkuLpDU0RO5Y2a5Li744CMU2ljbzJTaWNv44CN55qE5Y6f5Yib5paH56ug77yM6YG15b6qQ0MgNC4wIEJZLVNB54mI5p2D5Y2P6K6u77yM6L2s6L296K+36ZmE5LiK5Y6f5paH5Ye65aSE6ZO+5o6l5Y+K5pys5aOw5piO44CCCiAgICAgICAg5Y6f5paH6ZO+5o6l77yaaHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1NpY28yU2ljby9qYXZhL2FydGljbGUvZGV0YWlscy83OTAxOTgwMgo=</text>
       </register>
       <register name="8" type="2">
-        <text>//        TMSDKContext.setTMSDKLogEnable(true)
-//        val result = init(this, object : AbsTMSConfig() {
-//            override fun getServerAddress(): String {
-////                return &quot;mazutest.3g.qq.com&quot;
-//                //正式环境地址
-//                return &quot;mazu.3g.qq.com&quot;
-//            }
-//        })</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGhhbmRsZS5zZW5kTWVzc2FnZShtc2cpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBzdXBlci5nZXRTZXJ2ZXJBZGRyZXNzKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8v6L+U5Zue5Li757q/56iLCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
