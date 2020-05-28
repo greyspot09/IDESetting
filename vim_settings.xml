@@ -77,18 +77,22 @@
         <mark key="^" line="105" column="21" />
         <mark key="." line="105" column="20" />
       </file>
-      <file name="$USER_HOME$/Desktop/tmsdk-adcoin-2.0-6020-041419/demo/src/main/java/com/tencent/tmsecure/demo/ad/impl/MainActivity.java" timestamp="1590568658013" />
-      <file name="$USER_HOME$/Desktop/tmsdk-adcoin-2.0-6020-042319/demo/src/main/java/com/tencent/tmsecure/demo/adcoin/AdCoinActivity.java" timestamp="1590572250505" />
+      <file name="$USER_HOME$/Desktop/tmsdk-adcoin-2.0-6020-042319/demo/src/main/java/com/tencent/tmsecure/demo/adcoin/AdCoinActivity.java" timestamp="1590629200957" />
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/adtask/appdownload/AdAppDownloadPresenter.kt" timestamp="1590570942667" />
       <file name="$USER_HOME$/Desktop/tmsdk-adcoin-2.0-6020-042319/demo/src/main/java/com/tencent/tmsecure/demo/DemoMainActivity.java" timestamp="1590569263725" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/manager/TxManager.kt" timestamp="1590572323428" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/manager/TxManager.kt" timestamp="1590629938620">
+        <mark key="'" line="226" column="28" />
+        <mark key="[" line="209" column="64" />
+        <mark key="]" line="209" column="62" />
+        <mark key="." line="209" column="62" />
+      </file>
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/manager/AdDownloadManager.kt" timestamp="1590570179054">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
         <mark key="^" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/StarschinaTV8/common/src/main/java/com/dopool/common/BaseApplication.kt" timestamp="1590573618463">
+      <file name="$USER_HOME$/workspace/StarschinaTV8/common/src/main/java/com/dopool/common/BaseApplication.kt" timestamp="1590628529373">
         <mark key="[" line="449" column="0" />
         <mark key="]" line="449" column="0" />
         <mark key="." line="449" column="0" />
@@ -112,10 +116,9 @@
       <file name="$USER_HOME$/Desktop/tmsdk-adcoin-2.0-6020-042319/demo/src/main/java/com/tencent/tmsecure/demo/ad/impl/MainActivity.java" timestamp="1590569202031" />
       <file name="$USER_HOME$/Desktop/tmsdk-adcoin-2.0-6020-041419/demo/src/main/java/com/tencent/tmsecure/demo/coin/CoinActivity.java" timestamp="1590568832551" />
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/adtask/watchvideo/AdWatchVideoPresenter.kt" timestamp="1590571035085" />
+      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bc836414602dce542523580edeedf588/jars/classes.jar!/com/tencent/ep/shanhuad/adpublic/models/AdMetaInfo.class" timestamp="1590628801791" />
     </filemarks>
     <jumps>
-      <jump line="71" column="11" filename="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/MainActivity.kt" />
-      <jump line="75" column="11" filename="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/MainActivity.kt" />
       <jump line="42" column="44" filename="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/loader/ADLoader.kt" />
       <jump line="39" column="88" filename="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/loader/GDT/GDTNativeV2.kt" />
       <jump line="57" column="21" filename="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/loader/GDT/GDTNativeV2.kt" />
@@ -214,15 +217,17 @@
       <jump line="319" column="0" filename="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/protocol/AdBeanX.java" />
       <jump line="818" column="0" filename="$USER_HOME$/workspace/StarschinaTV8/module_main/src/main/java/com/dopool/module_main/view/activity/MainActivity.kt" />
       <jump line="166" column="76" filename="$USER_HOME$/workspace/StarschinaTV8/module_play/src/main/java/com/dopool/module_play/play/activities/PlayerActivity.kt" />
+      <jump line="224" column="85" filename="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/manager/TxManager.kt" />
+      <jump line="226" column="28" filename="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/manager/TxManager.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">YiAtPiBi</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">YiAtPiBi</text>
       </register>
       <register name="/" type="4">
         <text>renderContainer</text>
