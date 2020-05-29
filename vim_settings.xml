@@ -82,14 +82,15 @@
         <mark key="]" line="197" column="0" />
         <mark key="." line="197" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/tmsdk-adcoin-2.0-6020-042319/demo/src/main/java/com/tencent/tmsecure/demo/coin/CoinActivity.java" timestamp="1590715584005" />
+      <file name="$USER_HOME$/Desktop/tmsdk-adcoin-2.0-6020-042319/demo/src/main/java/com/tencent/tmsecure/demo/coin/CoinActivity.java" timestamp="1590717888672" />
       <file name="$USER_HOME$/workspace/StarschinaTV8/common/src/main/res/xml/file_paths.xml" timestamp="1590653924921">
         <mark key="[" line="17" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/adtask/watchvideo/AdWatchVideoActivity.kt" timestamp="1590715673970">
-        <mark key="[" line="371" column="46" />
-        <mark key="]" line="344" column="0" />
-        <mark key="." line="344" column="0" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/adtask/watchvideo/AdWatchVideoContract.kt" timestamp="1590716673731" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/adtask/watchvideo/AdWatchVideoActivity.kt" timestamp="1590718667837">
+        <mark key="[" line="391" column="15" />
+        <mark key="]" line="391" column="15" />
+        <mark key="." line="391" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/constant/Constant.kt" timestamp="1590659761622">
         <mark key="[" line="28" column="59" />
@@ -97,8 +98,8 @@
       <file name="$USER_HOME$/workspace/StarschinaTV8/common/src/main/AndroidManifest.xml" timestamp="1590655054192">
         <mark key="[" line="213" column="19" />
       </file>
-      <file name="$USER_HOME$/Desktop/tmsdk-adcoin-2.0-6020-042319/demo/src/main/java/com/tencent/tmsecure/demo/adcoin/AdCoinActivity.java" timestamp="1590715169687" />
-      <file name="$USER_HOME$/Desktop/tmsdk-adcoin-2.0-6020-042319/demo/src/main/java/com/tencent/tmsecure/demo/ad/AdActivity.java" timestamp="1590714726666">
+      <file name="$USER_HOME$/Desktop/tmsdk-adcoin-2.0-6020-042319/demo/src/main/java/com/tencent/tmsecure/demo/adcoin/AdCoinActivity.java" timestamp="1590717897467" />
+      <file name="$USER_HOME$/Desktop/tmsdk-adcoin-2.0-6020-042319/demo/src/main/java/com/tencent/tmsecure/demo/ad/AdActivity.java" timestamp="1590718264325">
         <mark key="[" line="525" column="0" />
         <mark key="]" line="525" column="47" />
         <mark key="^" line="532" column="11" />
@@ -109,7 +110,7 @@
         <mark key="]" line="148" column="43" />
         <mark key="." line="148" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/manager/TxManager.kt" timestamp="1590715651578" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/manager/TxManager.kt" timestamp="1590717691415" />
     </filemarks>
     <jumps>
       <jump line="42" column="44" filename="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/loader/ADLoader.kt" />
@@ -216,11 +217,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>renderContainer</text>
