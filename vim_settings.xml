@@ -71,7 +71,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/taskprocesser/ShanhuCardProcessor.kt" timestamp="1590725182780">
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/taskprocesser/ShanhuCardProcessor.kt" timestamp="1590725295209">
         <mark key="[" line="47" column="70" />
         <mark key="]" line="47" column="67" />
         <mark key="." line="47" column="66" />
@@ -87,17 +87,18 @@
         <mark key="." line="391" column="15" />
       </file>
       <file name="$USER_HOME$/Desktop/tmsdk-adcoin-2.0-6020-042319/demo/src/main/java/com/tencent/tmsecure/demo/adcoin/AdCoinActivity.java" timestamp="1590724983437" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/manager/TxManager.kt" timestamp="1590722651435">
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/manager/TxManager.kt" timestamp="1590726234900">
+        <mark key="'" line="311" column="68" />
         <mark key="[" line="72" column="15" />
         <mark key="]" line="72" column="15" />
         <mark key="^" line="98" column="8" />
         <mark key="." line="72" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/utils/extension.kt" timestamp="1590722627652">
-        <mark key="[" line="3" column="13" />
-        <mark key="]" line="3" column="13" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/utils/extension.kt" timestamp="1590726246493">
+        <mark key="[" line="3" column="17" />
+        <mark key="]" line="3" column="17" />
         <mark key="^" line="3" column="46" />
-        <mark key="." line="3" column="13" />
+        <mark key="." line="3" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/taskprocesser/ShanhuRewardVideoProcesser.kt" timestamp="1590724098396">
         <mark key="[" line="66" column="114" />
@@ -137,7 +138,6 @@
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/api/ApiImp.kt" timestamp="1590722679819" />
     </filemarks>
     <jumps>
-      <jump line="57" column="21" filename="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/loader/GDT/GDTNativeV2.kt" />
       <jump line="63" column="123" filename="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/loader/GDT/GDTNativeV2.kt" />
       <jump line="55" column="0" filename="$USER_HOME$/workspace/StarschinaTV8/app/proguard-rules.pro" />
       <jump line="49" column="46" filename="$USER_HOME$/workspace/StarschinaTV8/app/proguard-rules.pro" />
@@ -237,15 +237,16 @@
       <jump line="226" column="28" filename="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/manager/TxManager.kt" />
       <jump line="458" column="59" filename="$USER_HOME$/workspace/StarschinaTV8/common/src/main/java/com/dopool/common/BaseApplication.kt" />
       <jump line="18" column="81" filename="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/taskprocesser/ShanhuRewardVideoProcessor.kt" />
+      <jump line="311" column="68" filename="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/manager/TxManager.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUb2FzdFV0aWwuY3VzdG9tVG9hc3QoIuWNoeWIuOexu+Wei+eahOS7u+WKoei/mOaXoOazleWkhOeQhiIpCg==</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">b25BZENsaWNrIA==</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>renderContainer</text>
