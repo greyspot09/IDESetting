@@ -77,8 +77,11 @@
         <mark key="]" line="93" column="58" />
         <mark key="." line="93" column="58" />
       </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/database/Cursor.java" timestamp="1590738016417" />
-      <file name="/AdDownloadManager.kt" timestamp="1590740285390" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/placement/splash/YJSplashAd.kt" timestamp="1590977870403">
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/taskprocesser/ShanhuRewardVideoProcessor.kt" timestamp="1590745033331">
         <mark key="'" line="19" column="81" />
         <mark key="[" line="64" column="0" />
@@ -86,25 +89,6 @@
         <mark key="^" line="49" column="20" />
         <mark key="." line="64" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/AndroidManifest.xml" timestamp="1590742816818" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/adtask/appdownload/AdAppDownloadPresenter.kt" timestamp="1590742431891" />
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/app/DownloadManager.java" timestamp="1590740147287" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/common/src/main/java/com/dopool/common/util/LogUtil.kt" timestamp="1590741516413" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/manager/TxManager.kt" timestamp="1590744968465">
-        <mark key="'" line="427" column="6" />
-        <mark key="[" line="96" column="32" />
-        <mark key="]" line="98" column="35" />
-        <mark key="^" line="95" column="22" />
-        <mark key="." line="98" column="35" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/transforms-1/files-1.1/shanhuAD-1.0.14.aar/4d2e155a5a482147f21bf365122abd19/jars/classes.jar!/com/tencent/ep/shanhuad/adpublic/models/AdMetaInfo.class" timestamp="1590743191803" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/manager/AdDownloadManager.kt" timestamp="1590745819738">
-        <mark key="]" line="76" column="0" />
-        <mark key="^" line="117" column="48" />
-        <mark key="." line="76" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/placement/pre/VideoPreAd.java" timestamp="1590740589561" />
-      <file name="$USER_HOME$/Library/Android/sdk/platforms/android-28/data/res/values-zh-rCN/strings.xml" timestamp="1590739619480" />
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/adtask/watchvideo/AdWatchVideoActivity.kt" timestamp="1590745073278">
         <mark key="'" line="357" column="46" />
         <mark key="[" line="163" column="0" />
@@ -117,20 +101,45 @@
         <mark key="^" line="28" column="15" />
         <mark key="." line="28" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/utils/DownloadReportProxy.java" timestamp="1590745342367" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/Log.java" timestamp="1590976678383" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/manager/TxManager.kt" timestamp="1590744968465">
+        <mark key="'" line="427" column="6" />
+        <mark key="[" line="96" column="32" />
+        <mark key="]" line="98" column="35" />
+        <mark key="^" line="95" column="22" />
+        <mark key="." line="98" column="35" />
+      </file>
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/manager/AdDownloadManager.kt" timestamp="1590745819738">
+        <mark key="]" line="76" column="0" />
+        <mark key="^" line="117" column="48" />
+        <mark key="." line="76" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/manager/AdDownloadReceiver.kt" timestamp="1590743096537">
         <mark key="[" line="65" column="71" />
         <mark key="]" line="65" column="71" />
         <mark key="." line="65" column="71" />
         <mark key="^" line="216" column="91" />
       </file>
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/utils/H5Browser.java" timestamp="1590746234458">
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/utils/H5Browser.java" timestamp="1590975026245">
         <mark key="[" line="113" column="5" />
         <mark key="]" line="112" column="54" />
         <mark key="^" line="112" column="54" />
         <mark key="." line="112" column="53" />
       </file>
-      <file name="$USER_HOME$/Desktop/tmsdk-adcoin-2.0-6020-042319/demo/src/main/java/com/tencent/tmsecure/demo/ad/AppRetainActivity.java" timestamp="1590736769681" />
+      <file name="$USER_HOME$/.gradle/caches/transforms-1/files-1.1/yjadsdk-2.9.0.aar/fcb3e5e73baae2b094bd8505eadb299f/jars/classes.jar!/cn/appfactory/yunjusdk/ad/OnSplashAdvertListener.class" timestamp="1590976120288" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/common/SplashAdRequest.java" timestamp="1590976707424">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/PlayerActivity.kt" timestamp="1590974968467">
+        <mark key="[" line="37" column="24" />
+      </file>
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/MainActivity.kt" timestamp="1590974075406">
+        <mark key="[" line="195" column="0" />
+        <mark key="]" line="195" column="0" />
+        <mark key="." line="195" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/utils/CommonUtil.java" timestamp="1590745529885">
         <mark key="[" line="65" column="0" />
         <mark key="]" line="65" column="0" />
@@ -243,10 +252,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGZ1biByZW1vdmVEb3dubG9hZExpc3RlbmVyKGlkOiBMb25nKSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>AppDownload</text>
+        <text>Log</text>
       </register>
       <register name="/" type="4">
         <text>renderContainer</text>
@@ -255,31 +264,31 @@
         <text encoding="base64">ICAgICAgICAgICAgTG9nLmUobVRhZywgImRkZGQiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZ1biByZW1vdmVEb3dubG9hZExpc3RlbmVyKGlkOiBMb25nKSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog56e76Zmk55uR5ZCs5ZmoCiAgICAgKiBAcGFyYW0gaWQgTG9uZwogICAgICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBBZERvd25sb2FkTWFuYWdlci5JTlNUQU5DRS5kb3dubG9hZEFwaygpOwo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkLnV0aWwuTG9nCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8K</text>
+        <text encoding="base64">ICAgICAgICBWaWV3TW9kZWxTdG9yZU93bmVyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRBU2tfVFhfQ0FSRF9BUFAK</text>
+        <text encoding="base64">ICAgIGZ1biByZW1vdmVEb3dubG9hZExpc3RlbmVyKGlkOiBMb25nKSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICog56e76Zmk55uR5ZCs5ZmoCiAgICAgKiBAcGFyYW0gaWQgTG9uZwogICAgICovCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">dmFsIG1BRERvd25Mb2FkOiBBRERvd25Mb2FkID0gQUREb3duTG9hZCgpCiAgICBwcml2YXRlIGZ1biBmZXRjaEFkKCkgewogICAgICAgIHZhbCBidW5kbGUgPSBCdW5kbGUoKS5hcHBseSB7CiAgICAgICAgICAgIHB1dEludChBZENvbmZpZy5BRF9LRVkuQURfTlVNLm5hbWUsIDEwKQogICAgICAgICAgICBwdXRTdHJpbmcoQWRDb25maWcuQURfS0VZLkFEX0NIQU5ORUxfTk8ubmFtZSwgIua4oOmBk+WPtyIpCiAgICAgICAgfQogICAgICAgIHZhbCBhZENvbmZpZyA9IEFkQ29uZmlnKENvbnN0YW50LlRhc2tUeXBlLlRBU2tfVFhfRE9XTkxPQURfQVBQLGJ1bmRsZSkKICAgICAgICB2YWwgY21wQWRDb25maWcgPSBBZENvbmZpZ01hbmFnZXIuY2hlY2tQYXJhbShhZENvbmZpZywgNSAqIDEwMDBMKQogICAgICAgIHZhbCBhZFJlcXVlc3REYXRhID0gQWRDb25maWdNYW5hZ2VyLmdldFNpbXBsZVBvc2l0aW9uQWRDb25maWcoY21wQWRDb25maWcpCiAgICAgICAgTG9nLmkoVEFHMiwgIuS4i+i9veW5v+WRimJ1c2luZXNzOiR7YWRSZXF1ZXN0RGF0YS5idXNpbmVzc30iKQogICAgICAgIExvZy5pKFRBRzIsICLkuIvovb3nsbvlnovlub/lkYpwb3NpdG9uSUQ6JHthZFJlcXVlc3REYXRhLnBvc2l0aW9uSWR9IikKICAgICAgICB2YWwgYWRJRCA9IEFkSUQoYWRSZXF1ZXN0RGF0YS5wb3NpdGlvbklkLCBlbXB0eUFycmF5KCksIDk2OCwgMzAwKQoKICAgICAgICBtQUREb3duTG9hZC5sb2FkKHRoaXMuYXBwbGljYXRpb25Db250ZXh0LCBvYmplY3QgOiBBZEluZm9MaXN0ZW5lciB7CiAgICAgICAgICAgIG92ZXJyaWRlIGZ1biBvbkFkTG9hZGVkKGxpc3Q6IExpc3Q8QWRNZXRhSW5mbz4pOiBVbml0IHsKICAgICAgICAgICAgICAgIExvZy5pKFRBRzIsICJvbkFkTG9hZGVkICR7bGlzdC5jb3VudCgpfSIpCiAgICAgICAgICAgICAgICBsaXN0LmZvckVhY2ggewogICAgICAgICAgICAgICAgICAgIExvZy5pKFRBRzIsIGl0LmRvd25Mb2FkVXJsKQogICAgICAgICAgICAgICAgICAgIExvZy5pKFRBRzIsICIkaXQiKQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgcnVuT25VaVRocmVhZCB7CiAgICAgICAgICAgICAgICAgICAgLy8gICAgICAgICAgICAgICAgICAgICAgICB2YWwgdmlldzogSW1hZ2VBRFZpZXcgPSB0aGlzQEFkQWN0aXZpdHkuZ2V0TGF5b3V0SW5mbGF0ZXIoKS5pbmZsYXRlKFIubGF5b3V0LmFkX3NjcmVlbiwgbnVsbCkgYXMgSW1hZ2VBRFZpZXcKICAgICAgICAgICAgICAgICAgICAvLyAgICAgICAgICAgICAgICAgICAgICAgIGlmIChsaXN0ICE9IG51bGwgJiYgbGlzdC5zaXplID4gMCkgewogICAgICAgICAgICAgICAgICAgIC8vICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZpZXcuc2V0TW9kZWwobGlzdC5nZXQoMCkpCiAgICAgICAgICAgICAgICAgICAgLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFsIGJ0bjogQnV0dG9uID0gdmlldy5maW5kVmlld0J5SWQoUi5pZC5idG5fZHduKQogICAgICAgICAgICAgICAgICAgIC8vICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1BRERvd25Mb2FkLnJlZ2lzdGVyVmlld0ZvckludGVyYWN0aW9uKGxpc3QuZ2V0KDApLCBtTmF0aXZlQWRDb250YWluZXIsIHZpZXcpCiAgICAgICAgICAgICAgICAgICAgLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgcm9vdFZpZXcuYWRkVmlldyh2aWV3KQogICAgICAgICAgICAgICAgICAgIC8vICAgICAgICAgICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICAvLyAgICAgICAgICAgICAgICAgICAgICAgICAgICBzaG93VG9hc3QoIuaLieWPluS4uuepuiIpCiAgICAgICAgICAgICAgICAgICAgLy8gICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIG92ZXJyaWRlIGZ1biBvbkFkRXJyb3IoYWRFcnJvcjogQURFcnJvcik6IFVuaXQgewogICAgICAgICAgICAgICAgTG9nLmUoVEFHMiwgIm9uQWRFcnJvciwgJHthZEVycm9yLmNvZGV9LCAke2FkRXJyb3IubXNnfSIpCiAgICAgICAgICAgIH0KICAgICAgICAgICAgb3ZlcnJpZGUgZnVuIG9uR0RURXZlbnRTdGF0dXNDaGFuZ2VkKGk6IEludCk6IFVuaXQgewogICAgICAgICAgICAgICAgTG9nLmkoVEFHMiwgIm9uR0RURXZlbnRTdGF0dXNDaGFuZ2VkICRpIikKICAgICAgICAgICAgfQogICAgICAgICAgICBvdmVycmlkZSBmdW4gb25BZENsaWNrKG5hdGl2ZVVuaWZpZWRBRERhdGE6IE5hdGl2ZVVuaWZpZWRBRERhdGEpOiBVbml0IHsKICAgICAgICAgICAgICAgIExvZy5pKFRBRzIsICJvbkFkQ2xpY2siKQogICAgICAgICAgICB9CiAgICAgICAgICAgIG92ZXJyaWRlIGZ1biBvbkFkU2hvdygpOiBVbml0IHsKICAgICAgICAgICAgICAgIExvZy5pKFRBRzIsICJvbkFkU2hvdyIpCiAgICAgICAgICAgIH0KICAgICAgICB9LCBsaXN0T2YoYWRJRCkpCgogICAgfQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBBZERvd25sb2FkTWFuYWdlci5JTlNUQU5DRS5kb3dubG9hZEFwaygpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CgoKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRBU2tfVFhfQ0FSRF9BUFAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
