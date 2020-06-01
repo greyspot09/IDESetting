@@ -71,6 +71,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/taskprocesser/ShanhuCardProcessor.kt" timestamp="1590983659111" />
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/adtask/appdownload/AdAppDownloadActivity.kt" timestamp="1590745305062">
         <mark key="'" line="128" column="16" />
         <mark key="[" line="58" column="56" />
@@ -102,12 +103,12 @@
         <mark key="." line="28" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/Log.java" timestamp="1590976678383" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/manager/TxManager.kt" timestamp="1590744968465">
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/manager/TxManager.kt" timestamp="1590983639483">
         <mark key="'" line="427" column="6" />
-        <mark key="[" line="96" column="32" />
-        <mark key="]" line="98" column="35" />
+        <mark key="[" line="157" column="121" />
+        <mark key="]" line="157" column="121" />
         <mark key="^" line="95" column="22" />
-        <mark key="." line="98" column="35" />
+        <mark key="." line="157" column="121" />
       </file>
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/manager/AdDownloadManager.kt" timestamp="1590745819738">
         <mark key="]" line="76" column="0" />
@@ -145,6 +146,7 @@
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/main/CoinMainAdapter.kt" timestamp="1590983942253" />
     </filemarks>
     <jumps>
       <jump line="411" column="42" filename="$USER_HOME$/workspace/StarschinaTV8/module_main/src/main/java/com/dopool/module_main/view/activity/MainActivity.kt" />
@@ -251,11 +253,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>Log</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>renderContainer</text>
