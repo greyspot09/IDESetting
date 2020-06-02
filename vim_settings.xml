@@ -113,11 +113,11 @@
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/utils/extension.kt" timestamp="1591064680212">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/manager/AdDownloadManager.kt" timestamp="1591070316924">
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/manager/AdDownloadManager.kt" timestamp="1591076209422">
         <mark key="'" line="52" column="25" />
-        <mark key="[" line="282" column="4" />
-        <mark key="]" line="284" column="29" />
-        <mark key="." line="282" column="4" />
+        <mark key="[" line="281" column="0" />
+        <mark key="]" line="281" column="0" />
+        <mark key="." line="281" column="0" />
         <mark key="^" line="281" column="12" />
       </file>
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/manager/AdDownloadReceiver.kt" timestamp="1591068516614">
@@ -256,7 +256,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuaShtVGFnLCAi5omT5byAICR7aXRlbS5wYWNrYWdlTmFtZX0iKQogICAgICAgIEFwcFV0aWwubGF1bmNoQXBwKEJhc2VBcHAuY29udGV4dCwgaXRlbS5wYWNrYWdlTmFtZSkKICAgICAgICBvbk9wZW5TdWNjZXNzKGlkKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>title</text>
@@ -268,31 +268,31 @@
         <text encoding="base64">ICAgICAgICAgICAgTG9nLmkobVRhZywgIiR7YXBrRG93bmxvYWRJdGVtLnRpdGxlfSDlt7Lnu4/lnKjlvoXlronoo4XpmJ/liJfph4zkuoYgIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuaShtVGFnLCAi5omT5byAICR7aXRlbS5wYWNrYWdlTmFtZX0iKQogICAgICAgIEFwcFV0aWwubGF1bmNoQXBwKEJhc2VBcHAuY29udGV4dCwgaXRlbS5wYWNrYWdlTmFtZSkKICAgICAgICBvbk9wZW5TdWNjZXNzKGlkKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcXVlcnlQZXJjZW50KGlkKQo=</text>
+        <text encoding="base64">ICAgICAgICBMb2cuaShtVGFnLCAi5omT5byAICR7aXRlbS5wYWNrYWdlTmFtZX0iKQogICAgICAgIEFwcFV0aWwubGF1bmNoQXBwKEJhc2VBcHAuY29udGV4dCwgaXRlbS5wYWNrYWdlTmFtZSkKICAgICAgICBvbk9wZW5TdWNjZXNzKGlkKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nLmkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcXVlcnlQZXJjZW50KGlkKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nLmkK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nLmkobVRhZywgIiR7YXBrRG93bmxvYWRJdGVtLnRpdGxlfSDlt7Lnu4/lnKjlvoXlronoo4XpmJ/liJfph4zkuoYgIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nLmkobVRhZywgIiR7YXBrRG93bmxvYWRJdGVtLnRpdGxlfSDlt7Lnu4/lnKjlvoXlronoo4XpmJ/liJfph4zkuoYgIikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
