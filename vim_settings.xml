@@ -73,7 +73,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/adtask/appdownload/AdAppDownloadActivity.kt" timestamp="1591091505265">
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/adtask/appdownload/AdAppDownloadActivity.kt" timestamp="1591092229106">
         <mark key="'" line="224" column="8" />
         <mark key="[" line="221" column="43" />
         <mark key="]" line="221" column="43" />
@@ -103,7 +103,7 @@
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/utils/DownloadReportProxy.java" timestamp="1591080964349" />
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_play/src/main/java/com/dopool/module_play/play/activities/PlayerActivity.kt" timestamp="1591083985538" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.20/60070a2fbed969e9b73f214cb41072eabedf299a/kotlin-stdlib-common-1.3.20-sources.jar!/generated/_Collections.kt" timestamp="1591084590258" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/manager/TxManager.kt" timestamp="1591089369891">
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/manager/TxManager.kt" timestamp="1591093084359">
         <mark key="'" line="413" column="6" />
         <mark key="[" line="535" column="116" />
         <mark key="]" line="534" column="51" />
@@ -125,7 +125,6 @@
         <mark key="^" line="109" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/StarschinaTV8/common/libs/points_mall/tmsdk.jar!/com/tmsdk/module/coin/AppRetainUtil.class" timestamp="1591081600993" />
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/content/pm/PackageManager.java" timestamp="1591068397047" />
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_base_component/src/main/java/com/dopool/module_base_component/data/request/AppRequest.kt" timestamp="1591084214027" />
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/manager/ShanhuH5Browser.kt" timestamp="1591088077440">
         <mark key="[" line="38" column="52" />
@@ -135,6 +134,7 @@
       </file>
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_base_component/src/main/java/com/dopool/module_base_component/data/net/module/ShopModel.kt" timestamp="1591084223227" />
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_base_component/src/main/java/com/dopool/module_base_component/broadcast/AppInstallRecever.kt" timestamp="1591077539275" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/constant/Constant.kt" timestamp="1591092934106" />
       <file name="$USER_HOME$/workspace/StarschinaTV8/common/libs/points_mall/tmsdk.jar!/com/tmsdk/module/coin/ISharePreferenceImp.class" timestamp="1591081704715" />
     </filemarks>
     <jumps>
