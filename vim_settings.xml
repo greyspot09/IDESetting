@@ -80,7 +80,7 @@
         <mark key="." line="255" column="0" />
         <mark key="^" line="253" column="8" />
       </file>
-      <file name="$USER_HOME$/Desktop/tmsdk-adcoin-2.0-6020-042319/demo/src/main/java/com/tencent/tmsecure/demo/ad/impl/H5Browser.java" timestamp="1591069277524" />
+      <file name="$USER_HOME$/Desktop/tmsdk-adcoin-2.0-6020-042319/demo/src/main/java/com/tencent/tmsecure/demo/ad/impl/H5Browser.java" timestamp="1591077048849" />
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/adtask/watchvideo/AdWatchVideoActivity.kt" timestamp="1591068534345">
         <mark key="'" line="381" column="46" />
         <mark key="[" line="187" column="0" />
@@ -113,7 +113,7 @@
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/utils/extension.kt" timestamp="1591064680212">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/manager/AdDownloadManager.kt" timestamp="1591076209422">
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/manager/AdDownloadManager.kt" timestamp="1591077607424">
         <mark key="'" line="52" column="25" />
         <mark key="[" line="281" column="0" />
         <mark key="]" line="281" column="0" />
@@ -140,9 +140,7 @@
         <mark key="^" line="31" column="33" />
         <mark key="." line="35" column="29" />
       </file>
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/task/TaskCenterPresenter.kt" timestamp="1591003444543">
-        <mark key="[" line="67" column="57" />
-      </file>
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_base_component/src/main/java/com/dopool/module_base_component/broadcast/AppInstallRecever.kt" timestamp="1591077539275" />
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/adtask/appdownload/AdAppDownloadContract.kt" timestamp="1591005906839">
         <mark key="[" line="24" column="42" />
         <mark key="]" line="24" column="42" />
