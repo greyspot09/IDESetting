@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxhZENvbmZpZ1w+</entry>
-        <entry encoding="base64">XDxMb2dcPg==</entry>
         <entry encoding="base64">XDxtRXZlbnRUeXBlRmlsdGVyXD4=</entry>
         <entry encoding="base64">XDx2aXBCdXR0b25cPg==</entry>
         <entry encoding="base64">XDxyZW5kZXJWaWRlb1w+</entry>
@@ -27,9 +25,16 @@
         <entry encoding="base64">XDxnZXRJdGVtVmlld1R5cGVcPg==</entry>
         <entry encoding="base64">XDxvdmVycmlkZVw+</entry>
         <entry>TASK_Shop</entry>
+        <entry>adData?.styleAdEntity</entry>
+        <entry>adMetaInfo</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
+        <entry>s/adData?.styleAdEntity/adMetaInfo</entry>
+        <entry>s/adData?.styleAdEntity/adMetaInfo/g</entry>
+        <entry>%s/adData?.styleAdEntity/adMetaInfo/g</entry>
+        <entry>%s/adData?.styleAdEntity/adData?.adMetaInfo/g</entry>
+        <entry>%s/adMetaInfo/adData?.adMetaInfo/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -75,36 +80,42 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/adtask/appdownload/AdAppDownloadActivity.kt" timestamp="1591150766333">
-        <mark key="'" line="224" column="8" />
-        <mark key="[" line="221" column="43" />
-        <mark key="]" line="221" column="43" />
-        <mark key="." line="221" column="43" />
-        <mark key="^" line="170" column="48" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/adtask/appdownload/AdAppDownloadActivity.kt" timestamp="1591165793567">
+        <mark key="'" line="194" column="25" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/StarschinaTV8/common/libs/points_mall/tmsdk.jar!/com/tmsdk/module/coin/CoinTask.class" timestamp="1591147670798" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/taskprocesser/ShanhuRewardVideoProcessor.kt" timestamp="1591150896419" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/adtask/watchvideo/AdWatchVideoActivity.kt" timestamp="1591094141869">
-        <mark key="'" line="381" column="46" />
-        <mark key="[" line="187" column="0" />
-        <mark key="]" line="187" column="0" />
-        <mark key="." line="187" column="0" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/taskprocesser/ShanhuRewardVideoProcessor.kt" timestamp="1591164722919">
+        <mark key="[" line="63" column="105" />
+        <mark key="]" line="63" column="105" />
+        <mark key="." line="63" column="105" />
       </file>
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/api/entry/CoinTaskCustomBean.kt" timestamp="1591156079917">
-        <mark key="'" line="126" column="4" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/api/entry/CoinTaskCustomBean.kt" timestamp="1591167908664">
+        <mark key="'" line="140" column="4" />
+        <mark key="[" line="186" column="26" />
+        <mark key="]" line="85" column="0" />
+        <mark key="^" line="85" column="50" />
+        <mark key="." line="85" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/StarschinaTV8/common/libs/points_mall/tmsdk.jar!/com/tmsdk/module/coin/CoinManager.class" timestamp="1591149612012" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/manager/TxManager.kt" timestamp="1591151339938">
-        <mark key="'" line="485" column="6" />
-        <mark key="[" line="145" column="0" />
-        <mark key="]" line="145" column="0" />
-        <mark key="^" line="146" column="59" />
-        <mark key="." line="145" column="0" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/manager/TxManager.kt" timestamp="1591167798918">
+        <mark key="'" line="486" column="6" />
+        <mark key="[" line="374" column="0" />
+        <mark key="]" line="571" column="41" />
+        <mark key="^" line="560" column="48" />
+        <mark key="." line="571" column="41" />
       </file>
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/api/entry/CoinTaskTypeCustomBean.kt" timestamp="1591156437216">
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/manager/AdDownloadManager.kt" timestamp="1591167800223">
+        <mark key="[" line="349" column="41" />
+      </file>
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/manager/AdDownloadReceiver.kt" timestamp="1591167580533">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/api/entry/CoinTaskTypeCustomBean.kt" timestamp="1591167131594">
         <mark key="[" line="18" column="8" />
         <mark key="]" line="18" column="14" />
         <mark key="." line="18" column="13" />
@@ -117,7 +128,7 @@
         <mark key="^" line="47" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/main/CoinContract.kt" timestamp="1591156497174" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/main/CoinMainModel.kt" timestamp="1591156798468">
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/main/CoinMainModel.kt" timestamp="1591167828712">
         <mark key="[" line="79" column="1" />
         <mark key="]" line="80" column="0" />
         <mark key="." line="80" column="0" />
@@ -128,32 +139,26 @@
         <mark key="^" line="26" column="43" />
         <mark key="." line="26" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/main/CoinActivity.kt" timestamp="1591156440064" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/task/TaskCenterPresenter.kt" timestamp="1591093956024">
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/main/CoinActivity.kt" timestamp="1591167915411" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/task/TaskCenterPresenter.kt" timestamp="1591168578598">
         <mark key="[" line="67" column="57" />
+        <mark key="." line="41" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/main/CoinMainAdapter.kt" timestamp="1591162027829">
-        <mark key="'" line="159" column="17" />
-        <mark key="[" line="361" column="0" />
-        <mark key="]" line="361" column="0" />
-        <mark key="." line="361" column="0" />
-        <mark key="^" line="299" column="40" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/main/CoinMainAdapter.kt" timestamp="1591166790278">
+        <mark key="'" line="163" column="17" />
+        <mark key="[" line="333" column="94" />
+        <mark key="]" line="93" column="81" />
+        <mark key="." line="93" column="80" />
+        <mark key="^" line="93" column="81" />
       </file>
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/task/TaskCenternModel.kt" timestamp="1591154413134" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/task/TaskCenterAdapter.kt" timestamp="1591167974603" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/task/TaskCenternModel.kt" timestamp="1591167156897">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="8" filename="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/MainActivity.kt" />
-      <jump line="25" column="16" filename="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/PortraitBannerActivity.kt" />
-      <jump line="30" column="0" filename="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/render/PreloadingRender/PreloadingRender.kt" />
-      <jump line="43" column="34" filename="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/loader/GDT/NativeV2/GDTNativeV2.kt" />
-      <jump line="28" column="16" filename="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/loader/ADLoader.kt" />
-      <jump line="107" column="0" filename="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/loader/ADLoader.kt" />
-      <jump line="11" column="59" filename="$USER_HOME$/workspace/ADExample2/app/src/main/res/layout/activity_player.xml" />
-      <jump line="76" column="68" filename="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/LandscapeBannerActivity.kt" />
-      <jump line="34" column="71" filename="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/PortraitBannerActivity.kt" />
-      <jump line="182" column="36" filename="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/render/PortraitBannerRender/PortraitBannerRender.kt" />
-      <jump line="33" column="128" filename="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/plguin/GDT/NativeExpress/GDTNativeExpress.kt" />
-      <jump line="107" column="4" filename="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/render/ExitRender/ExitRender.kt" />
       <jump line="96" column="80" filename="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/render/ExitRender/ExitRender.kt" />
       <jump line="171" column="12" filename="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/render/ExitRender/ExitRender.kt" />
       <jump line="15" column="17" filename="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/plguin/Bytedance/ByteDanceNative.kt" />
@@ -242,66 +247,73 @@
       <jump line="148" column="17" filename="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/main/CoinMainAdapter.kt" />
       <jump line="63" column="4" filename="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/api/entry/CoinTaskCustomBean.kt" />
       <jump line="127" column="4" filename="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/api/entry/CoinTaskCustomBean.kt" />
+      <jump line="213" column="12" filename="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/adtask/appdownload/AdAppDownloadActivity.kt" />
+      <jump line="57" column="0" filename="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/adtask/appdownload/AdAppDownloadActivity.kt" />
+      <jump line="110" column="0" filename="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/adtask/appdownload/AdAppDownloadActivity.kt" />
+      <jump line="218" column="12" filename="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/adtask/appdownload/AdAppDownloadActivity.kt" />
+      <jump line="231" column="12" filename="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/adtask/appdownload/AdAppDownloadActivity.kt" />
+      <jump line="249" column="8" filename="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/adtask/appdownload/AdAppDownloadActivity.kt" />
+      <jump line="254" column="30" filename="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/adtask/appdownload/AdAppDownloadActivity.kt" />
+      <jump line="255" column="29" filename="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/adtask/appdownload/AdAppDownloadActivity.kt" />
+      <jump line="256" column="28" filename="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/adtask/appdownload/AdAppDownloadActivity.kt" />
+      <jump line="259" column="0" filename="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/adtask/appdownload/AdAppDownloadActivity.kt" />
+      <jump line="243" column="0" filename="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/adtask/appdownload/AdAppDownloadActivity.kt" />
+      <jump line="196" column="25" filename="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/adtask/appdownload/AdAppDownloadActivity.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5kb3Bvb2wubW9kdWxlX3Nob3AuYXBpLmVudHJ5LkNvaW5UYXNrQ3VzdG9tQmVhbgo=</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>downloadUrl</text>
       </register>
       <register name="/" type="4">
-        <text>TASK_Shop</text>
+        <text>adMetaInfo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbCB1c2VyVGFzayA9IG11dGFibGVMaXN0T2YoQ29pbk1haW5Nb2RlbC5kZWZhdWx0Q29pblRhc2soKSkuc3ViTGlzdCgwLCAxKQo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgVG9hc3RVdGlsLmN1c3RvbVRvYXN0KCLmraPlnKjliIbphY3ku7vliqHkuK0uLi4iKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5kb3Bvb2wubW9kdWxlX3Nob3AuYXBpLmVudHJ5LkNvaW5UYXNrQ3VzdG9tQmVhbgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgdmFsIHRhc2sgPSBpdC50YXNrRmluaXNoUGVyY2VudC5zcGxpdCgiLyIpLm1hcCB7IGl0LnRvSW50KCkgfQo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5kb3Bvb2wubW9kdWxlX3Nob3AuYXBpLmVudHJ5LkNvaW5UYXNrQ3VzdG9tQmVhbgo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhciBhZERhdGE/LmFkTWV0YUluZm86IEFkTWV0YUluZm8/ID0gbnVsbAo=</text>
       </register>
       <register name="5" type="2">
-        <text>//            //手机电视的任务
-//            if (coinTaskType.task_type == Constant.TaskType.TASK_DEFAULT) {
-//                handleStarsChinaTask(coinTaskType)
-//            }
-//            //腾讯任务
-//            if (coinTaskType.task_type == 0) {
-//                goTencentTaskHandlePage(coinTaskType)
-//            }</text>
+        <text encoding="base64">ICAgIHZhciBhZE1ldGFJbmZvOiAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGdvTWFpblBhZ2UoaXQuY29pblRhc2spCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RhcnRBZEFwcERvd25sb2FkQWN0aXZpdHkoY29udGV4dCwgZG93bmxvYWRUYXNrQmVhbikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCB0YXNrID0gaXQudGFza0ZpbmlzaFBlcmNlbnQuc3BsaXQoIi8iKS5tYXAgeyBpdC50b0ludCgpIH0K</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIHRhc2tQcm9jZXNzb3I/LmV4Y3V0ZSh0aGlzLmNvbnRleHQpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZ29NYWluUGFnZShpdC5jb2luVGFzaykK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIHRhc2tQcm9jZXNzb3IgPSBTaGFuaHVEb3dubG9hZFRhc2tQcm9jZXNzb3IoYWREYXRhKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnVuIHByb2dyZXNzVGV4dAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>%s/adMetaInfo/adData?.adMetaInfo/g</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>TASK_Shop</last-search>
+      <last-search>adMetaInfo</last-search>
       <last-offset />
-      <last-pattern>TASK_Shop</last-pattern>
+      <last-pattern>adMetaInfo</last-pattern>
+      <last-replace>adData?.adMetaInfo</last-replace>
+      <last-substitute>adMetaInfo</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
