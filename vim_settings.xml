@@ -132,11 +132,11 @@
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/task/TaskCenterPresenter.kt" timestamp="1591093956024">
         <mark key="[" line="67" column="57" />
       </file>
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/main/CoinMainAdapter.kt" timestamp="1591157016902">
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/main/CoinMainAdapter.kt" timestamp="1591162027829">
         <mark key="'" line="159" column="17" />
-        <mark key="[" line="299" column="39" />
-        <mark key="]" line="299" column="39" />
-        <mark key="." line="299" column="39" />
+        <mark key="[" line="361" column="0" />
+        <mark key="]" line="361" column="0" />
+        <mark key="." line="361" column="0" />
         <mark key="^" line="299" column="40" />
       </file>
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/task/TaskCenternModel.kt" timestamp="1591154413134" />
@@ -246,8 +246,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>&quot;</text>
@@ -262,9 +262,15 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgdmFsIHRhc2sgPSBpdC50YXNrRmluaXNoUGVyY2VudC5zcGxpdCgiLyIpLm1hcCB7IGl0LnRvSW50KCkgfQo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text>//            //手机电视的任务
 //            if (coinTaskType.task_type == Constant.TaskType.TASK_DEFAULT) {
 //                handleStarsChinaTask(coinTaskType)
@@ -274,23 +280,17 @@
 //                goTencentTaskHandlePage(coinTaskType)
 //            }</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGdvTWFpblBhZ2UoaXQuY29pblRhc2spCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCB0YXNrID0gaXQudGFza0ZpbmlzaFBlcmNlbnQuc3BsaXQoIi8iKS5tYXAgeyBpdC50b0ludCgpIH0K</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZ29NYWluUGFnZShpdC5jb2luVGFzaykK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZnVuIHByb2dyZXNzVGV4dAo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ZnVuIHByb2dyZXNzVGV4dAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
