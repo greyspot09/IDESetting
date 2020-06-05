@@ -138,11 +138,11 @@
         <mark key="]" line="25" column="17" />
         <mark key="." line="25" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/PlayerActivity.kt" timestamp="1591331154519">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="39" column="20" />
-        <mark key="^" line="39" column="20" />
-        <mark key="." line="39" column="19" />
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/PlayerActivity.kt" timestamp="1591334959766">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="23" />
+        <mark key="^" line="43" column="21" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/cardtask/CardTaskAdapter.kt" timestamp="1591329811378">
         <mark key="[" line="31" column="68" />
@@ -282,8 +282,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>finishLoadMore</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBsb2FkUHJlQUQoKQo=</text>
       </register>
       <register name="-" type="4">
         <text>finishLoadMore</text>
@@ -295,32 +295,32 @@
         <text encoding="base64">ICAgICAgICAgICAgcmVmcmVzaExheW91dC5maW5pc2hMb2FkTW9yZShmYWxzZSApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2FkUHJlQUQoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVmcmVzaGxheW91dC5maW5pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVmcmVzaGxheW91dC5maW5pCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text>import com.scwang.smartrefresh.layout.api.RefreshLayout
 import com.scwang.smartrefresh.layout.listener.OnRefreshListener</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IHN1bi5qdm0uaG90c3BvdC51dGlsaXRpZXMuSW50QXJyYXkK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGNhcmRUYXNrICE9IG51bGwpIHsKICAgICAgICAgICAgICAgIHRhc2tQcm9jZXNzb3IgPSBTaGFuaHVDYXJkUHJvY2Vzc29yKGNhcmRQcm9jZXNzb3JMaXN0ZW4pCiAgICAgICAgICAgIH0=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRhc2tQcm9jZXNzb3I/LmV4ZWN1dGUodGhpcykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGNhcmRUYXNrICE9IG51bGwpIHsKICAgICAgICAgICAgICAgIHRhc2tQcm9jZXNzb3IgPSBTaGFuaHVDYXJkUHJvY2Vzc29yKGNhcmRQcm9jZXNzb3JMaXN0ZW4pCiAgICAgICAgICAgIH0=</text>
       </register>
       <register name=":" type="4">
         <text>%s/taskData/items/g</text>
