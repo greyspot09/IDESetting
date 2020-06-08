@@ -82,11 +82,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/res/layout/item_card_task_view.xml" timestamp="1591592075315">
-        <mark key="[" line="18" column="44" />
-        <mark key="]" line="43" column="38" />
-        <mark key="^" line="43" column="38" />
-        <mark key="." line="43" column="37" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/res/layout/item_card_task_view.xml" timestamp="1591597923405">
+        <mark key="[" line="69" column="31" />
+        <mark key="]" line="68" column="31" />
+        <mark key="^" line="68" column="31" />
+        <mark key="." line="68" column="30" />
       </file>
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/taskprocesser/ShanhuCardProcessor.kt" timestamp="1591586079179">
         <mark key="[" line="62" column="50" />
