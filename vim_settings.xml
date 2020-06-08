@@ -82,8 +82,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/res/layout/item_card_task_view.xml" timestamp="1591589250798">
-        <mark key="[" line="68" column="51" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/res/layout/item_card_task_view.xml" timestamp="1591592075315">
+        <mark key="[" line="18" column="44" />
+        <mark key="]" line="43" column="38" />
+        <mark key="^" line="43" column="38" />
+        <mark key="." line="43" column="37" />
       </file>
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/taskprocesser/ShanhuCardProcessor.kt" timestamp="1591586079179">
         <mark key="[" line="62" column="50" />
@@ -111,11 +114,11 @@
       <file name="$USER_HOME$/workspace/StarschinaTV8/common/src/main/res/values/strings.xml" timestamp="1591586216617" />
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_base_component/src/main/java/com/dopool/module_base_component/notification/impl/CustomDownloadNotificationImpl.kt" timestamp="1591589706604" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.yanzhenjie.recyclerview/support/1.3.2/8cff9362cba704375f77422c812274d94a1b286e/support-1.3.2-sources.jar!/com/yanzhenjie/recyclerview/AdapterWrapper.java" timestamp="1591583433830" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/cardtask/CardTaskAdapter.kt" timestamp="1591589821155">
-        <mark key="[" line="87" column="36" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
-        <mark key="^" line="61" column="103" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/cardtask/CardTaskAdapter.kt" timestamp="1591591836762">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="^" line="81" column="12" />
+        <mark key="." line="60" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/task/TaskCenterContract.kt" timestamp="1591582768019" />
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/cardtask/CardTaskActivity.kt" timestamp="1591589714900">
@@ -239,10 +242,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgYWN0aW9uQnV0dG9uLnNldEJhY2tncm91bmRDb2xvcihDb2xvci5wYXJzZUNvbG9yKCIjZmY0YjkwZmYiKSkKLy8gICAgICAgICAgICAgICAgYWN0aW9uQnV0dG9uLnNldFRleHRDb2xvcihDb2xvci5wYXJzZUNvbG9yKCIjZmZjY2NjY2MiKSkK</text>
       </register>
       <register name="-" type="4">
-        <text>GlobalScope..</text>
+        <text>position</text>
       </register>
       <register name="/" type="4">
         <text>taskData</text>
@@ -251,31 +254,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGFjdGlvbkJ1dHRvbi5zZXRUZXh0Q29sb3IoQ29sb3IucGFyc2VDb2xvcigiI2ZmY2NjY2NjIikpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgYWN0aW9uQnV0dG9uLnNldEJhY2tncm91bmRDb2xvcihDb2xvci5wYXJzZUNvbG9yKCIjZmY0YjkwZmYiKSkKLy8gICAgICAgICAgICAgICAgYWN0aW9uQnV0dG9uLnNldFRleHRDb2xvcihDb2xvci5wYXJzZUNvbG9yKCIjZmZjY2NjY2MiKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgYWN0aW9uQnV0dG9uLnNldFRleHRDb2xvcihDb2xvci5wYXJzZUNvbG9yKCIjZmZjY2NjY2MiKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgYWN0aW9uQnV0dG9uLnNldEJhY2tncm91bmRDb2xvcihDb2xvci5wYXJzZUNvbG9yKCIjZmZlZWVlZWUiKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxhdW5jaChEaXNwYXRjaGVycy5NYWluKSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlbGF5KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgZGVsYXkoNTAwKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcnVuIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaG9sZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFkYXB0ZXIuY2xpY2tlZChuYXRpdmVVbmlmaWVkQUREYXRhKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/taskData/items/g</text>
