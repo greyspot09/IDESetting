@@ -82,11 +82,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/adtask/appdownload/AdAppDownloadActivity.kt" timestamp="1591673919899">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="232" column="53" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/adtask/appdownload/AdAppDownloadActivity.kt" timestamp="1591675841804">
+        <mark key="[" line="244" column="0" />
+        <mark key="]" line="244" column="0" />
+        <mark key="." line="244" column="0" />
       </file>
       <file name="/fragment.kt" timestamp="1591669838673">
         <mark key="[" line="0" column="0" />
@@ -97,7 +96,7 @@
         <mark key="." line="23" column="99" />
         <mark key="^" line="23" column="100" />
       </file>
-      <file name="$USER_HOME$/workspace/StarschinaTV8/common/src/main/res/values/strings.xml" timestamp="1591609422297">
+      <file name="$USER_HOME$/workspace/StarschinaTV8/common/src/main/res/values/strings.xml" timestamp="1591675700621">
         <mark key="[" line="951" column="0" />
         <mark key="]" line="951" column="0" />
         <mark key="." line="951" column="0" />
@@ -128,11 +127,10 @@
         <mark key="]" line="3" column="7" />
         <mark key="." line="3" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/adtask/appdownload/AdAppDownloadPresenter.kt" timestamp="1591673113119">
-        <mark key="[" line="44" column="58" />
-        <mark key="]" line="47" column="12" />
-        <mark key="." line="47" column="11" />
-        <mark key="^" line="47" column="12" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/adtask/appdownload/AdAppDownloadPresenter.kt" timestamp="1591675308623">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/cardtask/CardTaskActivity.kt" timestamp="1591607151177">
         <mark key="[" line="96" column="0" />
@@ -300,28 +298,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGtvdGxpbnguYW5kcm9pZC5zeW50aGV0aWMubWFpbi5jaGFubmVsX3Jvd192aWRlb19wbGF5ZXJfcGF1c2VfcGxheS4qCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFIuc3RyaW5nLnNob3BfaW5zdGFsbF9zdWNjZXNzX2FuZF9vcGVuLnRvUmVzU3RyaW5nKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFR4TWFuYWdlci5maW5pc2VkRG93bmxvYWRUYXNrKGFkTWV0YUluZm8pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkb3dubG9hZFRhc2suYXZhaWxhYmxlU2hhbmh1VGFzaz8ubGV0IHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgOCAtPiB0aGlzLmRvd25sb2FkLm9uRG93bmxvYWRTdWNjZXNzKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5pKG1UYWcsICJvbkFkTG9hZGVkICRhZE1ldGFJbmZvIikK</text>
       </register>
       <register name=":" type="4">
         <text>%s/taskData/items/g</text>
