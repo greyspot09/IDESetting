@@ -108,9 +108,6 @@
         <mark key="." line="62" column="13" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/transforms-1/files-1.1/shanhuAD-1.0.14.aar/4d2e155a5a482147f21bf365122abd19/jars/classes.jar!/com/tencent/ep/shanhuad/adpublic/adbuilder/ADDownLoad.class" timestamp="1591672487164" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/utils/PhoNetInfo.java" timestamp="1591600672877">
-        <mark key="[" line="558" column="13" />
-      </file>
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/api/entry/CoinTaskCustomBean.kt" timestamp="1591671505520">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -132,6 +129,7 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_base_component/src/main/java/com/dopool/module_base_component/ad/BootSuspensionAdManager.kt" timestamp="1591681593088" />
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/cardtask/CardTaskActivity.kt" timestamp="1591607151177">
         <mark key="[" line="96" column="0" />
         <mark key="]" line="96" column="0" />
