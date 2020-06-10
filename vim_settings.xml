@@ -83,7 +83,10 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/placement/banner/PortraitInvisibleBannerAdView.kt" timestamp="1591755965486" />
-      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/ADLoaderFactory/ADLoaderFactory.kt" timestamp="1591757203989" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_newad/adloader/src/main/java/starschina/adloader/ADLoaderFactory/ADLoaderFactory.kt" timestamp="1591759692792" />
+      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/ADLoaderFactory/ADLoaderFactory.kt" timestamp="1591760226961">
+        <mark key="[" line="89" column="31" />
+      </file>
       <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/render/ADRender.kt" timestamp="1591756641323">
         <mark key="[" line="96" column="46" />
         <mark key="]" line="96" column="46" />
@@ -92,7 +95,6 @@
       </file>
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/bean/SnmiAd.java" timestamp="1591753778043" />
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/utils/AdUtils.java" timestamp="1591753867143" />
-      <file name="/ShareUtils.java" timestamp="1591750690943" />
       <file name="$USER_HOME$/workspace/StarschinaTV8/common/libs/points_mall/tmsdk.jar!/btmsdkobf/cl.class" timestamp="1591754225292" />
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_main/src/main/java/com/dopool/module_main/view/activity/MainActivity.kt" timestamp="1591758449179">
         <mark key="[" line="140" column="37" />
@@ -105,19 +107,17 @@
         <mark key="^" line="101" column="13" />
         <mark key="." line="168" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/placement/portraitbanner/PortraitBannerAdView.java" timestamp="1591754134645" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/placement/portraitbanner/PortraitBannerAdView.java" timestamp="1591760316874" />
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_play/src/main/java/com/dopool/module_play/play/ad/AdComponent.kt" timestamp="1591754189869" />
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/snmi/SnmiAdManager.java" timestamp="1591753933500" />
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/manager/ShanhuH5Browser.kt" timestamp="1591754203105" />
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/bean/SnmiRequestBody.java" timestamp="1591753751416" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/snmi/SnmiAdController.java" timestamp="1591753711076" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_play/src/main/java/com/dopool/module_play/play/fragments/base/MediaFragment.kt" timestamp="1591753986013" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/utils/ShareUtils.java" timestamp="1591753213986">
-        <mark key="'" line="119" column="4" />
-        <mark key="[" line="109" column="0" />
-        <mark key="]" line="109" column="0" />
-        <mark key="." line="109" column="0" />
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/snmi/SnmiAdController.java" timestamp="1591761448595">
+        <mark key="[" line="84" column="21" />
+        <mark key="]" line="84" column="21" />
+        <mark key="." line="84" column="21" />
       </file>
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_play/src/main/java/com/dopool/module_play/play/fragments/base/MediaFragment.kt" timestamp="1591753986013" />
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/placement/portraitbanner/PlatformPortraitBannerAd.java" timestamp="1591753506206" />
       <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/plguin/GDT/BannerV2/GDTBannerV2.kt" timestamp="1591756885932">
         <mark key="[" line="53" column="56" />
@@ -229,10 +229,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>PhoNetInfo.getImei(context)</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>PhoNetInfo.getImei(context)</text>
       </register>
       <register name="/" type="4">
         <text>taskData</text>
