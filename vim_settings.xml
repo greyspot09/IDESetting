@@ -87,23 +87,24 @@
         <mark key="]" line="244" column="0" />
         <mark key="." line="244" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/ui/main/CoinPresenter.kt" timestamp="1591691433964">
-        <mark key="'" line="35" column="36" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/utils/PhoNetInfo.java" timestamp="1591750582120">
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/utils/PhoNetInfo.java" timestamp="1591750639862">
         <mark key="'" line="845" column="51" />
         <mark key="[" line="559" column="0" />
         <mark key="]" line="559" column="0" />
         <mark key="." line="559" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/snmi/SnmiAdController.java" timestamp="1591750627930" />
+      <file name="/ShareUtils.java" timestamp="1591750690943" />
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/taskprocesser/ShanhuDownloadTaskProcessor.kt" timestamp="1591696841481">
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
         <mark key="^" line="42" column="21" />
+      </file>
+      <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/utils/ShareUtils.java" timestamp="1591751849302">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/manager/AdDownloadManager.kt" timestamp="1591696250311">
         <mark key="'" line="250" column="53" />
@@ -219,7 +220,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlkZWZlciB7CgkJCQoJCX0KCQlTaGFyZWRQcmVmZXJlbmNlcyBzcCA9IGdldFNoYXJlUHJlZmVyZW5jZShjb250ZXh0KTsK</text>
       </register>
       <register name="-" type="4">
         <text>t</text>
@@ -231,31 +232,31 @@
         <text encoding="base64">ICAgICAgICAgICAgTG9nLmkobVRhZywgImxvYWROZXh0LCBhbGwgdW5pdHMgbG9hZGVkIGZhaWxlZCwgc3RhcnQgdGltZXIpIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlkZWZlciB7CgkJCQoJCX0KCQlTaGFyZWRQcmVmZXJlbmNlcyBzcCA9IGdldFNoYXJlUHJlZmVyZW5jZShjb250ZXh0KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuaShtVGFnLCJmaW5kSW5JbnN0YWxsUXVldWUgbmV3SXRlbSR7aXRlbS5kZXNjfSIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5pKG1UYWcsICJsb2FkTmV4dCwgcmVzZXQpIikK</text>
+        <text encoding="base64">ICAgICAgICBMb2cuaShtVGFnLCJmaW5kSW5JbnN0YWxsUXVldWUgbmV3SXRlbSR7aXRlbS5kZXNjfSIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nLmkobVRhZywgImxvYWROZXh0LCByZXNldCkiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5pKG1UYWcsICJsb2FkTmV4dCwgcmVzZXQpIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzZXQoKQogICAgICAgICAgICByZWxvYWQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nLmkobVRhZywgImxvYWROZXh0LCByZXNldCkiKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvYWRBRCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzZXQoKQogICAgICAgICAgICByZWxvYWQoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vICAgICAgICAgICAgICAgIGxvYWROZXh0KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvYWRBRCgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgdmFyIGN1cnJlbnREaXNwbGF5UGx1Z2luOiBBRFBsdWdpbj8gPSBudWxsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vICAgICAgICAgICAgICAgIGxvYWROZXh0KCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGhhbmRsZXI/LnBvc3REZWxheWVkKGNhbGxiYWNrLCAzMCAqIDEwMDApCg==</text>
+        <text encoding="base64">Ly8gICAgdmFyIGN1cnJlbnREaXNwbGF5UGx1Z2luOiBBRFBsdWdpbj8gPSBudWxsCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/taskData/items/g</text>
