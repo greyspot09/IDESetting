@@ -82,44 +82,40 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/network/NullOnEmptyConverterFactory.java" timestamp="1591776380540" />
-      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/ADLoaderFactory/ADLoaderFactory.kt" timestamp="1591778814842">
-        <mark key="[" line="163" column="49" />
-      </file>
-      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/plguin/GDT/NativeExpress/GDTNativeExpressRender.kt" timestamp="1591778836710" />
-      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/plguin/snmi/SnmiResponse.kt" timestamp="1591775662165" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/bean/SnmiAd.java" timestamp="1591776065054" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/utils/AdUtils.java" timestamp="1591776247144" />
-      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/render/PortraitBannerRender/PortraitBannerRender.kt" timestamp="1591778881564">
-        <mark key="[" line="25" column="21" />
-        <mark key="]" line="26" column="30" />
-        <mark key="^" line="26" column="30" />
-        <mark key="." line="26" column="29" />
-      </file>
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/placement/portraitbanner/PortraitBannerAdView.java" timestamp="1591778312432" />
-      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/plguin/snmi/modle/Ad.kt" timestamp="1591778611653" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/snmi/SnmiAdManager.java" timestamp="1591776241744" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/network/NetworkService.java" timestamp="1591776820642">
-        <mark key="'" line="20" column="33" />
-      </file>
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/network/UrlService.java" timestamp="1591776373521" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/bean/SnmiRequestBody.java" timestamp="1591776077857" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/network/BaseRetrofit.java" timestamp="1591776402691" />
-      <file name="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/bean/SnmiDownloadLink.java" timestamp="1591776073921" />
-      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/plguin/GDT/NativeExpress/GDTNativeExpress.kt" timestamp="1591779861892">
-        <mark key="[" line="32" column="67" />
-        <mark key="]" line="32" column="67" />
-        <mark key="." line="32" column="67" />
-      </file>
-      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/PortraitBannerActivity.kt" timestamp="1591778648652" />
-      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/PlayerInterstitialActivity.kt" timestamp="1591778641361" />
-      <file name="/fragment.java" timestamp="1591775793453">
+      <file name="/Dummy.txt" timestamp="1591782370652">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/广告sdk/BaiduMobAds_MSSP_bd_SDK_android_v5.85/SDKDemo_as/app/src/main/AndroidManifest.xml" timestamp="1591785032160">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/render/ADRender.kt" timestamp="1591783353608">
+        <mark key="[" line="96" column="46" />
+        <mark key="]" line="96" column="46" />
+        <mark key="." line="96" column="46" />
+        <mark key="^" line="110" column="42" />
+      </file>
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/java/dopool/player/MainActivity.kt" timestamp="1591785419234">
+        <mark key="[" line="57" column="40" />
+        <mark key="]" line="57" column="40" />
+        <mark key="^" line="57" column="41" />
+        <mark key="." line="57" column="40" />
+      </file>
+      <file name="$USER_HOME$/workspace/ADExample2/app/src/main/AndroidManifest.xml" timestamp="1591784930055">
+        <mark key="^" line="12" column="73" />
+      </file>
+      <file name="$USER_HOME$/Desktop/广告sdk/BaiduMobAds_MSSP_bd_SDK_android_v5.85/SDKDemo_as/app/src/main/java/com/baidu/mobads/demo/main/banner/BannerListActivity.java" timestamp="1591785457299">
+        <mark key="'" line="99" column="83" />
+      </file>
+      <file name="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/plguin/Baidu/Banner/BaiduBanner.kt" timestamp="1591838529619">
+        <mark key="[" line="76" column="46" />
+        <mark key="]" line="76" column="46" />
+        <mark key="^" line="46" column="50" />
+        <mark key="." line="76" column="46" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="41" filename="$USER_HOME$/workspace/ADExample2/adloader/src/main/java/starschina/adloader/plguin/Bytedance/express/TTExpressPlugin.kt" />
-      <jump line="142" column="29" filename="$USER_HOME$/workspace/StarschinaTV8/module_base_component/src/main/java/com/dopool/module_base_component/app/BaseApp.kt" />
       <jump line="112" column="64" filename="$USER_HOME$/workspace/StarschinaTV8/module_shop/src/main/java/com/dopool/module_shop/manager/TxManager.kt" />
       <jump line="319" column="0" filename="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/protocol/AdBeanX.java" />
       <jump line="818" column="0" filename="$USER_HOME$/workspace/StarschinaTV8/module_main/src/main/java/com/dopool/module_main/view/activity/MainActivity.kt" />
@@ -218,48 +214,50 @@
       <jump line="117" column="4" filename="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/utils/ShareUtils.java" />
       <jump line="35" column="4" filename="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/network/NetworkService.java" />
       <jump line="20" column="33" filename="$USER_HOME$/workspace/StarschinaTV8/module_ad/src/main/java/com/lehoolive/ad/network/NetworkService.java" />
+      <jump line="151" column="4" filename="$USER_HOME$/Desktop/广告sdk/BaiduMobAds_MSSP_bd_SDK_android_v5.85/SDKDemo_as/app/src/main/java/com/baidu/mobads/demo/main/banner/BannerListActivity.java" />
+      <jump line="100" column="83" filename="$USER_HOME$/Desktop/广告sdk/BaiduMobAds_MSSP_bd_SDK_android_v5.85/SDKDemo_as/app/src/main/java/com/baidu/mobads/demo/main/banner/BannerListActivity.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>placementID</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>placementID</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>taskData</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nLmkobVRhZywgImxvYWROZXh0LCBhbGwgdW5pdHMgbG9hZGVkIGZhaWxlZCwgc3RhcnQgdGltZXIpIikK</text>
+        <text encoding="base64">Ly8gICAgICAgIHJlbmRlci5yZW5kZXJDb250YWluZXI/LmFkZFZpZXcoYWRWaWV3LCBsYXlvdXRQYXJhbXMpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGltZWk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkK</text>
+        <text encoding="base64">ICAgICAgICA8cHJvdmlkZXIKICAgICAgICAgICAgYW5kcm9pZDpuYW1lPSJjb20uYmFpZHUubW9iYWRzLm9wZW5hZC5CZEZpbGVQcm92aWRlciIKICAgICAgICAgICAgYW5kcm9pZDphdXRob3JpdGllcz0iZG9wb29sLnBsYXllci5iZC5wcm92aWRlciIKICAgICAgICAgICAgYW5kcm9pZDpleHBvcnRlZD0iZmFsc2UiCiAgICAgICAgICAgIGFuZHJvaWQ6Z3JhbnRVcmlQZXJtaXNzaW9ucz0idHJ1ZSI+CiAgICAgICAgICAgIDxtZXRhLWRhdGEKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bmFtZT0iYW5kcm9pZC5zdXBwb3J0LkZJTEVfUFJPVklERVJfUEFUSFMiCiAgICAgICAgICAgICAgICBhbmRyb2lkOnJlc291cmNlPSJAeG1sL2JkX2ZpbGVfcGF0aHMiIC8+CiAgICAgICAgPC9wcm92aWRlcj4=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICA8dXNlcy1saWJyYXJ5IGFuZHJvaWQ6bmFtZT0ib3JnLmFwYWNoZS5odHRwLmxlZ2FjeSIgYW5kcm9pZDpyZXF1aXJlZD0iZmFsc2UiIC8+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsK</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnJlcXVlc3RMZWdhY3lFeHRlcm5hbFN0b3JhZ2U9InRydWUiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsK</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOm5ldHdvcmtTZWN1cml0eUNvbmZpZz0iQHhtbC9uZXR3b3JrX3NlY3VyaXR5X2NvbmZpZyIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCUCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVmlld0dyb3VwLkxheW91dFBhcmFtcy5NQVRDSF9QQVJFTlQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAg5Y6f5paH6ZO+5o6l77yaaHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2Rmc2toZ2Fsc2hna2FqZ2hsamdoL2phdmEvYXJ0aWNsZS9kZXRhaWxzLzc2MjQxODAyCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyDlsIZhZFZpZXfmt7vliqDliLDniLbmjqfku7bkuK0o5rOo77ya6K+l54i25o6n5Lu25LiN5LiA5a6a5Li65oKo55qE5qC55o6n5Lu277yM5Y+q6KaB6K+l5o6n5Lu26IO96YCa6L+HYWRkVmlld+iDvea3u+WKoOW5v+WRiuinhuWbvuWNs+WPrykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAg54mI5p2D5aOw5piO77ya5pys5paH5Li6Q1NETuWNmuS4u+OAjOWkqeaJjeWwkeW5tF/jgI3nmoTljp/liJvmlofnq6DvvIzpgbXlvqpDQyA0LjAgQlktU0HniYjmnYPljY/orq7vvIzovazovb3or7fpmYTkuIrljp/mloflh7rlpITpk77mjqXlj4rmnKzlo7DmmI7jgIIK</text>
+        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uQUNDRVNTX0NPQVJTRV9MT0NBVElPTiIgLz4K</text>
       </register>
       <register name=":" type="4">
         <text>%s/taskData/items/g</text>
