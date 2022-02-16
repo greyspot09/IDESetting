@@ -1,0 +1,18 @@
+<application>
+  <component name="deviceManagerPhysicalTab">
+    <physicalDevices>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="79UNW19822004561" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-02-16T02:02:19.284348Z" />
+        <name value="HUAWEI HRY-AL00a" />
+        <target value="Android 10.0" />
+        <api value="29" />
+      </PhysicalDevice>
+    </physicalDevices>
+  </component>
+</application>
