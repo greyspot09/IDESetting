@@ -5,6 +5,28 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="108fc442" />
+          </Key>
+        </key>
+        <name value="Xiaomi Redmi Note 7" />
+        <target value="Android 9.0" />
+        <api value="28" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.100.55:6666" />
+          </Key>
+        </key>
+        <name value="Device" />
+        <target value="Android 1.0" />
+        <api value="1" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="65jzhu6hprp7mvmn" />
           </Key>
         </key>
@@ -60,34 +82,12 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="cdfa7eb111df4d0f" />
-          </Key>
-        </key>
-        <name value="rockchip ZC-339" />
-        <target value="Android 7.1.1" />
-        <api value="25" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
             <value value="822QACTQ22AHF" />
           </Key>
         </key>
         <name value="Meizu M1822" />
         <target value="Android 8.1" />
         <api value="27" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="108fc442" />
-          </Key>
-        </key>
-        <name value="Xiaomi Redmi Note 7" />
-        <target value="Android 9.0" />
-        <api value="28" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
