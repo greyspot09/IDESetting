@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="192.168.100.55:6666" />
+          </Key>
+        </key>
+        <name value="Xiaomi Redmi Note 7" />
+        <target value="Android 9.0" />
+        <api value="28" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="192.168.100.51:6666" />
           </Key>
         </key>
@@ -17,17 +28,6 @@
           <Key>
             <type value="SERIAL_NUMBER" />
             <value value="108fc442" />
-          </Key>
-        </key>
-        <name value="Xiaomi Redmi Note 7" />
-        <target value="Android 9.0" />
-        <api value="28" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="192.168.100.55:6666" />
           </Key>
         </key>
         <name value="Xiaomi Redmi Note 7" />
