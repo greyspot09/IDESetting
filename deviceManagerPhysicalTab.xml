@@ -111,6 +111,17 @@
         <target value="Android API 33" />
         <api value="33" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.0.134:6666" />
+          </Key>
+        </key>
+        <name value="Xiaomi Redmi Note 7" />
+        <target value="Android 9.0" />
+        <api value="28" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
