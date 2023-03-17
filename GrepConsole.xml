@@ -95,6 +95,7 @@
                         <GrepStyle>
                           <option name="backgroundColor">
                             <GrepColor>
+                              <option name="color" value="-9568478" />
                               <option name="colorKey" value="GrepConsole.info.background" />
                               <option name="enabled" value="true" />
                             </GrepColor>
@@ -114,6 +115,7 @@
                         <GrepStyle>
                           <option name="backgroundColor">
                             <GrepColor>
+                              <option name="color" value="-5399135" />
                               <option name="colorKey" value="GrepConsole.debug.background" />
                               <option name="enabled" value="true" />
                             </GrepColor>
