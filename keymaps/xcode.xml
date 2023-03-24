@@ -13,6 +13,8 @@
     <keyboard-shortcut first-keystroke="ctrl meta left" />
   </action>
   <action id="ChangesView.Diff" />
+  <action id="CollapseBlock" />
+  <action id="CollapseSelection" />
   <action id="CompareTwoFiles" />
   <action id="Debug">
     <keyboard-shortcut first-keystroke="meta d" />
