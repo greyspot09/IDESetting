@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Project 'StarschinaTV8_极速版'" />
+    <option name="defaultScopeName" value="Project 'StarschinaTV8_极速版'" />
+    <option name="SEARCH_SCOPE" value="Project 'StarschinaTV8_极速版'" />
     <option name="FILE_MASK" value="*.gradle" />
     <mask>*.css</mask>
     <mask>*.html</mask>
