@@ -51,6 +51,7 @@
     <keyboard-shortcut first-keystroke="meta alt 0" />
   </action>
   <action id="XDebugger.CopyWatch" />
+  <action id="XDebugger.SetValue" />
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl meta r" />
   </action>
