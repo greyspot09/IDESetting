@@ -8,8 +8,7 @@
     <keyboard-shortcut first-keystroke="shift meta s" />
   </action>
   <action id="Back">
-    <keyboard-shortcut first-keystroke="shift ctrl meta alt left" />
-    <keyboard-shortcut first-keystroke="meta open_bracket" />
+    <keyboard-shortcut first-keystroke="shift j" />
   </action>
   <action id="CIDR.Lang.IntroduceDefine" />
   <action id="ChangesView.Diff" />
@@ -25,8 +24,7 @@
   <action id="FileChooser.GotoDesktop" />
   <action id="FindNext" />
   <action id="Forward">
-    <keyboard-shortcut first-keystroke="shift ctrl meta alt right" />
-    <keyboard-shortcut first-keystroke="meta close_bracket" />
+    <keyboard-shortcut first-keystroke="shift k" />
   </action>
   <action id="GotoAction" />
   <action id="GotoDeclaration">
@@ -34,6 +32,11 @@
     <mouse-shortcut keystroke="meta button1" />
     <mouse-shortcut keystroke="button2" />
     <keyboard-shortcut first-keystroke="meta t" />
+  </action>
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="meta alt b" />
+    <mouse-shortcut keystroke="meta alt button1" />
+    <keyboard-shortcut first-keystroke="shift t" />
   </action>
   <action id="NextEditorTab" />
   <action id="NextTab">
