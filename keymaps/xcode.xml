@@ -34,12 +34,11 @@
     <keyboard-shortcut first-keystroke="meta b" />
     <mouse-shortcut keystroke="meta button1" />
     <mouse-shortcut keystroke="button2" />
-    <keyboard-shortcut first-keystroke="meta t" />
   </action>
   <action id="GotoImplementation">
     <keyboard-shortcut first-keystroke="meta alt b" />
     <mouse-shortcut keystroke="meta alt button1" />
-    <keyboard-shortcut first-keystroke="shift t" />
+    <keyboard-shortcut first-keystroke="meta t" />
   </action>
   <action id="InsertLiveTemplate" />
   <action id="NextEditorTab" />
