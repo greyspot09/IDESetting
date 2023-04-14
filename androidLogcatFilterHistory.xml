@@ -1,15 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.ruiaoshi.drama flutter" />
+    <option name="mostRecentlyUsed" value="package:com.ruiaoshi.drama" />
     <option name="nonFavorites">
       <list>
-        <option value="package:com.ruiaoshi.drama flutter" />
-        <option value="package:com.ruiaoshi.drama flutter|DramaDetailLog" />
-        <option value="DramaDetailLog" />
-        <option value="package:com.ruiaoshi.drama " />
-        <option value="package:com.ruiaoshi.drama" />
-        <option value="package:" />
         <option value="package:mine " />
+        <option value="package:com.ruiaoshi.drama" />
+        <option value="package:com.ruiaoshi.drama flutter|DramaDetailLog" />
+        <option value="package:com.ruiaoshi.drama " />
+        <option value="package:com.ruiaoshi.drama flutter" />
+        <option value="DramaDetailLog" />
+        <option value="package:" />
       </list>
     </option>
   </component>
