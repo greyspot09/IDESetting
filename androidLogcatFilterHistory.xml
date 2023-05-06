@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.bytedance.pogalin.empowerdemo DramaNativePlugin" />
+    <option name="mostRecentlyUsed" value="package:com.bytedance.pogalin.empowerdemo DramaDetailLog" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.bytedance.pogalin.empowerdemo DramaDetailLog" />
         <option value="package:com.bytedance.pogalin.empowerdemo DramaNativePlugin" />
         <option value="package:com.bytedance.pogalin.empowerdemo -tag~:zygote64 DramaNativePlugin" />
         <option value="package:com.bytedance.pogalin.empowerdemo -tag~:zygote64" />
@@ -22,7 +23,6 @@
         <option value="package:mine ^gralloc4" />
         <option value="[ad]" />
         <option value="package:com.ruiaoshi.drama " />
-        <option value="package:com.ruiaoshi.drama" />
       </list>
     </option>
   </component>
