@@ -1,8 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="package:mine -tag~:gralloc4 " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine -tag~:gralloc4 " />
+        <option value="package:mine -tag~:gralloc4" />
+        <option value="package:mine " />
+        <option value="package:mine -tag~:gralloc4 tag=:flutter " />
+        <option value="package:mine gralloc4" />
+        <option value="package:mine ^gralloc4" />
         <option value="[ad]" />
         <option value="package:com.ruiaoshi.drama " />
         <option value="package:com.ruiaoshi.drama" />
@@ -10,7 +16,6 @@
         <option value="com.ruiaoshi.drama" />
         <option value="MainActivityLog" />
         <option value="MainActivity" />
-        <option value="package:mine " />
         <option value="package:com.ruiaoshi.drama flutter|DramaDetailLog" />
         <option value="DramaDetailLog" />
         <option value="package:" />
