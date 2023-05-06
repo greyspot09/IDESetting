@@ -1,8 +1,17 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine -tag~:gralloc4 " />
+    <option name="mostRecentlyUsed" value="package:com.bytedance.pogalin.empowerdemo -tag~:zygote64" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.bytedance.pogalin.empowerdemo -tag~:zygote64" />
+        <option value="package:com.bytedance.pogalin.empowerdemo -tag:opaque data  " />
+        <option value="package:com.bytedance.pogalin.empowerdemo " />
+        <option value="com.bytedance.pogalin.empowerdemo " />
+        <option value="-tag:BatteryStatsImpl" />
+        <option value="SplashActivity" />
+        <option value="AdSDKHelper|SplashActivity" />
+        <option value="AdSDKHelper" />
+        <option value="drama" />
         <option value="package:mine -tag~:gralloc4 " />
         <option value="package:mine -tag~:gralloc4 tag=:flutter " />
         <option value="package:mine -tag~:gralloc4" />
@@ -14,11 +23,6 @@
         <option value="package:com.ruiaoshi.drama" />
         <option value="package:com.ruiaoshi.drama flutter" />
         <option value="com.ruiaoshi.drama" />
-        <option value="MainActivityLog" />
-        <option value="MainActivity" />
-        <option value="package:com.ruiaoshi.drama flutter|DramaDetailLog" />
-        <option value="DramaDetailLog" />
-        <option value="package:" />
       </list>
     </option>
   </component>
