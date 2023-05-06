@@ -4,9 +4,9 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine -tag~:gralloc4 " />
+        <option value="package:mine -tag~:gralloc4 tag=:flutter " />
         <option value="package:mine -tag~:gralloc4" />
         <option value="package:mine " />
-        <option value="package:mine -tag~:gralloc4 tag=:flutter " />
         <option value="package:mine gralloc4" />
         <option value="package:mine ^gralloc4" />
         <option value="[ad]" />
