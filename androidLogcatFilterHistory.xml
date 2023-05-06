@@ -1,14 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.bytedance.pogalin.empowerdemo DramaDetailLog" />
+    <option name="mostRecentlyUsed" value="package:com.bytedance.pogalin.empowerdemo onMethonCall" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.bytedance.pogalin.empowerdemo onMethonCall" />
+        <option value="package:com.bytedance.pogalin.empowerdemo " />
         <option value="package:com.bytedance.pogalin.empowerdemo DramaDetailLog" />
         <option value="package:com.bytedance.pogalin.empowerdemo DramaNativePlugin" />
         <option value="package:com.bytedance.pogalin.empowerdemo -tag~:zygote64 DramaNativePlugin" />
         <option value="package:com.bytedance.pogalin.empowerdemo -tag~:zygote64" />
         <option value="package:com.bytedance.pogalin.empowerdemo -tag:opaque data  " />
-        <option value="package:com.bytedance.pogalin.empowerdemo " />
         <option value="com.bytedance.pogalin.empowerdemo " />
         <option value="-tag:BatteryStatsImpl" />
         <option value="SplashActivity" />
@@ -22,7 +23,6 @@
         <option value="package:mine gralloc4" />
         <option value="package:mine ^gralloc4" />
         <option value="[ad]" />
-        <option value="package:com.ruiaoshi.drama " />
       </list>
     </option>
   </component>
