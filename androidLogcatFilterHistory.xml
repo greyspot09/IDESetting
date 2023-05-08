@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:com.bytedance.pogalin.empowerdemo " />
+        <option value="package:com.bytedance.pogalin.empowerdemo UnionFragementViewFactory" />
         <option value="package:com.bytedance.pogalin.empowerdemo DramaDetailLog" />
         <option value="package:com.bytedance.pogalin.empowerdemo onMethonCall DramaDetailLog" />
         <option value="package:com.bytedance.pogalin.empowerdemo onMethonCall|DramaDetailLog" />
@@ -22,7 +23,6 @@
         <option value="package:mine -tag~:gralloc4 tag=:flutter " />
         <option value="package:mine -tag~:gralloc4" />
         <option value="package:mine " />
-        <option value="package:mine gralloc4" />
       </list>
     </option>
   </component>
