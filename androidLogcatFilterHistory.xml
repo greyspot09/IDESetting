@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="DramaDetailLog" />
+    <option name="mostRecentlyUsed" value="flutter" />
     <option name="nonFavorites">
       <list>
+        <option value="flutter" />
+        <option value="DramaDetailLog|flutter" />
         <option value="DramaDetailLog" />
         <option value="onDPAdRequest" />
         <option value="package:mine  " />
@@ -21,8 +23,6 @@
         <option value="SplashActivity" />
         <option value="AdSDKHelper|SplashActivity" />
         <option value="AdSDKHelper" />
-        <option value="drama" />
-        <option value="package:mine -tag~:gralloc4 " />
       </list>
     </option>
   </component>
