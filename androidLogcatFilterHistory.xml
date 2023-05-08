@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.bytedance.pogalin.empowerdemo UnionFragementViewFactory" />
+    <option name="mostRecentlyUsed" value="onDPAdRequest" />
     <option name="nonFavorites">
       <list>
+        <option value="onDPAdRequest" />
+        <option value="DramaDetailLog" />
+        <option value="package:mine  " />
         <option value="package:com.bytedance.pogalin.empowerdemo UnionFragementViewFactory" />
         <option value="package:com.bytedance.pogalin.empowerdemo " />
         <option value="package:com.bytedance.pogalin.empowerdemo DramaDetailLog" />
@@ -20,9 +23,6 @@
         <option value="AdSDKHelper" />
         <option value="drama" />
         <option value="package:mine -tag~:gralloc4 " />
-        <option value="package:mine -tag~:gralloc4 tag=:flutter " />
-        <option value="package:mine -tag~:gralloc4" />
-        <option value="package:mine " />
       </list>
     </option>
   </component>
