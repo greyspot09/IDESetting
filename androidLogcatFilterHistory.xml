@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.bytedance.pogalin.empowerdemo -tag:gralloc4" />
+    <option name="mostRecentlyUsed" value="package:com.bytedance.pogalin.empowerdemo -tag:gralloc4 UnionSDK" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.bytedance.pogalin.empowerdemo -tag:gralloc4 UnionSDK" />
         <option value="package:com.bytedance.pogalin.empowerdemo -tag:gralloc4" />
         <option value="flutter" />
         <option value="DramaDetailLog|flutter" />
@@ -22,7 +23,6 @@
         <option value="com.bytedance.pogalin.empowerdemo " />
         <option value="-tag:BatteryStatsImpl" />
         <option value="SplashActivity" />
-        <option value="AdSDKHelper|SplashActivity" />
       </list>
     </option>
   </component>
