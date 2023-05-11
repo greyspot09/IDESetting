@@ -1,28 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine ADLoader" />
+    <option name="mostRecentlyUsed" value="tag:LiveChannelPlay tag:MediaPlayerView" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:LiveChannelPlay tag:MediaPlayerView" />
+        <option value="tag:ADLoader tag:LiveChannelPlay tag:MediaPlayerView" />
+        <option value="tag:ADLoader | tag:LiveChannelPlay" />
+        <option value="tag:ADLoader|tag:LiveChannelPlay" />
+        <option value="tag:ADLoader|LiveChannelPlay" />
+        <option value="tag:ADLoader   tag:LiveChannelPlay" />
+        <option value="message:ADLoader tag:ADLoader  " />
+        <option value="message:ADLoader" />
+        <option value="message:adloader" />
+        <option value="package:mine message:adloader" />
+        <option value="package:mine message:adloader message:LiveChannelPlay" />
+        <option value="package:mine LiveChannelPlay message:adloader" />
+        <option value="package:mine LiveChannelPlay" />
+        <option value="package:mine LiveChannelPlay|ADLoader" />
+        <option value="package:mine LiveChannelPlay|LiveChannelPlay" />
         <option value="package:mine ADLoader" />
         <option value="package:mine " />
         <option value="ADLoader" />
         <option value="BaseCommonModel" />
         <option value="DRMID" />
-        <option value="package:com.bytedance.pogalin.empowerdemo -tag:gralloc4" />
-        <option value="package:com.bytedance.pogalin.empowerdemo -tag:gralloc4 UnionSDK" />
-        <option value="flutter" />
-        <option value="DramaDetailLog|flutter" />
-        <option value="DramaDetailLog" />
-        <option value="onDPAdRequest" />
-        <option value="package:mine  " />
-        <option value="package:com.bytedance.pogalin.empowerdemo UnionFragementViewFactory" />
-        <option value="package:com.bytedance.pogalin.empowerdemo " />
-        <option value="package:com.bytedance.pogalin.empowerdemo DramaDetailLog" />
-        <option value="package:com.bytedance.pogalin.empowerdemo onMethonCall DramaDetailLog" />
-        <option value="package:com.bytedance.pogalin.empowerdemo onMethonCall|DramaDetailLog" />
-        <option value="package:com.bytedance.pogalin.empowerdemo onMethonCall" />
-        <option value="package:com.bytedance.pogalin.empowerdemo DramaNativePlugin" />
-        <option value="package:com.bytedance.pogalin.empowerdemo -tag~:zygote64 DramaNativePlugin" />
       </list>
     </option>
   </component>
