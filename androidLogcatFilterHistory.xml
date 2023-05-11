@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="BaseCommonModel" />
     <option name="nonFavorites">
       <list>
+        <option value="BaseCommonModel" />
         <option value="DRMID" />
         <option value="package:com.bytedance.pogalin.empowerdemo -tag:gralloc4" />
         <option value="package:com.bytedance.pogalin.empowerdemo -tag:gralloc4 UnionSDK" />
@@ -22,7 +23,6 @@
         <option value="package:com.bytedance.pogalin.empowerdemo -tag~:zygote64" />
         <option value="package:com.bytedance.pogalin.empowerdemo -tag:opaque data  " />
         <option value="com.bytedance.pogalin.empowerdemo " />
-        <option value="-tag:BatteryStatsImpl" />
       </list>
     </option>
   </component>
