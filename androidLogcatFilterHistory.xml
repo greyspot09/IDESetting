@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="UserAnalysis -message:onSensorChanged -message:onAccuracyChanged" />
+    <option name="mostRecentlyUsed" value="tag:LiveViewModel message:欢乐颂4-25" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:LiveViewModel message:欢乐颂4-25" />
+        <option value="tag:LiveViewModel" />
+        <option value="UserAnalysis -message:onSensorChanged tag:LiveViewModel" />
         <option value="UserAnalysis -message:onSensorChanged -message:onAccuracyChanged" />
         <option value="UserAnalysis -message:onSensorChanged" />
         <option value="UserAnalysis" />
@@ -20,9 +23,6 @@
         <option value="package:mine message:adloader message:LiveChannelPlay" />
         <option value="package:mine LiveChannelPlay message:adloader" />
         <option value="package:mine LiveChannelPlay" />
-        <option value="package:mine LiveChannelPlay|ADLoader" />
-        <option value="package:mine LiveChannelPlay|LiveChannelPlay" />
-        <option value="package:mine ADLoader" />
       </list>
     </option>
   </component>
