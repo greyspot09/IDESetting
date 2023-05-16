@@ -1,9 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="ADLoader" />
+    <option name="mostRecentlyUsed" value="PortraintEpgList" />
     <option name="nonFavorites">
       <list>
+        <option value="PortraintEpgList" />
+        <option value="message:PortraintEpgList" />
+        <option value="tag:ADLoader message:PortraintEpgList" />
         <option value="ADLoader" />
+        <option value="tag" />
+        <option value="ADLoader message:PortraintEpgList" />
         <option value="竖屏banner" />
         <option value="竖屏banner竖屏banner" />
         <option value="tag:LiveViewModel message:欢乐颂4-25" />
@@ -18,11 +23,6 @@
         <option value="tag:ADLoader | tag:LiveChannelPlay" />
         <option value="tag:ADLoader|tag:LiveChannelPlay" />
         <option value="tag:ADLoader|LiveChannelPlay" />
-        <option value="tag:ADLoader   tag:LiveChannelPlay" />
-        <option value="message:ADLoader tag:ADLoader  " />
-        <option value="message:ADLoader" />
-        <option value="message:adloader" />
-        <option value="package:mine message:adloader" />
       </list>
     </option>
   </component>
