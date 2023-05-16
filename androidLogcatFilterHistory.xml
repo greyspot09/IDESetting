@@ -4,6 +4,8 @@
     <option name="nonFavorites">
       <list>
         <option value="ADLoader" />
+        <option value="竖屏banner" />
+        <option value="竖屏banner竖屏banner" />
         <option value="tag:LiveViewModel message:欢乐颂4-25" />
         <option value="tag:LiveViewModel" />
         <option value="UserAnalysis -message:onSensorChanged tag:LiveViewModel" />
@@ -21,8 +23,6 @@
         <option value="message:ADLoader" />
         <option value="message:adloader" />
         <option value="package:mine message:adloader" />
-        <option value="package:mine message:adloader message:LiveChannelPlay" />
-        <option value="package:mine LiveChannelPlay message:adloader" />
       </list>
     </option>
   </component>
