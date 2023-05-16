@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="refreshAd" />
+    <option name="mostRecentlyUsed" value="ChannelRow_2" />
     <option name="nonFavorites">
       <list>
+        <option value="ChannelRow_2" />
+        <option value="ChannelRow_2ChannelRow_2" />
         <option value="refreshAd" />
         <option value="ADLoader" />
         <option value="PortraintEpgList" />
@@ -21,8 +23,6 @@
         <option value="UserAnalysis'" />
         <option value="tag:LiveChannelPlay tag:MediaPlayerView" />
         <option value="tag:ADLoader tag:LiveChannelPlay tag:MediaPlayerView" />
-        <option value="tag:ADLoader | tag:LiveChannelPlay" />
-        <option value="tag:ADLoader|tag:LiveChannelPlay" />
       </list>
     </option>
   </component>
