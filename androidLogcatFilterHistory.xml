@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="ADLoader" />
+        <option value="message:ADLoader message:AdComponent" />
         <option value="前贴片" />
         <option value="TT_Feeds_Feed" />
         <option value="NativeAdRequest" />
@@ -22,7 +23,6 @@
         <option value="tag:LiveViewModel" />
         <option value="UserAnalysis -message:onSensorChanged tag:LiveViewModel" />
         <option value="UserAnalysis -message:onSensorChanged -message:onAccuracyChanged" />
-        <option value="UserAnalysis -message:onSensorChanged" />
       </list>
     </option>
   </component>
