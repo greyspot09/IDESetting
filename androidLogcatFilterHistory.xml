@@ -1,12 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="PortraintEpgList" />
+    <option name="mostRecentlyUsed" value="ADLoader" />
     <option name="nonFavorites">
       <list>
+        <option value="ADLoader" />
         <option value="PortraintEpgList" />
         <option value="message:PortraintEpgList" />
         <option value="tag:ADLoader message:PortraintEpgList" />
-        <option value="ADLoader" />
         <option value="tag" />
         <option value="ADLoader message:PortraintEpgList" />
         <option value="竖屏banner" />
