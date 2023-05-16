@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="前贴片" />
+    <option name="mostRecentlyUsed" value="ADLoader" />
     <option name="nonFavorites">
       <list>
-        <option value="前贴片" />
         <option value="ADLoader" />
+        <option value="前贴片" />
         <option value="TT_Feeds_Feed" />
         <option value="NativeAdRequest" />
         <option value="NativeAdRequestNativeAdRequest" />
