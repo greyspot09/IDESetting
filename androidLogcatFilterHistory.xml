@@ -1,12 +1,16 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="ChannelRow_2" />
+    <option name="mostRecentlyUsed" value="前贴片" />
     <option name="nonFavorites">
       <list>
+        <option value="前贴片" />
+        <option value="ADLoader" />
+        <option value="TT_Feeds_Feed" />
+        <option value="NativeAdRequest" />
+        <option value="NativeAdRequestNativeAdRequest" />
         <option value="ChannelRow_2" />
         <option value="ChannelRow_2ChannelRow_2" />
         <option value="refreshAd" />
-        <option value="ADLoader" />
         <option value="PortraintEpgList" />
         <option value="message:PortraintEpgList" />
         <option value="tag:ADLoader message:PortraintEpgList" />
@@ -19,10 +23,6 @@
         <option value="UserAnalysis -message:onSensorChanged tag:LiveViewModel" />
         <option value="UserAnalysis -message:onSensorChanged -message:onAccuracyChanged" />
         <option value="UserAnalysis -message:onSensorChanged" />
-        <option value="UserAnalysis" />
-        <option value="UserAnalysis'" />
-        <option value="tag:LiveChannelPlay tag:MediaPlayerView" />
-        <option value="tag:ADLoader tag:LiveChannelPlay tag:MediaPlayerView" />
       </list>
     </option>
   </component>
