@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="AdEnvironment" />
+    <option name="mostRecentlyUsed" value="ADLoader" />
     <option name="nonFavorites">
       <list>
-        <option value="AdEnvironment" />
         <option value="ADLoader" />
+        <option value="AdEnvironment" />
         <option value=" " />
         <option value="message:ADLoader message:AdComponent" />
         <option value="前贴片" />
