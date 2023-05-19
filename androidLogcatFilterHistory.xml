@@ -3,8 +3,9 @@
     <option name="mostRecentlyUsed" value="ADLoader" />
     <option name="nonFavorites">
       <list>
-        <option value="ChannelRow_2_Image_View" />
         <option value="ADLoader" />
+        <option value="GDTFeedsAd_Express" />
+        <option value="ChannelRow_2_Image_View" />
         <option value="TTNativeExpressAd" />
         <option value="PortraitChannelAdapter" />
         <option value="AdEnvironment" />
@@ -22,7 +23,6 @@
         <option value="tag:ADLoader message:PortraintEpgList" />
         <option value="tag" />
         <option value="ADLoader message:PortraintEpgList" />
-        <option value="竖屏banner" />
       </list>
     </option>
   </component>
