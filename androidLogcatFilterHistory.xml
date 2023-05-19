@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="ADLoader" />
+        <option value="TTNativeExpressAd" />
         <option value="PortraitChannelAdapter" />
         <option value="AdEnvironment" />
         <option value=" " />
@@ -22,7 +23,6 @@
         <option value="ADLoader message:PortraintEpgList" />
         <option value="竖屏banner" />
         <option value="竖屏banner竖屏banner" />
-        <option value="tag:LiveViewModel message:欢乐颂4-25" />
       </list>
     </option>
   </component>
