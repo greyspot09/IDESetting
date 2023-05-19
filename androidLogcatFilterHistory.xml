@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="ADLoader" />
+    <option name="mostRecentlyUsed" value="ChannelRow_2_Image_View" />
     <option name="nonFavorites">
       <list>
+        <option value="ChannelRow_2_Image_View" />
         <option value="ADLoader" />
         <option value="TTNativeExpressAd" />
         <option value="PortraitChannelAdapter" />
@@ -22,7 +23,6 @@
         <option value="tag" />
         <option value="ADLoader message:PortraintEpgList" />
         <option value="竖屏banner" />
-        <option value="竖屏banner竖屏banner" />
       </list>
     </option>
   </component>
