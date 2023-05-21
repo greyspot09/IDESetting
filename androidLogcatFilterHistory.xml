@@ -1,10 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="AD_CPlayingInsertAdView" />
+    <option name="mostRecentlyUsed" value="ADLoader" />
     <option name="nonFavorites">
       <list>
-        <option value="AD_CPlayingInsertAdView" />
         <option value="ADLoader" />
+        <option value="PortraintEpgList" />
+        <option value="AD_CPlayingInsertAdView" />
         <option value="GDTFeedsAd_Express" />
         <option value="ChannelRow_2_Image_View" />
         <option value="TTNativeExpressAd" />
@@ -19,7 +20,6 @@
         <option value="ChannelRow_2" />
         <option value="ChannelRow_2ChannelRow_2" />
         <option value="refreshAd" />
-        <option value="PortraintEpgList" />
         <option value="message:PortraintEpgList" />
         <option value="tag:ADLoader message:PortraintEpgList" />
         <option value="tag" />
