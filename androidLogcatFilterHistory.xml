@@ -1,9 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="ADLoader" />
+    <option name="mostRecentlyUsed" value="节目单banner" />
     <option name="nonFavorites">
       <list>
+        <option value="节目单banner" />
+        <option value="竖屏banner" />
         <option value="ADLoader" />
+        <option value="package:mine -tag~:gralloc4 " />
         <option value="PortraintEpgList" />
         <option value="AD_CPlayingInsertAdView" />
         <option value="GDTFeedsAd_Express" />
@@ -20,9 +23,6 @@
         <option value="ChannelRow_2" />
         <option value="ChannelRow_2ChannelRow_2" />
         <option value="refreshAd" />
-        <option value="message:PortraintEpgList" />
-        <option value="tag:ADLoader message:PortraintEpgList" />
-        <option value="tag" />
       </list>
     </option>
   </component>
