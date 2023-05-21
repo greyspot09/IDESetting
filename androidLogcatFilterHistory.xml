@@ -3,8 +3,8 @@
     <option name="mostRecentlyUsed" value="ADLoader" />
     <option name="nonFavorites">
       <list>
-        <option value="PortraintEpgList" />
         <option value="ADLoader" />
+        <option value="PortraintEpgList" />
         <option value="节目单banner" />
         <option value="竖屏banner" />
         <option value="package:mine -tag~:gralloc4 " />
