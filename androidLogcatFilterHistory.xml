@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="openBugly" />
+    <option name="mostRecentlyUsed" value="ADLoader" />
     <option name="nonFavorites">
       <list>
-        <option value="openBugly" />
         <option value="ADLoader" />
+        <option value="openBugly" />
         <option value="PortraintEpgList" />
         <option value="节目单banner" />
         <option value="竖屏banner" />
