@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="ADLoader" />
+    <option name="mostRecentlyUsed" value="openBugly" />
     <option name="nonFavorites">
       <list>
+        <option value="openBugly" />
         <option value="ADLoader" />
         <option value="PortraintEpgList" />
         <option value="节目单banner" />
@@ -22,7 +23,6 @@
         <option value="NativeAdRequestNativeAdRequest" />
         <option value="ChannelRow_2" />
         <option value="ChannelRow_2ChannelRow_2" />
-        <option value="refreshAd" />
       </list>
     </option>
   </component>
