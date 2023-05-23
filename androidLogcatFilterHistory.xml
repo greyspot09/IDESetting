@@ -1,12 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="channel" />
+    <option name="mostRecentlyUsed" value="PortraintEpgList" />
     <option name="nonFavorites">
       <list>
+        <option value="PortraintEpgList" />
         <option value="channel" />
         <option value="ADLoader" />
         <option value="openBugly" />
-        <option value="PortraintEpgList" />
         <option value="节目单banner" />
         <option value="竖屏banner" />
         <option value="package:mine -tag~:gralloc4 " />
