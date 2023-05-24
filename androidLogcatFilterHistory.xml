@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="PortraintEpgList" />
+    <option name="mostRecentlyUsed" value="flutter" />
     <option name="nonFavorites">
       <list>
+        <option value="flutter" />
+        <option value="api" />
         <option value="PortraintEpgList" />
         <option value="channel" />
         <option value="ADLoader" />
@@ -21,8 +23,6 @@
         <option value="前贴片" />
         <option value="TT_Feeds_Feed" />
         <option value="NativeAdRequest" />
-        <option value="NativeAdRequestNativeAdRequest" />
-        <option value="ChannelRow_2" />
       </list>
     </option>
   </component>
