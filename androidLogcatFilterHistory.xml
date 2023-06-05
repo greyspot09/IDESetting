@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="request success" />
     <option name="nonFavorites">
       <list>
+        <option value="request success" />
+        <option value="DramaApiActivity" />
+        <option value="package:mine " />
+        <option value="package:mine DramaApiActivity" />
         <option value="ADLoader" />
         <option value="flutter" />
         <option value="api" />
@@ -19,10 +23,6 @@
         <option value="PortraitChannelAdapter" />
         <option value="AdEnvironment" />
         <option value=" " />
-        <option value="message:ADLoader message:AdComponent" />
-        <option value="前贴片" />
-        <option value="TT_Feeds_Feed" />
-        <option value="NativeAdRequest" />
       </list>
     </option>
   </component>
