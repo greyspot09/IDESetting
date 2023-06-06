@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="request success" />
+    <option name="mostRecentlyUsed" value="tag:DramaApiDetailActivity" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:DramaApiDetailActivity" />
+        <option value="DramaApiDetailActivity" />
         <option value="request success" />
         <option value="DramaApiActivity" />
         <option value="package:mine " />
@@ -21,8 +23,6 @@
         <option value="ChannelRow_2_Image_View" />
         <option value="TTNativeExpressAd" />
         <option value="PortraitChannelAdapter" />
-        <option value="AdEnvironment" />
-        <option value=" " />
       </list>
     </option>
   </component>
