@@ -1,13 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:FlavorFunction tag:OppoReportTask tag:DeviceEnv" />
+    <option name="mostRecentlyUsed" value="tag:FlavorFunction tag:OppoReportTask " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:FlavorFunction tag:OppoReportTask " />
+        <option value="tag:FlavorFunction tag:OppoReportTask tag:okhttp " />
+        <option value="tag:FlavorFunction tag:OppoReportTask" />
         <option value="tag:FlavorFunction tag:OppoReportTask tag:DeviceEnv" />
         <option value="tag:FlavorFunction tag:OppoReportTask tag:MainActivityLog tag:DeviceEnv" />
         <option value="66ba24414510a82b176dd01909e75401" />
         <option value="tag:FlavorFunction tag:OppoReportTask tag:MainActivityLog" />
-        <option value="tag:FlavorFunction tag:OppoReportTask" />
         <option value="tag:OkHttp tag:FlavorFunction tag:OppoReportTask" />
         <option value="package:mine  " />
         <option value="package:mine  86806703025600" />
@@ -21,8 +23,6 @@
         <option value="FlavorFunction" />
         <option value="tag:DramaApiDetailActivity" />
         <option value="DramaApiDetailActivity" />
-        <option value="request success" />
-        <option value="DramaApiActivity" />
       </list>
     </option>
   </component>
