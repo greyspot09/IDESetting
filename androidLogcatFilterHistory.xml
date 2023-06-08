@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:OkHttp tag:FlavorFunction" />
+    <option name="mostRecentlyUsed" value="tag:OkHttp tag:FlavorFunction tag:OppoReportTask" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:OkHttp tag:FlavorFunction tag:OppoReportTask" />
         <option value="tag:OkHttp tag:FlavorFunction" />
         <option value="tag:OkHttp tag:" />
         <option value="OkHttp" />
@@ -22,7 +23,6 @@
         <option value="节目单banner" />
         <option value="竖屏banner" />
         <option value="package:mine -tag~:gralloc4 " />
-        <option value="AD_CPlayingInsertAdView" />
       </list>
     </option>
   </component>
