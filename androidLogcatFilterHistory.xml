@@ -1,9 +1,19 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:OkHttp tag:FlavorFunction tag:OppoReportTask" />
+    <option name="mostRecentlyUsed" value="tag:FlavorFunction tag:OppoReportTask tag:MainActivityLog tag:DeviceEnv" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:FlavorFunction tag:OppoReportTask tag:MainActivityLog tag:DeviceEnv" />
+        <option value="66ba24414510a82b176dd01909e75401" />
+        <option value="tag:FlavorFunction tag:OppoReportTask tag:MainActivityLog" />
+        <option value="tag:FlavorFunction tag:OppoReportTask" />
         <option value="tag:OkHttp tag:FlavorFunction tag:OppoReportTask" />
+        <option value="package:mine  " />
+        <option value="package:mine  86806703025600" />
+        <option value="package:mine  tag:DeviceEnv" />
+        <option value="86806703025600" />
+        <option value="8680" />
+        <option value="DeviceEnv" />
         <option value="tag:OkHttp tag:FlavorFunction" />
         <option value="tag:OkHttp tag:" />
         <option value="OkHttp" />
@@ -13,16 +23,6 @@
         <option value="request success" />
         <option value="DramaApiActivity" />
         <option value="package:mine " />
-        <option value="package:mine DramaApiActivity" />
-        <option value="ADLoader" />
-        <option value="flutter" />
-        <option value="api" />
-        <option value="PortraintEpgList" />
-        <option value="channel" />
-        <option value="openBugly" />
-        <option value="节目单banner" />
-        <option value="竖屏banner" />
-        <option value="package:mine -tag~:gralloc4 " />
       </list>
     </option>
   </component>
