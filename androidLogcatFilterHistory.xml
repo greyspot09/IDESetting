@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:FlavorFunction tag:OppoReportTask tag:MainActivityLog tag:VivoReportTask" />
+    <option name="mostRecentlyUsed" value="tag:FlavorFunction tag:OppoReportTask tag:MainActivityLog tag:VivoReportTask tag:VivoReport" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:FlavorFunction tag:OppoReportTask tag:MainActivityLog tag:VivoReportTask tag:VivoReport" />
         <option value="tag:FlavorFunction tag:OppoReportTask tag:MainActivityLog tag:VivoReportTask" />
         <option value="tag:FlavorFunction tag:OppoReportTask tag:MainActivityLog" />
         <option value="tag:FlavorFunction tag:OppoReportTask " />
@@ -22,7 +23,6 @@
         <option value="tag:OkHttp tag:" />
         <option value="OkHttp" />
         <option value="FlavorFunction" />
-        <option value="tag:DramaApiDetailActivity" />
       </list>
     </option>
   </component>
