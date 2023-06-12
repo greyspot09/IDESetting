@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="tag:FlavorFunction tag:OppoReportTask tag:MainActivityLog tag:VivoReportTask tag:VivoReport" />
+        <option value="PortraintEpgList" />
         <option value="tag:FlavorFunction tag:OppoReportTask tag:MainActivityLog tag:VivoReportTask" />
         <option value="tag:FlavorFunction tag:OppoReportTask tag:MainActivityLog" />
         <option value="tag:FlavorFunction tag:OppoReportTask " />
@@ -22,7 +23,6 @@
         <option value="tag:OkHttp tag:FlavorFunction" />
         <option value="tag:OkHttp tag:" />
         <option value="OkHttp" />
-        <option value="FlavorFunction" />
       </list>
     </option>
   </component>
