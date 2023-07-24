@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="MainActivityLog" />
+    <option name="mostRecentlyUsed" value="package:mine  tag:[dramas]   " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine  tag:[dramas]   " />
+        <option value="package:mine  tag: [dramas]   " />
+        <option value="package:mine  [dramas]   " />
         <option value="package:mine " />
         <option value="MainActivityLog" />
         <option value="tag:FlavorFunction tag:OppoReportTask tag:ReportActiveHelper tag:VivoReportTask tag:VivoReport" />
@@ -20,9 +23,6 @@
         <option value="package:mine  " />
         <option value="package:mine  86806703025600" />
         <option value="package:mine  tag:DeviceEnv" />
-        <option value="86806703025600" />
-        <option value="8680" />
-        <option value="DeviceEnv" />
       </list>
     </option>
   </component>
