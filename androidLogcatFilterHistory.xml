@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine  tag:[dramas]   " />
+    <option name="mostRecentlyUsed" value="ADLoader" />
     <option name="nonFavorites">
       <list>
+        <option value="ADLoader" />
         <option value="package:mine  tag:[dramas]   " />
         <option value="package:mine  tag: [dramas]   " />
         <option value="package:mine  [dramas]   " />
@@ -22,7 +23,6 @@
         <option value="tag:OkHttp tag:FlavorFunction tag:OppoReportTask" />
         <option value="package:mine  " />
         <option value="package:mine  86806703025600" />
-        <option value="package:mine  tag:DeviceEnv" />
       </list>
     </option>
   </component>
