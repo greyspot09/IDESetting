@@ -1,18 +1,18 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="oaid" />
+    <option name="mostRecentlyUsed" value="BeiziSplash" />
     <option name="nonFavorites">
       <list>
+        <option value="BeiziSplash" />
+        <option value="ADLoader" />
         <option value="oaid" />
         <option value="oaidoaid" />
         <option value="loader" />
-        <option value="BeiziSplash" />
         <option value="BeiZi" />
         <option value="tag=:BeiZis" />
         <option value="tag=:BeiZi" />
         <option value="tag:BeiZi" />
         <option value="BeiZiBeiZi" />
-        <option value="ADLoader" />
         <option value="package:mine  tag:[dramas]   " />
         <option value="package:mine  tag: [dramas]   " />
         <option value="package:mine  [dramas]   " />
