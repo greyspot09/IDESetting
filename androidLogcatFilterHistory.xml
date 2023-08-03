@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="BeiziSplash" />
+    <option name="mostRecentlyUsed" value="oaid" />
     <option name="nonFavorites">
       <list>
+        <option value="oaid" />
+        <option value="oaidoaid" />
         <option value="loader" />
         <option value="BeiziSplash" />
         <option value="BeiZi" />
@@ -21,8 +23,6 @@
         <option value="PortraintEpgList" />
         <option value="tag:FlavorFunction tag:OppoReportTask tag:MainActivityLog tag:VivoReportTask" />
         <option value="tag:FlavorFunction tag:OppoReportTask tag:MainActivityLog" />
-        <option value="tag:FlavorFunction tag:OppoReportTask " />
-        <option value="tag:FlavorFunction tag:OppoReportTask tag:okhttp " />
       </list>
     </option>
   </component>
