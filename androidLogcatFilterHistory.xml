@@ -3,6 +3,11 @@
     <option name="mostRecentlyUsed" value="ADLoader" />
     <option name="nonFavorites">
       <list>
+        <option value="BeiZi" />
+        <option value="tag=:BeiZis" />
+        <option value="tag=:BeiZi" />
+        <option value="tag:BeiZi" />
+        <option value="BeiZiBeiZi" />
         <option value="ADLoader" />
         <option value="package:mine  tag:[dramas]   " />
         <option value="package:mine  tag: [dramas]   " />
@@ -18,11 +23,6 @@
         <option value="tag:FlavorFunction tag:OppoReportTask tag:okhttp " />
         <option value="tag:FlavorFunction tag:OppoReportTask" />
         <option value="tag:FlavorFunction tag:OppoReportTask tag:DeviceEnv" />
-        <option value="tag:FlavorFunction tag:OppoReportTask tag:MainActivityLog tag:DeviceEnv" />
-        <option value="66ba24414510a82b176dd01909e75401" />
-        <option value="tag:OkHttp tag:FlavorFunction tag:OppoReportTask" />
-        <option value="package:mine  " />
-        <option value="package:mine  86806703025600" />
       </list>
     </option>
   </component>
