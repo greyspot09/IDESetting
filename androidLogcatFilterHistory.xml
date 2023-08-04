@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="BeiziSplash" />
+    <option name="mostRecentlyUsed" value="ADLoader" />
     <option name="nonFavorites">
       <list>
-        <option value="BeiziSplash" />
         <option value="ADLoader" />
+        <option value="BeiziSplash" />
         <option value="oaid" />
         <option value="oaidoaid" />
         <option value="loader" />
