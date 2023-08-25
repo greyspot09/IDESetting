@@ -1,12 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="[track]" />
     <option name="nonFavorites">
       <list>
+        <option value="[track]" />
+        <option value="DataReport" />
         <option value="$AppViewScreen" />
         <option value="ViewScr" />
         <option value="神策上报数据" />
-        <option value="[track]" />
         <option value="package:mine " />
         <option value="ADLoader" />
         <option value="BeiziSplash" />
@@ -22,7 +23,6 @@
         <option value="package:mine  tag: [dramas]   " />
         <option value="package:mine  [dramas]   " />
         <option value="MainActivityLog" />
-        <option value="tag:FlavorFunction tag:OppoReportTask tag:ReportActiveHelper tag:VivoReportTask tag:VivoReport" />
       </list>
     </option>
   </component>
