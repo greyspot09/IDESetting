@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="ADLoader" />
+    <option name="mostRecentlyUsed" value="AdGetPlugin" />
     <option name="nonFavorites">
       <list>
+        <option value="AdGetPlugin" />
         <option value="ADLoader" />
         <option value="SnmiAdResponse" />
         <option value="AdGetManager" />
@@ -22,7 +23,6 @@
         <option value="tag=:BeiZis" />
         <option value="tag=:BeiZi" />
         <option value="tag:BeiZi" />
-        <option value="BeiZiBeiZi" />
       </list>
     </option>
   </component>
