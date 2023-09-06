@@ -1,12 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="AdGetManager" />
+    <option name="mostRecentlyUsed" value="ADLoader" />
     <option name="nonFavorites">
       <list>
+        <option value="ADLoader" />
         <option value="SnmiAdResponse" />
         <option value="AdGetManager" />
         <option value="AdGetManagerAdGetManager" />
-        <option value="ADLoader" />
         <option value="RequestHelper" />
         <option value="[track]" />
         <option value="DataReport" />
