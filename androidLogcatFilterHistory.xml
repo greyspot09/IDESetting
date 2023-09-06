@@ -1,10 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="RequestHelper" />
+    <option name="mostRecentlyUsed" value="AdGetManager" />
     <option name="nonFavorites">
       <list>
-        <option value="RequestHelper" />
+        <option value="SnmiAdResponse" />
+        <option value="AdGetManager" />
+        <option value="AdGetManagerAdGetManager" />
         <option value="ADLoader" />
+        <option value="RequestHelper" />
         <option value="[track]" />
         <option value="DataReport" />
         <option value="$AppViewScreen" />
@@ -20,9 +23,6 @@
         <option value="tag=:BeiZi" />
         <option value="tag:BeiZi" />
         <option value="BeiZiBeiZi" />
-        <option value="package:mine  tag:[dramas]   " />
-        <option value="package:mine  tag: [dramas]   " />
-        <option value="package:mine  [dramas]   " />
       </list>
     </option>
   </component>
