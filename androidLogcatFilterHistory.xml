@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="wechatPay" />
     <option name="nonFavorites">
       <list>
+        <option value="wechatPay" />
         <option value="ADLoader" />
         <option value="AdGetItem" />
         <option value="ADGet" />
@@ -22,7 +23,6 @@
         <option value="oaid" />
         <option value="oaidoaid" />
         <option value="loader" />
-        <option value="BeiZi" />
       </list>
     </option>
   </component>
