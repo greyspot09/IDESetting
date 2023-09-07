@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="wechatPay" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="wechatPay" />
         <option value="WXNontaxPayWXNontaxPay" />
         <option value="MicroMsg.SDK.WXNontaxPay.Req" />
@@ -20,7 +21,6 @@
         <option value="$AppViewScreen" />
         <option value="ViewScr" />
         <option value="神策上报数据" />
-        <option value="package:mine " />
         <option value="BeiziSplash" />
         <option value="oaid" />
       </list>
