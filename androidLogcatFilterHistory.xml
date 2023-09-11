@@ -1,9 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="tag:AdGetItem tag:ADloader" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:AdGetItem tag:ADloader" />
+        <option value="tag:AdGetItem" />
+        <option value="tag:AdGetItem tag:adloader  " />
+        <option value="ADLoader " />
         <option value="ADLoader" />
+        <option value="[adloader]" />
         <option value="package:mine " />
         <option value="wechatPay" />
         <option value="WXNontaxPayWXNontaxPay" />
@@ -18,11 +23,6 @@
         <option value="RequestHelper" />
         <option value="[track]" />
         <option value="DataReport" />
-        <option value="$AppViewScreen" />
-        <option value="ViewScr" />
-        <option value="神策上报数据" />
-        <option value="BeiziSplash" />
-        <option value="oaid" />
       </list>
     </option>
   </component>
