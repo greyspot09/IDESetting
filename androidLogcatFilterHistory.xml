@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:AdGetItem tag:ADloader" />
+    <option name="mostRecentlyUsed" value="tag:ADGet tag:AdGetPlugin tag:ADLoader" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:ADGet tag:AdGetPlugin tag:ADLoader" />
+        <option value="tag:ADGet tag:AdGetPlugin" />
+        <option value="tag:ADGet" />
         <option value="tag:AdGetItem tag:ADloader" />
         <option value="tag:AdGetItem" />
         <option value="tag:AdGetItem tag:adloader  " />
@@ -20,9 +23,6 @@
         <option value="SnmiAdResponse" />
         <option value="AdGetManager" />
         <option value="AdGetManagerAdGetManager" />
-        <option value="RequestHelper" />
-        <option value="[track]" />
-        <option value="DataReport" />
       </list>
     </option>
   </component>
