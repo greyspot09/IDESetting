@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="tag:ADGet tag:AdGetPlugin tag:ADLoader" />
     <option name="nonFavorites">
       <list>
+        <option value="AdGetPlugin" />
         <option value="tag:ADGet tag:AdGetPlugin tag:ADLoader" />
         <option value="tag:ADGet tag:AdGetPlugin" />
         <option value="tag:ADGet" />
@@ -19,7 +20,6 @@
         <option value="AdGetItem" />
         <option value="ADGet" />
         <option value="tag:FlavorFunction tag:OppoReportTask tag:ReportActiveHelper tag:VivoReportTask tag:VivoReport" />
-        <option value="AdGetPlugin" />
         <option value="SnmiAdResponse" />
         <option value="AdGetManager" />
         <option value="AdGetManagerAdGetManager" />
