@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="ADLoader" />
     <option name="nonFavorites">
       <list>
+        <option value="ADLoader" />
         <option value="AdGetPlugin" />
         <option value="tag:ADGet tag:AdGetPlugin tag:ADLoader" />
         <option value="tag:ADGet tag:AdGetPlugin" />
@@ -11,7 +12,6 @@
         <option value="tag:AdGetItem" />
         <option value="tag:AdGetItem tag:adloader  " />
         <option value="ADLoader " />
-        <option value="ADLoader" />
         <option value="[adloader]" />
         <option value="package:mine " />
         <option value="wechatPay" />
