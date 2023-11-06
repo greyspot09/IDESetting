@@ -4,6 +4,17 @@
       <PhysicalDevice>
         <key>
           <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="822QEDTJ227SJ" />
+          </Key>
+        </key>
+        <name value="Meizu M1822" />
+        <target value="Android 8.1" />
+        <api value="androidversion:27:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
             <type value="DOMAIN_NAME" />
             <value value="adb-9582360318004YR-ybKPlf._adb-tls-connect._tcp." />
           </Key>
@@ -65,17 +76,6 @@
         <name value="HUAWEI HRY-AL00a" />
         <target value="Android 10.0" />
         <api value="androidversion:29:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="822QEDTJ227SJ" />
-          </Key>
-        </key>
-        <name value="Meizu M1822" />
-        <target value="Android 8.1" />
-        <api value="androidversion:27:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
