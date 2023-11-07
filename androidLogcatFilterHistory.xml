@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="ADLoader" />
+    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
+        <option value="package:mine level:error " />
+        <option value="package:mine " />
+        <option value="package:mine ADLoader" />
         <option value="ADLoader" />
         <option value="AdGetPlugin" />
         <option value="tag:ADGet tag:AdGetPlugin tag:ADLoader" />
@@ -13,16 +17,12 @@
         <option value="tag:AdGetItem tag:adloader  " />
         <option value="ADLoader " />
         <option value="[adloader]" />
-        <option value="package:mine " />
         <option value="wechatPay" />
         <option value="WXNontaxPayWXNontaxPay" />
         <option value="MicroMsg.SDK.WXNontaxPay.Req" />
         <option value="AdGetItem" />
         <option value="ADGet" />
         <option value="tag:FlavorFunction tag:OppoReportTask tag:ReportActiveHelper tag:VivoReportTask tag:VivoReport" />
-        <option value="SnmiAdResponse" />
-        <option value="AdGetManager" />
-        <option value="AdGetManagerAdGetManager" />
       </list>
     </option>
   </component>
