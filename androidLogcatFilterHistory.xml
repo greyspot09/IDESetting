@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine" />
+    <option name="mostRecentlyUsed" value="package:mine channel" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine channel" />
+        <option value="package:mine huawei" />
         <option value="package:mine" />
         <option value="package:mine level:error " />
         <option value="package:mine " />
@@ -21,8 +23,6 @@
         <option value="WXNontaxPayWXNontaxPay" />
         <option value="MicroMsg.SDK.WXNontaxPay.Req" />
         <option value="AdGetItem" />
-        <option value="ADGet" />
-        <option value="tag:FlavorFunction tag:OppoReportTask tag:ReportActiveHelper tag:VivoReportTask tag:VivoReport" />
       </list>
     </option>
   </component>
