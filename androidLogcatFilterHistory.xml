@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine channel" />
+    <option name="mostRecentlyUsed" value="[shop]" />
     <option name="nonFavorites">
       <list>
+        <option value="[shop]" />
+        <option value="flutter" />
         <option value="package:mine channel" />
         <option value="package:mine huawei" />
         <option value="package:mine" />
@@ -21,8 +23,6 @@
         <option value="[adloader]" />
         <option value="wechatPay" />
         <option value="WXNontaxPayWXNontaxPay" />
-        <option value="MicroMsg.SDK.WXNontaxPay.Req" />
-        <option value="AdGetItem" />
       </list>
     </option>
   </component>
