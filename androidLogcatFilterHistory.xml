@@ -1,15 +1,17 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="[shop]" />
+    <option name="mostRecentlyUsed" value="ConfigRequestProxy" />
     <option name="nonFavorites">
       <list>
+        <option value="ConfigRequestProxy" />
+        <option value="package:mine ConfigRequestProxy" />
+        <option value="package:mine " />
         <option value="[shop]" />
         <option value="flutter" />
         <option value="package:mine channel" />
         <option value="package:mine huawei" />
         <option value="package:mine" />
         <option value="package:mine level:error " />
-        <option value="package:mine " />
         <option value="package:mine ADLoader" />
         <option value="ADLoader" />
         <option value="AdGetPlugin" />
@@ -21,8 +23,6 @@
         <option value="tag:AdGetItem tag:adloader  " />
         <option value="ADLoader " />
         <option value="[adloader]" />
-        <option value="wechatPay" />
-        <option value="WXNontaxPayWXNontaxPay" />
       </list>
     </option>
   </component>
