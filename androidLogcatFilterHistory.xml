@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine  kanxue" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine  kanxue" />
         <option value="package:mine " />
         <option value="ConfigRequestProxy" />
         <option value="package:mine ConfigRequestProxy" />
@@ -21,7 +23,6 @@
         <option value="tag:AdGetItem" />
         <option value="tag:AdGetItem tag:adloader  " />
         <option value="ADLoader " />
-        <option value="[adloader]" />
       </list>
     </option>
   </component>
